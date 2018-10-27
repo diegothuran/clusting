@@ -1,0 +1,3358 @@
+UNIVERSIDADE ESTADUAL DE MARINGÁ
+UNIVERSIDADE ESTADUAL DE LONDRINA
+PROGRAMA DE PÓS-GRADUAÇÃO EM ADMINISTRAÇÃO
+MOISÉS DA SILVA MARTINS
+UM ESTUDO PARA IMPLANTAÇÃO DO E-COMMERCE
+NO SETOR IMOBILIÁRIO EM CIDADES DE MÉDIO
+PORTE
+Maringá
+2003
+Livros Grátis
+http://www.livrosgratis.com.br
+Milhares de livros grátis para download.
+UNIVERSIDADE ESTADUAL DE MARINGÁ
+UNIVERSIDADE ESTADUAL DE LONDRINA
+PROGRAMA DE PÓS-GRADUAÇÃO EM ADMINISTRAÇÃO
+MOISÉS DA SILVA MARTINS
+UM ESTUDO PARA IMPLANTAÇÃO DO E-COMMERCE NO
+SETOR IMOBILIÁRIO EM CIDADES DE MÉDIO PORTE
+Dissertação apresentada à Universidade Estadual
+de Maringá, como parte dos requisitos para
+obtenção de título de Mestre em Administração,
+sob a orientação do Prof. Dr. Álvaro José
+Periotto.
+Maringá
+2003
+2
+UNIVERSIDADE ESTADUAL DE MARINGÁ
+UNIVERSIDADE ESTADUAL DE LONDRINA
+PROGRAMA DE PÓS-GRADUAÇÃO EM ADMINISTRAÇÃO – PPA
+MOISÉS DA SILVA MARTINS
+UM ESTUDO PARA IMPLANTAÇÃO DO E-COMMERCE NO
+SETOR IMOBILIÁRIO EM CIDADES DE MÉDIO PORTE
+Aprovada em 19/12/2003.
+Dissertação aprovada como requisito para
+obtenção do grau de Mestre no Programa de
+Pós-Graduação em Administração,
+Universidade Estadual de Maringá e
+Universidade Estadual de Londrina, pela
+seguinte banca examinadora:
+_______________________________________
+Prof. Dr. Álvaro José Periotto (PPA-UEM)
+_______________________________________
+Prof. Dr. Moacir José da Silva (UEM)
+______________________________________
+Prof. Dr. José Paulo de Souza (PPA-UEM)
+3
+AGRADECIMENTOS
+A Deus que me deu força, discernimento e garra no desenvolvimento deste trabalho.
+Aos meus filhos, Allyson e Hector e minha esposa Márcia pela doação do tempo de
+convivência com o pai e o marido em suas infindáveis pesquisas dedicados a este texto.
+Ao meu orientador, prezado mestre Prof. Dr. Álvaro José Periotto, cujo incentivo, otimismo e
+confiança foram fundamentais nas horas de angustias. Um orientador sério, paciente,
+compreensivo, capaz de provocar a reflexão e aprofundamento; e principalmente através
+de críticas construtivas, aumentar a motivação.
+À Dalva Greghi, pela paciência na leitura e correção ortográfica dos rascunhos.
+À Universidade Estadual de Maringá- UEM, que, por meio do Curso de Pós –Graduação em
+Administração, possibilita aos seus mestrandos um desenvolvimento e uma visão crítica e
+renovada sobre o processo de gestão e transformação das organizações.
+A todos os professores do Curso de Pós- Graduação em Administração.
+Ao Bruhmer, pela sua atenção, paciência, consideração e dedicação.
+À Eliane Morikoshi, por todo apoio e incentivo em nossas incansáveis viagens.
+Aos respondentes da pesquisa, que tanto contribuíram para as conclusões.
+Enfim, a todos que fizeram com este estudo se concretizasse, colaborando com motivação,
+apoio, coragem e amor.
+4
+Não há verdadeira felicidade sem sabedoria, e
+esta pode ser encontrada em todas as fases da
+vida
+5
+SUMÁRIO
+LISTA DE TABELAS.................................................................................................. 07
+LISTA DE FIGURAS.................................................................................................. 08
+INTRODUÇÃO ............................................................................................................ 11
+CONSIDERAÇÕES GERAIS..................................................................................... 11
+PROBLEMA DE PESQUISA...................................................................................... 12
+OBJETIVOS DA PESQUISA ..................................................................................... 14
+JUSTIFICATIVA E RELEVÂNCIA DO PROBLEMA........................................... 15
+ORGANIZAÇÃO DO TRABALHO........................................................................... 17
+1 A EVOLUÇÃO, MUDANÇAS E TRANSFORMAÇÕES NA
+ADMINISTRAÇÃO..................................................................................................... 18
+1.1 HISTÓRIA DA ADMINISTRAÇÃO DO SÉCULO XX........................................ 18
+1.2 ABORDAGEM SISTÊMICA ................................................................................. 19
+1.3 ABORDAGEM CONTINGENCIAL ...................................................................... 20
+1.4 NOVA ABORDAGEM DA ADMINISTRAÇÃO NA ERA DA INFORMAÇÃO 20
+1.5 ADMINISTRAÇÃO DO SÉCULO XXI................................................................. 22
+1.6 AUTORES E SUAS PRINCIPAIS CONTRIBUIÇÕES ........................................ 26
+2 DESAFIOS E INFLUÊNCIAS DA TECNOLOGIA DA INFORMAÇÃO ........ 27
+2.1 TECNOLOGIA DA INFORMAÇÃO..................................................................... 27
+2.1.1 Definições Iniciais................................................................................................ 27
+2.1.2 Valor Estratégico da Tecnologia da Informação.............................................. 30
+2.2. A TI COMO ESTRATÉGIA COMPETITIVA....................................................... 31
+2.3. INTERNET COMO FOCO DE MUDANÇAS DOS NEGÓCIOS........................ 36
+2.3.1 Internet e Algumas Vantagens para o Mundo.................................................. 39
+2.3.2 A Internet no Brasil............................................................................................. 40
+2.3.3 Exploração Comercial da Internet no Brasil ................................................... 41
+2.4 ARQUITETURA E OPERAÇÕES DE SERVIÇOS ............................................. 42
+2.5 SEGURANÇA NA INTERNET ............................................................................. 43
+2.5.1 Firewall................................................................................................................. 46
+2.5.2 Criptografia ......................................................................................................... 47
+2.5.3 Protocolos e Padrões de Segurança na Internet............................................... 48
+2.6 USUÁRIOS DA INTERNET NO BRASIL ........................................................... 50
+2.6.1 Usuário e Hosts em Países Latina Americano .................................................. 50
+2.6.2 Hosts Internet nas Maiores Economias (por PIB) ........................................... 52
+2.7 INTRANETS .......................................................................................................... 53
+2.8 EXTRANETS ......................................................................................................... 54
+2.9 WORD WID WEB ................................................................................................. 54
+2.10 CARACTERÍSTICAS DA WEB ………………………………………….......... 55
+2.11 COMÉRCIO ELETRÔNICO NA INTERNET ..................................................... 55
+2.11.1 A logística e o Comércio Eletrônico ................................................................ 62
+2.11.2 O relacionamento no Comércio Eletrônico .................................................... 64
+2.11.3 Aspectos jurídicos do Comércio Eletrônico ................................................... 66
+2.11.4 Os dez mandamentos do Comércio Eletrônico .............................................. 68
+3 O PROCESSO EVOLUTIVO DO E-BUSINESS................................................... 71
+6
+3.1 GESTÃO DA QUALIDADE TOTAL EM E-BUSINESS ..................................... 73
+3.1.1 Just in time .......................................................................................................... 74
+3.1.2 Kanban................................................................................................................. 74
+3.1.3 Kaizen ................................................................................................................. 74
+3.2 REENGENHARIA……………………………………………………………..... 74
+3.3 MUDANÇA............................................................................................................. 76
+3.4 RELACIONAMENTOS EXTERNOS EM E-BUSINESS ...................................... 78
+3.4.1 Definição de Business to Business e vantagem ................................................ 78
+3.5 BUSINESS TO CONSUMER E APLICAÇÃO ........................................................ 79
+3.6 ESTÁGIO DE TRANSIÇÕES PARA O E-BUSINESS........................................ 79
+3.7 DEZ REGRAS DO E-BUSINESS ......................................................................... 80
+3.8 DEZ MANDAMENTOS DO E-BUSINESS .......................................................... 82
+3.9 IMPLEMENTAÇÃO E CAMINHOS PARA O E-BUSINESS ............................ 82
+3.10 TECNOLOGIAS EM E-BUSINESS ...................................................................... 86
+3.11 GERENCIAMENTO DO RELACIONAMENTO COM O CONSUMIDOR ...... 87
+3.12 O ENTERPRISE RESOURCE PLANING INTEGRADO AO E-BUSINESS........ 91
+4 ESTUDO METODOLÓGICO ............................................................................... 93
+4.1 PROCEDIMENTOS METODOLÓGICOS .......................................................... 93
+4.2 UNIVERSO E AMOSTRA .................................................................................... 96
+4.3 PROCEDIMENTOS ............................................................................................... 96
+4.4 QUANTIDADE DE RESPONDENTES DA AMOSTRA ..................................... 99
+4.5 CIDADES NAS QUAIS FORAM APLICADOS OS QUESTIONÁRIOS ........... 100
+4.6 TOTAL DE RESPONDENTES EM CADA CIDADE .......................................... 101
+4.7 ONDE FORAM COLETADOS OS DADOS ........................................................ 101
+4.8 CRITÉRIOS PARA ANÁLISE DO DADOS ........................................................ 102
+4.9 ANÁLISE DOS DADOS ........................................................................................ 102
+4.9.1 Análise do Resultados obtidos nas Imobiliárias ............................................... 103
+4.9.2 Analise de Dados Sobre a Utilização do Comércio Eletrônico por Parte
+dos Usuários do Setor Imobiliários............................................................................ 104
+CONCLUSÃO .............................................................................................................. 113
+REFERÊNCIAS ........................................................................................................... 117
+ANEXOS ....................................................................................................................... 122
+GLOSSÁRIO ................................................................................................................ 137
+7
+LISTA DE TABELAS
+TABELA 01 – OBJETIVOS ESPECÍFICOS E QUESTÕES DE PESQUISA ...................... 15
+TABELA 02 – PRINCIPAIS CONTRIBUIÇÕES PARA A ADMINISTRAÇÃO DO
+SÉCULO XX ......................................................................................................................... 26
+TABELA 03 – ........................................................................................................................ 51
+TABELA 04 - .......................................................................................................................... 52
+TABELA 05 – QUANTIDADE MÍNIMA DE ELEMENTOS ............................................ 100
+TABELA 06 – POPULAÇÃO E QUANTIDADE DE IMOBILIÁRIAS EM CADA CIDADE
+................................................................................................................................................ 100
+TABELA 07 – TOTAL DE RESPONDENTES DE CADA CIDADE ................................ 101
+TABELA 08 – ELABORADA PELO AUTOR DA DISSERTAÇÃO ................................ 105
+8
+LISTA DE FIGURAS
+FIGURA 01 – EXEMPLIFICAÇÃO DE UM BACKBONE .................................................. 42
+FIGURA 02 – EXEMPLIFICAÇÃO DAS FIREWALSS DA INTERNET ............................ 46
+FIGURA 03 – EXEMPLIFICAÇÃO DE UM PROCESSO DE MUDANÇA E
+REENGENHARIA ................................................................................................................. 77
+FIGURA 04 – CAMINHO PARA O E-BUSINESS ................................................................ 85
+FIGURA 05 – CAMINHO PARA O E-BUSINESS II ............................................................ 85
+FIGURA 06 – SERVIR MELHOR SEUS CLIENTES .......................................................... 86
+FIGURA 07 – VALOR DO CUSTOMER RELATIONSHIP MANAGEMENT ..................... 90
+FIGURA 08 - ........................................................................................................................ 106
+FIGURA 09 - ........................................................................................................................ 107
+FIGURA 10 - ........................................................................................................................ 107
+FIGURA 11 - ........................................................................................................................ 108
+FIGURA 12 - ........................................................................................................................ 108
+FIGURA 13 - ........................................................................................................................ 109
+FIGURA 14 - ........................................................................................................................ 109
+FIGURA 15 - ........................................................................................................................ 110
+FIGURA 16 - ........................................................................................................................ 111
+FIGURA 17 - ........................................................................................................................ 111
+FIGURA 18 - ........................................................................................................................ 112
+9
+RESUMO
+Vivem-se momentos em que a evolução da tecnologia exige das empresas uma reestruturação
+rápida e competitiva nos negócios. O presente trabalho apresenta um estudo das viabilidades
+do comércio eletrônico focado no setor imobiliário, enfatizando as estratégias competitivas
+com tecnologia da informação e, em especial, com o e-business. Parte-se do ambiente de
+incerteza e mudanças vividas na atualidade, bem como dos novos paradigmas colocados pela
+revolução tecnológica, para enfocar a Internet como resposta adequada à sobrevivência
+das empresas. A partir das características específicas do e-commerce busca-se identificar,
+por meio de pesquisa campo, sua viabilidade para o setor imobiliário.
+Palavras-chaves: Tecnologia da Informação, comércio eletrônico, negócios.
+10
+ABSTRACT
+We live in times when technology evolution demands from the companies a quick and
+competitive business restructuration. Such work presents a research of e-commerce viabilities
+focused on the real state area emphasizing competitive strategies with information technology
+and e-business. Starting from the environment of uncertainty and changes lived nowadays, as
+well as the new paradigms created by the technology revolution, to focus the internet as the
+correct answer to the companies survival. From the e-commerce specific carachteristics
+definition, we try to identify, by means of research, its real state viability.
+Key-words: information, e-commerce, e-business.
+11
+INTRODUÇÃO
+CONSIDERAÇÕES INICIAIS
+Vive-se um período de aceleradas mudanças em quase todos os campos da existência.
+Processos como a revolução nos transportes, nas telecomunicações e a globalização
+transformaram absolutamente o cotidiano das pessoas. De uma maneira ilustrativa, o
+historiador Hobsbawn (1997) afirmou que atualmente se pode levar a cada residência, todos
+os dias, a qualquer hora, mais informações e diversão do que dispunham os imperadores em
+1914. Drucker (1999) disse que os maiores destaques na inovação tecnológica encontram-se
+nas tecnologias da informação.
+As mudanças têm impactos diretos sobre as empresas, tanto em virtude de efeitos
+sobre o ambiente e meio nos quais as mesmas estejam inseridas, como em relação ao leque de
+produtos e serviços que ofereçam.
+Dada a intensidade e o curto espaço de tempo com que foram introduzidas as
+aplicações que modificaram os processos de negócios, produção e distribuição, justifica-se o
+uso do termo revolução. Criou-se um padrão de descontinuidade na base material da
+economia, sociedade e da cultura. Castells (1999), ao analisar esse fenômeno, argumentou
+que a característica central da atual “revolução tecnológica” é a aplicação dos conhecimentos
+e da informação disponível ao processo de geração de novos conhecimentos e de dispositivos
+de processamento e comunicação da informação, em um ciclo de realimentação cumulativa
+entre a inovação e o seu uso mais imediato e, conseqüentemente, a difusão da tecnologia
+amplia-se dela e a redefine.
+Drucker (1993) incorporou esse conceito em uma proposta de qualificação
+cronológica da evolução do ambiente empresarial. Para ele, a revolução dos negócios, nos
+12
+primórdios do século XIX, foi um período de aplicação do conhecimento em ferramentas,
+produtos e processos. A partir de 1880, culminando com o fim da segunda guerra mundial,
+predominou a aplicação do conhecimento ao trabalho, período que Drucker denominou de
+“Revolução da Produtividade”, caracterizado pela aplicação de princípios tayloristas. A
+última fase, que se estende até a atualidade, foi chamada por este de “Revolução Gerencial”,
+quando o conhecimento é aplicado ao próprio conhecimento, gerando uma dinâmica
+intrínseca no processo de sua reprodução.
+Acredita-se que a maior revolução nos negócios e serviços, no processo da inovação
+tecnológica, foi ocasionada no setor que envolve os computadores e periféricos, softwares,
+redes e produtos, e serviços baseados na Internet. Sendo assim, é, sem dúvida, importante
+sondar o impacto dessas novas tecnologias nas empresas e seus respectivos negócios.
+PROBLEMA DE PESQUISA
+A administração de e-business, para uma empresa, é uma tarefa difícil e ilimitada.
+Difícil, porque o negócio através de meios eletrônicos ainda não está totalmente
+regulamentado em nosso país, e tudo em e-bussines é muito mais veloz que a economia velha;
+sendo assim, os erros aparecem com maior rapidez; ilimitada, porque são muitos os seus
+caminhos, e a implementação de um e-business não implica automaticamente na venda de
+produtos pela Internet. Segundo Frankenberg (2001), vice-presidente sênior do marketing da
+Onysoftware, o e-business deve incluir ferramentas e estratégias específicas para a conquista
+de clientes potenciais on-line, pesquisas na Web, atendimento e assistência a clientes,
+gerenciamento on-line do perfil do cliente, entre outros.
+Vive-se um momento de aceleradas transformações tecnológicas, decorrentes de um
+acúmulo de informações sem precedentes, cujos limites são impossíveis de se visualizar,
+13
+dadas as dimensões da Internet: uma ampla rede de computadores, que proporciona às
+empresas e a seus clientes as habilidades de ver e interagir com as informações, sob seus
+diferentes aspectos.
+Segundo Frankenberg (2001), conforme dados da Associação das Mídias Interativas,
+publicados na Revista HSM (2001), em 2005 a Internet deverá ter um bilhão de usuários e
+poderá servir como instrumento para efetuar transações de aproximadamente dois bilhões de
+dólares. Estima-se que, no Brasil, em menos de três anos, as transações comerciais realizadas
+na “grande rede” poderão chegar a quatro bilhões de dólares. Por isso, as empresas que não
+acompanharem esse avanço tecnológico perderão posições e poderão até desaparecer do
+mercado.
+Neste meio, um setor que merece especial atenção é o dos “negócios imobiliários”. No
+e-business, tendo-se uma home page como ponto de partida, os corretores podem “mostrar os
+imóveis” sem sair de seus escritórios, exibindo filmagens e informações on-line, enquanto que
+os compradores podem pesquisar imóveis, com base na localização, no preço ou outros
+parâmetros convenientes. Ao encontrarem os imóveis que atendam às suas necessidades,
+poderão ter descrições mais detalhadas e até visitar virtualmente suas dependências.
+Portanto, os consumidores podem ter acesso aos imóveis no conforto de seus lares, antes de
+entrarem em contato com um corretor. Depois de explorarem bancos de dados de vários
+corretores, poderão optar pelas melhores condições e agilizar os encaminhamentos via
+Internet, ou prosseguir com o negócio pela forma convencional.
+Embora esse quadro ainda pareça ficção para muitos, o fato é que o comércio
+imobiliário parece ter encontrado no e-business um novo impulso, ( Frankenberg ,2001).
+Diante disso, surgem várias questões, algumas sob a ótica do cliente, que observa as
+empresas e os serviços do setor imobiliário sob essas perspectivas. Outras questões partem da
+empresa e têm foco no cliente, buscando respostas adequadas, em especial para marketing; e
+14
+outras, ainda, nascem dentro das próprias empresas, buscando soluções administrativas para o
+e-business.
+O desdobramento dessas questões sob as diferentes óticas aqui posicionadas é um
+diagnóstico fundamentado nas recentes teorias sobre o e-business que compõem a
+problemática desse projeto, podendo subsidiar importante referencial sobre o comércio
+eletrônico no setor imobiliário.
+OBJETIVOS DA PESQUISA
+Para atender a proposta de pesquisa, apresentam-se, a seguir, os objetivos deste
+trabalho, em âmbitos geral e específico.
+Objetivo Geral:
+Estudar o Comércio Eletrônico com vistas a sua implantação no Setor Imobiliário em
+cidades com uma população menor ou igual a de 200 mil habitantes.
+Objetivos Específicos:
+1. Caracterizar usuários do Comércio Eletrônico;
+2. Identificar a Internet como ferramenta necessária para a realidade do setor imobiliário;
+3. Avaliar vantagens da implantação de um site imobiliário;
+4. Comparar os investimentos em empresas virtuais e em empresa comum;
+15
+5. Avaliar os usuários quanto ao tempo e uso da Internet;
+6. Avaliar as estratégias de e-business aplicadas pelas imobiliárias;
+7. Identificar a disposição de mudanças para o e-business;
+8. Avaliar o grau de satisfação e as expectativas dos clientes quanto ao e-business.
+Para alcançar estes objetivos específicos formularam-se questões que foram
+respondidas durante a pesquisa. A tabela abaixo apresenta os objetivos específicos e as
+questões de pesquisa relacionadas com o respectivo objetivo .
+TABELA 1 – OBJETIVOS ESPECÍFICOS E QUESTÕES DE PESQUISA
+OBJETIVOS ESPECÍFICOS QUESTÕES DA PESQUISA
+1-Caracterizar os usuários do C.E. -Questões de 1 a 5 do anexo 1
+2-Identificar a Internet com ferramenta necessária
+para a realidade atual do Setor Imobiliário.
+-Questões de 6 a 11 do anexo 1
+3-Avaliar as vantagens da implantação de um site
+imobiliário.
+-Questões de 12 a 13 do anexo l
+4-Avaliar os usuários quanto ao tempo de uso da
+Internet.
+-Questão 8 do anexo 1
+5- Comparar investimentos em empresas virtuais
+com os da empresa comum.
+-Questões 1 a 3 do anexo 2
+6-Avaliar as estratégias de e-business aplicadas pelas
+imobiliárias.
+-Questões de 4 a 9 do anexo 2
+7-Identificar a disposição de mudança da empresas
+para o e-business
+-Questões de 10 a 13 do anexo 2
+8-Avaliar a satisfação e as expectativas dos clientes
+quanto ao e-business
+-Questões de 14 a 15 do anexo 2
+Fonte: Elaborado pelo autor
+JUSTIFICATIVA E RELEVÂNCIA DO PROBLEMA
+Segundo O’Brien (2002), a empresa é um sistema aberto que pode ser dividido em
+subsistemas, cujo sistema de informação constitui um subsistema, assim como Marketing,
+Recursos Humanos, Sistemas de Produção, etc, estando sempre em sinergia para o bom
+funcionamento. Sob esse ponto de vista, a tecnologia é um componente fundamental,
+16
+permitindo que as informações fluam com grande rapidez, e, por causa da eficiência, os
+riscos em projetos virtuais poderão ser ponderados com uma certa antecedência.
+De acordo com Davenport e Prusak (2001), dentro dos próximos anos, o amplo
+volume de dados que flui entre as organizações, movendo o sistema econômico, será
+totalmente intercambiado eletronicamente, restando às organizações que compreenderem essa
+tendência um desenvolvimento pleno no comércio eletrônico, e, às demais, que não aceitarem
+tal desenvolvimento, o desaparecimento do mercado.
+Nesse cenário e sob a luz do e-business, vários conceitos da administração devem
+sofrer uma nova leitura (ALBERTIN, 2000; FRANCO, 2001). Na Internet, por exemplo, as
+empresas possuem seu quadro de funcionários reduzido, pois boa parte de atendimento,
+venda, locação e transação financeira é realizada via rede, com custos reduzidos.
+No Comércio Eletrônico imobiliário, os corretores se beneficiarão à medida que os
+consumidores ligarem e pedirem para ver as casas específicas por eles selecionadas. Pode
+haver mais “prospectes” reais cientes do pretendido e se decidirem mais rápido do que no
+comércio normal.
+O investimento em uma loja virtual é bem menor do que qualquer outro investimento
+de qualidade, portanto também acessível a pequenas e médias empresas.
+Entretanto, o que se encontra na prática são situações genéricas e que, a rigor, não
+oferecem maiores sustentações às decisões sobre a aplicabilidade do e-business em um setor
+específico, como é o setor imobiliário (FERNANDES, 2000, p. 72).
+Assim, a prospecção sistemática de informações específicas e o aprofundamento de
+estudos sobre as questões estratégicas poderiam contribuir para uma visão mais realista desse
+segmento e auxiliar de maneira mais efetiva os estudos de viabilidade.
+17
+ORGANIZAÇÃO DO TRABALHO
+Essa Dissertação está organizada da seguinte maneira, em relação ao seu conteúdo:
+INTRODUÇÃO
+1 EVOLUÇÃO, MUDANÇAS E TRANSFORMAÇÕES NA ADMINISTRAÇÃO.
+2 DESAFIOS E INFLUÊNCIAS DA TECNOLOGIA DA INFORMAÇÃO.
+INTERNET, WEB, E COMÉRCIO ELETRÔNICO
+3 PROCESSO EVOLUTIVO DO E-BUSINESS.
+GESTÃO DA QUALIDADE TOTAL E REENGENHARIA B2B, B2C, E-CRM E EERP
+4 ESTUDO METODOLÓGICO
+ANÁLISE DE DADOS E CONCLUSÃO
+ANEXOS E GLOSSÁRIO
+18
+1 A EVOLUÇÃO, MUDANÇAS E TRANSFORMAÇÕES NA
+ADMINISTRAÇÃO
+A administração tornou-se uma das mais importantes áreas da atividade humana. O
+século XX trouxe mudanças e transformações que influenciaram as organizações, a sua
+administração, comportamento e a maneira de realização dos negócios.
+Para Bateman (1998), a administração tornou-se vital e indispensável para a
+sociedade moderna, na qual a complexidade e a interdependência das organizações
+constituem o aspecto crucial de mudanças; afirma, ainda, que o século XX pode ser definido
+como o século das burocracias ou século das fábricas, apesar da mudança que se acelerou nas
+últimas décadas.
+Segundo Bennis (1999), o mundo assistiria mudanças na forma organizacional e que
+a organização burocrática daria lugar a uma forma mais adequada à demanda da era pósindustrial.
+Isto foi previsto com base no princípio evolucionário de que cada idade
+desenvolve uma forma organizacional apropriada a suas características.
+Para entender melhor a mudança, propõe-se uma revisão apenas na história recente
+da administração.
+1.1 HISTÓRIA DA ADMINISTRAÇÃO DO SÉCULO XX
+Em pesquisas, até o século XX, nenhum grande avanço foi feito na administração do
+e-business, o que permite a dar-se um salto na história, passando para a fase mais
+específica. Por volta de 1911, surgiu a Administração científica através de Frederick
+Winslow Taylor. Seu trabalho foi desenvolvido a partir das necessidades de melhorar a
+19
+qualidade do produto e reduzir custo de produção em empresas. Segundo Taylor, esses
+problemas decorriam da falta de padrões de desempenho e eficiência, e necessidade de
+orientação para tomadas de decisões mais conscientes e dirigidas para problemas específicos
+que geravam baixos níveis de interação entre o operário e o sistema produtivo.
+Uma pouco mais tarde, em 1916, surge, na Europa, a Teoria Clássica da
+Administração, criada por Henri Fayol, que indicava as funções do administrador
+(planejamento, organização, comando, coordenação e controle), e os princípios gerais de
+administração, aplicáveis a todas as organizações (BATEMAN, 1998). Ainda nesta década,
+segundo Lacava (1989), Max Weber criou uma teoria de estrutura de poder e autoridade, que
+denominou escola burocrática. A partir de então, segundo o mesmo autor, surgiram estudos
+que não podem caracterizar-se como escola propriamente dita, mas como abordagens
+teóricas, porque têm surgido em ondas e superpondo teorias.
+1.2 ABORDAGEM SISTÊMICA
+A abordagem sistêmica surgiu por volta de 1950 e teve seu momento épico com o
+surgimento da computação na administração, o que contribuiu para uma visão mais ampla da
+empresa no seu contexto global, considerando o ambiente com o grande agente participativo
+da vida da empresa e, como tal, exercendo influência sobre ela.
+20
+1.3 ABORDAGEM CONTINGENCIAL
+Derivada da abordagem sistêmica, ela não a modifica estruturalmente, mas coloca
+alguns parâmetros que auxiliam na compreensão dos fenômenos que ocorrem nos sistemas
+organizacionais, procurando isolar alguns determinantes situacionais que facilitam as
+decisões. As abordagens sistêmica e contingencial são a base deste trabalho, que é o
+desenvolvimento, evolução do Comércio Eletrônico e e-business, na nova era da informação.
+1.4 NOVA ABORDAGEM DA ADMINISTRAÇÃO NA ERA DA
+INFORMAÇÃO
+A década de 1990 marca o começo da terceira etapa do mundo organizacional, já que
+diversos autores consideram a Era clássica e a Era Neoclássica com sendo as primeiras.
+Para Bateman (1998), a terceira etapa é a era da informação, que veio com uma nova
+onda de mudanças e passou a sobrepor-se às características da era industrial. As mudanças e
+as transformações passam a serem gradativas mais rápidas e intensas, sobretudo
+descontínuas.
+A informação passou a cruzar o planeta em milésimos de segundos. A tecnologia da
+informação forneceu as condições básicas para o surgimento da globalização da economia e a
+economia internacional transformou-se em economia global. A competitividade tornou-se
+intensa entre as organizações. Em uma época em que todos dispõem das informações em
+tempo real, são mais bem sucedidas as organizações capazes de transformá-las rapidamente
+em oportunidades de novos produtos ou serviços, antes que seus concorrentes o façam.
+A era da informação, requer das organizações requerem agilidade, mobilidade,
+inovação e mudanças necessárias para enfrentar as novas ameaças e oportunidades, em um
+21
+ambiente de intensa mudança e turbulência. Os órgãos, (departamentos ou divisões), tornamse
+provisórios e não definitivos; os cargos e funções passam a ser definidos e redefinidos
+em razão das mudanças no ambiente e da tecnologia. Os produtos e serviços passam a ser
+continuamente ajustados às demandas e necessidades dos clientes.
+Acredita-se que a administração e administradores do século XXI sofrerão mudanças
+paulatinamente mais acentuadas, velozes e intensas no ambiente, nas organizações e nas
+pessoas. Os grandes desafios impostos aos administradores são diversos: como enfrentar
+competidores; como investir em novos produtos e serviços; como fazer alianças estratégicas
+com os concorrentes; como se comportar na era das redes (como a Internet); como oferecer
+serviços em tempo real, e assim por diante.
+Os elementos centrais dessa nova abordagem são a Internet, que é a rede mundial que
+interliga centenas de milhões de computadores a pessoas, equipes e organizações; e a World
+Wide Web, que são sofware de solução para a Internet. Segundo Bateman (1998), a lógica
+inquebrantável dessa abordagem é que não há mais lugar para se fazer as mesmas coisas do
+passado. Ele afirma, ainda, que o núcleo da sociedade moderna é a organização
+administrada.
+Tapscott (1999) enfoca as mudanças fundamentais na situação da economia mundial,
+na natureza das organizações, e a necessidade de um novo referencial na administração das
+empresas para poderem compreender e tratar as novas realidades na era da informação. Ainda
+segundo Tapscott (1999), as organizações dispõem de oportunidades sem precedentes para
+poderem desfrutar de novos mercados. Por outro lado, os mercados tradicionais estão
+mudando acentuadamente, encolhendo ou então tornando-se intensamente competitivos.
+Para Tachizawa (2001), a reestruturação das economias nacionais tem sido
+implacável, sendo em grande parte impulsionada por avanços da tecnologia da informação;
+afirma, ainda, que, com o mercado e seus protagonistas constantemente mudando, a
+22
+possibilidade de que as organizações possam estabelecer vantagem competitiva duradoura
+não existe mais. Diz, ainda, que, com a abordagem da Era da Informação, as tecnologias
+induzirão novas formas de gestão de negócios e, conseqüentemente, um novo tipo de
+administrador, agora conhecido por gestor. Esse profissional dos novos tempos tenderá a
+trabalhar em organizações menos hierárquicas cujo ambiente informacional possibilitará que
+grande número de pessoas possa se comunicar rapidamente por redes informatizadas.
+1.5 ADMINISTRAÇÃO DO SÉCULO XXI
+Para Drucker (1999), a organização tradicional e hierárquica encontra-se em fase de
+profundas mutações; afirma, ainda, que, do mesmo modo que as barreiras estão sendo
+desmanteladas na realidade política e econômica, as organizações do futuro estarão se
+tornando cada vez mais aberta.
+Galbraith (1995) diz que a transição do paradigma industrial para o paradigma pósindustrial
+estará sendo marcada pela flexibilidade dos processos e mercados de trabalho, dos
+produtos e padrões de consumo. Será caracterizada pelo surgimento de setores de produção
+inteiramente novos, novas maneiras de fornecimento de serviços e, sobretudo, taxas altamente
+intensificadas de inovação comercial, tecnológicas e organizacional.
+A análise das transformações é fundamental no campo da tecnologia e do
+processo de trabalho, comparando o à era industrial para a pós-industrial , que sintetiza a
+evolução do antigo (economia de escala) para o novo (economia de escopo). De tal
+comparação, segundo Tachizawa (2001) podem-se aferir as mudanças nas organizações, que
+se tornarão fatores relevantes a serem observados pelos gestores, em seus novos modelos de
+gestão. Tais fatores são:
+23
+• da produção em massa, bens homogêneos para a produção em pequenos lotes;
+• da uniformidade e padronização para a produção flexível de uma variedade de tipos
+de produtos;
+• de grandes estoques e inventários para um estágio sem estoques;
+• de testes de qualidade a posteriori para uma fase de controle de qualidade integrado
+ao processo;
+• de um estágio de produtos defeituosos nos estoques para uma fase de rejeição
+imediata de peças com defeito;
+• de perda de tempo por causa de longos períodos de preparo das máquinas, pontos de
+estrangulamento nos estoques, para uma fase de redução do tempo perdido,
+reduzindo-se a porosidade do dia de trabalho;
+• da organização voltada para os recursos para uma organização voltada para a
+demanda.
+Para Gates (1999), a administração do Século XXI deverá ser calcada basicamente no
+gestor, afirmando, ainda, que, para competir com maior eficácia, as organizações deverão
+introduzir iniciativas estratégicas de custos, agilidade, qualidade, compressão de tempo em
+ciclos operacionais, e implementando a todo momento novas tecnologias da informação.
+Quanto a atividades dos conhecimentos, Gattes (1999) afirma que o gestor do novo
+século deverá:
+24
+• Enfatizar para que a comunicação flua pela organização por e-mail, de forma que
+decisões ocorram com agilidade requerida pelos novos tempos;
+• Analisar os dados do mercado, de forma on-line, para identificar padrões,
+compreender tendências gerais e personalizar produtos e serviços para seus clientes;
+• Usar tecnologias da informação para a análise dos negócios e atividades operacionais,
+reservando aos profissionais do conhecimento os trabalhos intelectuais, de pensar em
+alto nível sobre os serviços e resultados econômicos financeiros;
+• Usar ferramentas digitais para criar equipes virtuais interdepartamentais que possam
+compartilhar tarefas, e aproveitar conhecimentos e idéias em tempo real. Usar sistemas
+informatizados para criação de acervo histórico da organização para uso
+compartilhado de todos;
+• Converter os tradicionais processos convencionais em papel para processos digitais;
+• Entender de tecnologia da informação tanto quanto entende de outra função na
+organização.
+Ainda, para Gates (1999), quanto às operações empresariais, o gestor necessitará de:
+• Ferramentas digitais para eliminar funções isoladas, ou transformá-las em atividades
+de valor agregado;
+• Circuitos ágeis de controle digital para melhorar a eficácia dos processos físicos, bem
+como da qualidade dos produtos e serviços. Cada elemento da organização deverá ser
+capaz de monitorar facilmente todos os principais parâmetros da organização.
+• Sistemas de informação digitais para encaminhar reclamações dos clientes, bem como
+de dados estratégicos do mercado;
+25
+• Comunicações digitais para redefinir a natureza e as fronteiras de seus negócios,
+interna e externamente à organização.
+Gates afirma, ainda, que, quanto à questão do comércio, o gestor deverá :
+• trocar informações por tempo, diminuindo os ciclos operacionais, por meio da
+utilização de transações digitais com todos os fornecedores e parceiros comerciais, e
+transformando cada processo de negócio numa interação just in time;
+• usar a transação digital de produtos e serviços para eliminar intermediários nas
+interações com clientes. Se a organização for um intermediário, usar ferramentas
+digitais para agregar valor e suas transações comerciais;
+• usar ferramentas digitais para auxiliar os próprios clientes a resolver problemas,
+reservando o contato pessoal para responder às necessidades complexas e de alto valor
+desses clientes.
+Sobre as reflexões de Gates, Albertim (2000) afirma que são baseadas na crescente
+velocidade da informação, e acredita que o enfoque na administração do Século XXI não
+significará aplicar a tecnologia pela tecnologia, mas sim utilizá-la como instrumento a
+serviço do gestor para redefinir o estilo das organizações nos novos tempos. Para o autor
+deste trabalho, estas reflexões induzem a constatar a necessidade de uma readequação das
+organizações, e, por conseqüência, de reestruturá-las em torno de um modelo de gestão de
+negócios que suporte uma administração voltada aos clientes do novo século.
+26
+1.6 AUTORES E SUAS PRINCIPAIS CONTRIBUIÇÕES
+A tabela 2 abaixo apresenta os principais autores que contribuíram para a
+administração do Século XX, bem como para a administração sistêmica e contingencial.
+TABELA 2 - Principais contribuições para a administração do século XX
+Autor Contribuição
+Claude E. Sharnnon Em 1949, faz pesquisa para Bell Telephone Companhy, no campo da
+telegrafia e telefonia, e surge aí a era da informação.
+Edgar H.Schein Falou sobre o desenvolvimento organizacional, que é uma resposta às
+mudanças e às inovações.
+Von Neumann Criou a teoria dos jogos e o poder do processo decisório e propôs análise de
+conflitos.
+W.Edwards Deming Popularizou o controle estatístico da qualidade.
+J.M. Juran Estendeu para todas as empresas os conceitos de qualidade total.
+Von Bertalanfly Criou a Teoria dos Sistemas, dizendo que em tudo, existe uma tendência
+para a integração das ciências naturais e sociais.
+Josepeh Schumpeter Economista. Aconselhou inovar através da “destruição criativa”.
+Michael Porter Instituiu o marketing com elementos primordiais aos negócios.
+Peter Drucker Aconselhou a administração por objetivos.
+Bil Gates Popularizou o microcomputador.
+Fonte : elaboração do próprio autor
+27
+2 DESAFIOS E INFLUÊNCIAS DA TECNOLOGIA DA INFORMAÇÃO
+2.1 A TECNOLOGIA DA INFORMAÇÃO
+A tecnologia não é só uma força isolada. É também o motor propulsor da revolução.
+Os dispêndios em pesquisas, típicos dos países desenvolvidos, tornam-se fundamentais. As
+novas tecnologias da informação induzirão a diferentes formas de gestão de negócios. Para
+acompanhar as mudanças, é importante definir a tecnologia da informação, bem como sua
+contribuição estratégica .
+2.1.1 Definições Iniciais
+A indústria de TI é muito mais do que simplesmente o computador, a mesma engloba
+as telecomunicações e automação de empresas. Sendo assim, pode-se imaginar que a mesma
+não se restringe a hardware, software e comunicação de dados, e sim às tecnologias de
+planejamento de informática, ao desenvolvimento de sistemas, ao suporte de produção, ao
+suporte de operação e ao suporte de hardware.
+Alvin Tofler (1986), em “O Choque do futuro”, disse que, na nova sociedade, as
+empresas, para acompanharem a descontinuidade e turbulência do ambiente, precisarão ser
+flexíveis, criativas e inovadoras; portanto, não sendo concebido “administrar, gerenciar,
+funcionar, decidir”, sem conhecer e usar a tecnologia dos sistemas de informação, pois que,
+segundo Naisbitt (1982), a Tecnologia de Informação é uma realidade econômica, não uma
+abstração intelectual.
+28
+Para se definir o universo de empresas de TI, Castell (1999) assume como TI o
+conjunto convergente de tecnologias em microeletrônica, computação, telecomunicação/
+radiodifusão, optoeletrônica e engenharia genética, sendo a inclusão desta última justificada
+pelo autor, em virtude de sua concentração na decodificação, manipulação e conseqüente
+reprogramação dos códigos de informação da matéria viva.
+Para Drucker (1991), o computador é uma máquina lógica e tudo que consegue fazer é
+somar e subtrair; porém, executando esse processo numa velocidade assombrosa. Como todas
+as operações matemáticas e lógicas são extensões da soma e da subtração, o computador
+consegue realizá-las simplesmente somando ou subtraindo inúmeras vezes, de maneira
+extremamente rápida; e, por ser inanimado, não se cansa.
+Ainda segundo Drucker (1999), o computador apresenta habilidades, podendo ser
+comparado como um processo mecânico de manipulação de grande quantidade de papéis e
+documentos simples e repetitivos; também coleta, processa, armazena, analisa e apresenta
+informações a velocidades estonteantes; ainda auxilia nas estruturas físicas de projetos nas
+áreas da engenharia, da química e da física, dentre outras. Tem a capacidade de direcionar
+processos a condições preestabelecidas, como análises funcionais por meio de dados
+operacionais, desempenhando importante papel no processo decisório estratégico das
+empresas, podendo inclusive indicar qual o curso de ação deve ser seguido.
+Os avanços da informática, dos computadores e de outras formas de tecnologia têm
+exercido efeito significativo na vida das organizações. É difícil encontrar qualquer forma de
+organização ou processo organizacional que não tenham sido alterados por novas tecnologias.
+Com a massificação do uso da tecnologia, particularmente da tecnologia da informação
+proveniente dos bancos de dados gerados por computadores, há necessidade de que as pessoas
+que atuam nas organizações, e delas fazem parte, evoluam na sua forma de agir e de pensar.
+29
+Essas pessoas devem acompanhar esse ritmo de progresso no trabalho, levando, em alguns
+casos, um alto grau de motivação, segundo Silva (1989).
+Tragtemberg (apud VICO, 1993, p.46) afirma, com relação à revolução Industrial, que
+a máquina impõe como absolutamente necessário o caráter cooperativo no trabalho à
+necessidade de regulação social. O uso das máquinas pela sociedade capitalista, porém, leva à
+direção autoritária, à regulamentação administrativa sobre o operário, tendo em vista a
+exploração da mais alta valia pelos membros do quadro administrativo: executivos, diretores,
+supervisores e outros. Os patrões conseguem fazer passar por simples regulamentação social o
+que na realidade é o seu código autoritário. Direção autoritária é o objetivo capitalista que,
+pela chamada racionalização do trabalho e controle do comportamento do operário, define as
+garantias de cooperação.
+Os administradores sabem da necessidade de prever a mudança tecnológica e o seu
+impacto sobre as suas atividades. Segundo Albertin (2001), o desenvolvimento e a
+implementação de aplicações de TI em uma organização apresentam suas próprias
+características as quais devem ser estudadas e planejadas de acordo com o ambiente.
+Conforme Drucker (1999), as organizações estão se transformando de uma maneira
+imprevisível e, às vezes, contraditória. Algumas das forças que têm acelerado essas mudanças
+estão relacionadas com o crescimento da competição de instituições não tradicionais: com as
+novas tecnologias de informação e declínio dos custos de processamento; com a erosão das
+fronteiras de produtos e geográficas e com as menores restrições da regulamentação
+governamental.
+A TI é vista como uma das maiores e mais poderosas influências no planejamento das
+organizações. Segundo Drucker (1991), as diretrizes fundamentais da mudança são
+tecnológicas e irreversíveis. As modernas tecnologias de informação e comunicação permitem
+melhorar a qualidade de vários aspectos de negócio. Além disso, as mudanças em um setor
+30
+são consideradas de grande influência na situação atual e tendências para a utilização de TI no
+demais setores.
+Albertin (2001) afirma que as mudanças tecnológicas nas indústrias de computadores
+e de telecomunicações têm aumentado as economias de escala e de escopo, ocasionando um
+profundo impacto no funcionamento das empresas. A tecnologia tem auxiliado a habilidade
+de manipular um grande volume de transações num custo unitário médio decrescente, de
+apoiar operações geograficamente dispersas por intermédio do processamento distribuído e de
+oferecer novos produtos e canais de distribuição. Também Drucker (1992) considera que o
+ambiente digital altera significativamente a natureza dos negócios, citando três pilares da
+infra-estrutura eletrônicos: computadores, comunicações e software. Os outros pilares são
+organizacionais: planejamento estratégico, marketing agressivo e capacidade de assimilar os
+aspectos relacionados com computadores.
+2.1.2 Valor Estratégico da Tecnologia de Informação
+A constante evolução dos negócios, mercado e economia que temos vivido trazem
+uma turbulência acentuada para as organizações. A respeito, Drucker (1992, p.95) salienta
+“nesses tempos uma empresa deve manter-se ágil, forte e sem gorduras, capaz de se
+movimentar rapidamente para aproveitar as oportunidades”. Portando, a TI pode ser decisiva
+para que a organização seja ágil, flexível e forte, em vez de ficar à espera de suas realizações
+ou insegura quanto a seu apoio.
+Nesse aspecto, a TI pode ser incluída como uma tecnologia que altera as operações da
+empresa, seus produtos e serviços, seus relacionamentos com parceiros mercados e
+concorrentes.
+31
+Madnick (1991) argumenta que as oportunidades de TI e as forças de negócios levarão
+a uma elevada conectividade, possibilitando novas formas de relacionamentos entre
+organizações e aumentando a produtividade dos grupos. Segundo Malone (1987), não
+podemos esperar que o mundo interconectado eletronicamente de amanhã seja simplesmente
+uma versão mais rápida e mais eficiente daquele que conhecemos hoje. Ao contrário,
+podemos esperar mudanças fundamentais, com empresas e mercados organizando o fluxo de
+bens e serviços na mesma economia, sendo importante que as empresas tenham preocupações
+com as estratégias para um mundo mais competitivo.
+2.2 A TI COMO ESTRATÉGIA COMPETITIVA
+A preocupação com a formulação explícita de estratégias nas empresas privadas é
+recente. Não obstante, não há vários exemplos de êxito no emprego da estratégia na história
+das organizações. A formulação estratégia assumiu um papel essencial no momento em que as
+empresas passaram a ter que lidar com descontinuidades ambientais, centrando sua força na
+capacidade de prever e reagir aos movimentos e contra-movimentos da concorrência, além de
+alterações na demanda de seus produtos e serviços. A estratégia tornou-se ferramenta
+necessária para se responder às duas questões essenciais: qual a direção na qual a empresa
+deve crescer e como mobilizar as pessoas na direção escolhida.
+Mintzberg (1994), analisando as teorias existentes sobre estratégia, aborda as duas
+visões teóricas predominantes. A primeira assume a estratégia como um problema de
+posicionamento, e a segunda como uma questão de perspectiva. Na visão do posicionamento,
+a estratégia tem uma visão para baixo, focalizando o ponto exato onde o produto encontra o
+consumidor, e a uma visão de dentro para fora, enxergando o mercado externo. Na visão da
+32
+perspectiva, em contraste, a visão estratégia é para dentro, focalizando os pensamentos dos
+estrategistas coletivos e de baixo para cima, formando-se uma macrovisão do negócio.
+Recentemente, Mintzberg (2000) realizou um excelente trabalho de revisão de
+literatura nesse campo, chegando ao que denominou de “dez escolas de pensamento” sobre
+estratégia, a saber: a escola do design, a escola do planejamento, a escola do posicionamento,
+a escola empreendedora, a escola cognitiva, a escola do aprendizado, a escola do poder, a
+escola cultural, a escola ambiental e a escola da configuração. O presente estudo enfoca a
+visão da estratégia como posicionamento. Segundo essa ótica, a principal tarefa da estratégia é
+posicionar a empresa dentro do meio competitivo de forma a maximizar o retorno no decorrer
+do tempo de investimento, com custos reduzidos, permanência no mercado e segurança no
+empreendimento.
+Os teóricos Ansoff e McDonnell (1993) argumentam que a estratégia é um conjunto
+de regras de tomada de decisão para orientação do comportamento de uma organização. Para
+os autores, há quatro tipos de regras:
+• Padrões de medida do desempenho presente e futuro da empresa, sendo que quando
+se trata de padrões qualitativos, utiliza-se a denominação objetiva; quando se trata dos
+aspectos quantitativos, denominam-se metas;
+• Padrões de relacionamento da empresa com os ambientes externos, chamados de
+estratégia empresarial;
+• Padrões organizacionais internos à organização, ou o conceito organizacional;
+• Padrões que norteiam as atividades cotidianas da empresa, ou políticas operacionais.
+A partir dessa concepção, os autores Ansoff e McDonnell (1993) delineiam algumas
+características da estratégia, dentre as quais destacam-se:
+33
+• A formulação de estratégias não está diretamente relacionada com a adoção de ações
+imediatas, sendo que o horizonte da estratégia é o prazo, no qual são estabelecidas as
+diretrizes para o crescimento e desenvolvimento da empresa;
+• A estratégia deve gerar projetos estratégicos que delimitam o foco (missão) da
+empresa, eliminando-se objetivos e ou metas incompatíveis;
+• Durante o processo de formulação de estratégias, os gestores baseiam-se em
+informações muito agregadas, incompletas e incertas a respeitos das direções
+alternativas disponíveis e possíveis;
+• Estratégia é diferente de objetivos; a estratégia representa os meios utilizados para
+alcançar determinados fins, estes representados pelos objetivos;
+• Estratégia e objetivos são intercambiáveis, considerando-se o fator temporal.
+Para maximizar o retorno sobre o prazo previsto, é fundamental que a empresa escolha
+cuidadosamente o campo, decidindo seu posicionamento e passando a orientar seu
+crescimento segundo essas definições. A estratégia pode ser vista, então como um atalho, ou
+seja, um caminho para reduzir a distância entre a posição atual e posição desejada. Também,
+ainda, sobre a estratégia, Macmillan, citado em Mintzberg (2000), argumenta que o segredo
+da estratégia é a busca do domínio de posições do mercado que venham a permitir que a
+empresa possa estabelecer uma diferença significativa em relação aos seus competidores, não
+implicando, contudo, o controle de todas as posições do mercado.
+Para Porter (1986), após avaliar as subjacências das forças que influenciam a
+competição no setor e os movimentos evolutivos, o estrategista empresarial tem condições de
+identificar os pontos fortes e fracos da empresa, do ponto de vista estratégico. Devem-se
+cotejar os pontos fortes e os pontos fracos da empresa com forças estruturais e suas causas
+subjacentes. Com base nesta percepção, formulam-se planos de ação que abrangem:
+34
+• O posicionamento da empresa, baseado em suas capacidades, de modo a propiciar a
+melhor defesa contra as forças competitivas;
+• A tentativa de influenciar o equilíbrio das forças estruturais, por meio de manobras e
+estratégias que melhorem a posição da empresa;
+• A antecipação de alterações nos fatores subjacentes às forças e da reação da empresa a
+essas mudanças, com a perspectiva da explorá-las favoravelmente.
+Porter (1986) destacou a necessidade de não se confundir ferramentas gerenciais com
+estratégia. Gestão da Qualidade Total, benchmarking, terceirização e reengenharia, etc., são
+consideradas por Porter como ferramentas gerenciais, sendo que o cerne da estratégia é
+desempenhar atividades diferentes das exercidas pelas rivais, ou desempenhar as mesmas
+atividades de maneira diferente. A estratégia competitiva fundamenta-se na diferenciação
+como forma de gerar vantagem competitiva sustentável. Para Porter (1999), agir
+estrategicamente significa escolher, de forma deliberada, um conjunto diferente de atividades
+para proporcionar um mix único de valores.
+Para Albertin (2001), a Tecnologia da Informação pode colaborar com a estratégia
+competitiva da empresa, ao:
+• Proporcionar vantagens de custos;
+• Permitir a diferenciação de seus produtos e serviços;
+• Possibilitar melhor relacionamento com clientes;
+• Permitir a entrada mais fácil em alguns mercados;
+• Possibilitar o estabelecimento de barreiras de entrada;
+• Facilitar a eliminação de intermediários;
+35
+• Facultar o surgimento de novos intermediários que adicionem valor por meio da
+informação;
+• Permitir novas estratégias competitivas com o uso de sua tecnologia.
+Segundo Hamel e Prahalad (1980), as empresas precisam ir além das medidas de
+eficiência operacional, tendo a capacidade de se reavaliar, regenerar suas estratégias centrais e
+reinventar o seu setor.
+Para Drucker (1980), uma empresa, em tempos turbulentos, deve manter-se ágil, forte
+e sem gordura, capaz de suportar esforços e tensões, e capaz também de se movimentar
+rapidamente para aproveitar as oportunidades.
+Baseando nestas definições e posturas é que a tecnologia da informação mais
+especificamente a Informática, pode ser decisiva para o sucesso ou insucesso de uma empresa.
+Segundo Drucker (1980), a TI tem grande influência na administração, porque podem ser
+afetadas:
+• as produções físicas e intelectuais, ao manufaturar qualquer produto ou serviço;
+• a coordenação da organização, por seu poder de encurtar distâncias e diminuir tempo;
+• a cultura das organizações, através de seus bancos de dados.
+Nesta linha de pensamento, Albertin (2001) conclui que, utilizando uma infraestrutura
+digital pública e compartilhada, tal como a Internet, comparada a uma infra-estrutura
+própria, a TI pode reduzir significativamente os custos de comercialização, distribuição e
+serviços a clientes. A criação e utilização de uma infra-estrutura pública, que seja composta
+de equipamentos de acesso, estruturas de alcance local e redes globais de informações, é a
+forma de garantir o fácil e livre acesso a um custo não proibitivo ao ambiente digital da TI, e
+36
+que a utilização da mesma signifique uma mudança, muitas vezes profunda, na organização,
+que deve ser planejada e preparada para que se garanta seu sucesso.
+Para Porter (1999), a estrutura tem uma forte influência na determinação das regras
+competitivas do jogo, assim como das estratégias potencialmente disponíveis para a empresa.
+Sendo assim, no ambiente de TI, a primeira etapa na formulação de estratégias é a definição
+do negócio da empresa.
+Para Souza (1993), a vantagem competitiva objetivada por uma empresa depende de
+uma estratégia bem estruturada, complementada por um gerenciamento bem conduzido, de
+forma a traduzir as tecnologias utilizadas, aliadas à gestão pela qualidade dos produtos e
+serviços e a um bem montado apoio mercadológico.
+Segundo O’Brien (2002), a tecnologia da informação pode desenvolver um papel
+maior na implementação de estratégias competitivas, incluindo as estratégias de custo,de
+diferenciação e de inovação e que os benefícios da TI na estratégia de corte de custos traz
+maior participação e liderança no mercado com a inovação dos produtos e serviços.
+2.3 INTERNET COMO FOCO DE MUDANÇAS DOS NEGÓCIOS
+Não se pode pensar em tecnologia e sistemas de informação, sem conhecer a Internet
+e saber o que a mesma trouxe de mudanças para as empresas de pequeno, médio ou grande
+porte.
+Para entender-se um pouco sobre a Internet- pois é nela que acontece o Comércio
+Eletrônico (e-comercce) e os negócios eletrônicos (e-business)- é preciso voltar na década de
+40, mais precisamente em 1945. Nesse ano, Vannevar Bush, um pesquisador e vice-
+37
+presidente do Massachutess Institute of Technology (MIT), publicou um artigo com o nome
+de As we may think, ou “como nós podemos pensar”.
+Em seu documento, Bush falava sobre a possibilidade de implantação de uma imensa
+rede que unisse pessoas e conhecimentos, de forma interligada, e fosse de acesso inteiramente
+livre. Então batizada como Memex, essa solução, segundo Bush, permitiria a busca de
+conhecimento de forma simples e fácil. A idéia era maravilhosa, mas não saiu do papel.
+Vinte anos depois de ser apresentado, esse mesmo conceito veio a influenciar o
+cientista Ted Nelson, que em 1965, apresentou um artigo na conferência da ACMAssociation
+of Computer Machinery, lançando a idéia base do “hipertexto”, que embutia a
+noção de documentos que pudessem ser interligados entre si por ponteiros controlados por
+programa.
+Nos anos seguintes, ele tentou sem sucesso construir o software necessário para
+implantação desse conceito. Em 1988, Jonhn Walker, fundador da Autodesk, comprou a
+tecnologia de Nelson, e durante quatro anos investiu no seu desenvolvimento. Seus esforços
+foram abandonados, quando o Laboratório Europeu de Física, o European Center For
+Nuclear Research (CERN), anunciou o desenvolvimento de algo similar. O cientista Tim
+Berneles-Lee foi quem propôs, em 1989, no CERN, a criação de uma rede mundial – a World
+Wide Web, que deveria permitir o compartilhamento de conhecimento entre pessoas
+fisicamente distantes. O recurso permitiria o desenvolvimento de trabalhos conjuntos, ainda
+que os parceiros na tarefa não estivessem no mesmo lugar.
+Paralelamente a esses esforços de desenvolvimento de software e padrões, a
+tecnologia e a infra-estrutura de telecomunicações se desenvolveram enormemente. A partir
+do desempenho estratégico do governo americano, cada vez mais computadores foram sendo
+interligados em todo o mundo, e lentamente o paradigma da computação foi sendo alterado,
+38
+passando do contexto de “centros de processamento de dados” para o de “rede de
+comunicação”
+Para Castells (1999), a Internet é a espinha dorsal da comunicação global, mediada
+por computadores dos anos 90, pois cresceu de quatro computadores conectados à
+ARPANET, em 1969, para duzentos plugados em 1983, e mais de 90 milhões, em 1999,
+somente nos Estados Unidos da América. Ainda segundo Castell (1999), a Internet é uma
+rara mistura de estratégia militar, de grande cooperação cientifica e inovação contracultural.
+Albertin (2001) acredita que a Internet deriva-se diretamente da difusão ampla da
+tecnologia gerada para implantar uma rede de computadores encomendada no fim da década
+de 60 a alguns grupos de pesquisas de universidades americanas pelo Departamento de Defesa
+dos EUA, pois a mesma tem algumas características interessantes do ponto de vista militar,
+tais com: ausência de nodo central, flexibilidade arquitetural, redundância de conexões e
+funções, e capacidade de reconfiguração dinâmica.
+Para Poloni (2001), a Internet é a maior rede de trabalho do mundo, mas Tapscott
+(2000) afirma que a Internet não é apenas uma rede, mas sim a rede das redes, que evolui de
+forma assustadora, com suas conexões gratuitas.
+O’brien (2002) diz que o crescimento da Internet é um fenômeno revolucionário em
+computação e telecomunicações, o que fez com que a mesma se tornasse na maior e mais
+importante rede de computadores do mundo.
+Perriotto (2001) considera a Internet a mais recente e popular inovação, que vem
+impulsionando uma série de transformações, em especial a comunicação e a comercialização
+de produtos e serviços, pois não só as grandes corporações, mas também as pequenas e
+médias empresas dependem de produtos, serviços e informações disponibilizados pela
+grande rede (Internet) para o desempenho de suas atividades.
+39
+Para Laudon (2001), a Internet é a maior e mais rápida forma de implementação de
+uma “auto estrada de informação”, expressão está que se refere às redes de telecomunicações
+de alta velocidade com escopo nacional ou internacional que oferecem acesso aberto ao
+público em geral.
+2.3.1 Internet e algumas vantagens para o mundo
+Em 1985, a entidade americana NSF (National Science Foundation) interligou os
+computadores de seus centros de pesquisa, o que resultou na rede conhecida como NSFNET,
+que, em 1986, foi conectada à ARPANET; o conjunto de todos os computadores e redes
+ligados a esses dois backbones passou a ser conhecido oficialmente como Internet. Durantes
+os anos subseqüentes, a Internet recebeu várias atualizações nos seus backbones, aumentos de
+computadores, servidores e instituições, sendo elas acadêmicas ou não.
+Finalmente, a partir de 1993, a Internet deixou de ser uma instituição de natureza
+puramente acadêmica, passou a ser explorada comercialmente, tanto para a construção de
+novos backbones por empresas privadas (PSI, UUNET, SPINT, etc) como para o
+fornecimento de diversos serviços.
+Além dos recursos básicos de correio eletrônico, lista de discussão, FTP (File
+Transport Protocol) etc, a Internet proporciona a seus usuários acesso aos mais variados
+serviços de informação como, por exemplo, bases de dados especializadas, catálogos de
+bibliotecas, repositórios de software de domínio público, jornais e revistas eletrônicas etc.
+Através da Internet também é possível ter acesso a recursos de hardware especializados como
+computadores de alto desempenho e processadores especializados.
+40
+2.3.2 - A Internet no Brasil
+A entrada do Brasil na Internet ocorreu em 1988, quando, por iniciativa da
+comunidade acadêmica em São Paulo (Fundação de Amparo à Pesquisa do estado de São
+Paulo – FAPESP, e no Rio de Janeiro – UFRJ Laboratório Nacional de Computação
+Cientifica - LNCC, foram realizadas as ligações dos primeiros computadores e redes de
+universidades e centros de pesquisa no Brasil e nos EUA).
+Com o crescimento da demanda acadêmica nacional em 1989 foi criada a Rede
+Nacional de Pesquisa (RNP) pelo Ministério da Ciência e Tecnologia, com o objetivo de
+estruturar e manter uma espinha dorsal nacional que integrasse os esforços estaduais de redes
+e viabilizasse a chegada dos serviços ao interior, com a qualidade e eficiência necessárias
+para o provimento de serviços educacionais da Internet. Estimulou-se, assim, o surgimento
+de aplicações de redes e grupos de interesse em varias áreas do conhecimento, como por
+exemplo, educação, biotecnologia, ciência da informação, desenvolvimento sustentável, saúde
+e ciências humanas.
+No mundo inteiro a Internet continua crescendo de forma fenomenal. Essa tendência
+hoje é liderada pelo segmento comercial, que é o foco desse trabalho, bem diferente de
+quando apareceu, e era liderada pelo segmento acadêmico. A cada dia se ligam à rede
+mundial grandes empresas multinacionais, pequenas empresas com afinidade com a cultura
+Internet, oferecendo seus produtos e serviços.
+41
+2.3.3 Exploração comercial da Internet no Brasil
+A exploração comercial da Internet foi iniciada em dezembro de 1994, a partir de um
+projeto piloto da Embratel, onde foram permitidos acessos à Internet inicialmente através de
+linhas discadas.
+E maio de 1995, foi realmente o início da abertura da Internet comercial nos país.
+Antes disso, em abril de 1995, foi iniciado pela RPN um processo para que a implantação
+comercial da Internet no Brasil ocorresse sem problemas, com uma série de etapas, entre as
+quais a implantação do backbone RPN, no que se referia à velocidade e números de POP’S, a
+fim de suportar a tráfego comercial de futuras redes conectadas a esses POP’S. Esse
+backbone, a partir de então passou a ser chamado de Internet/BR (Cyclades,1996).
+Nesse novo cenário, a RPN foi chamada para cumprir uma nova missão, que iria
+compreender:
+• concepção e implementação de um modelo de serviço de Internet que assegurasse:
+cobertura nacional e ampla capilaridade, vasta gama de aplicações e baixo custo
+para o usuário final.
+• Operação de um backbone nacional de uso misto(comercial e acadêmico ).
+• Operação de alocação de endereços IP e de registro de domínios.
+Com essa redefinição de seu papel, deixando de ser backbone restrito ao meio
+acadêmico , para atender seus serviços de acesso a todos os setores da sociedade, a RPN
+ofereceu um importante apoio à consolidação da Internet comercial no Brasil. A partir de
+1995, o Brasil vem, então, registrando taxas extremamente altas de crescimento no uso da
+Internet; segundo o Livro Verde do Ministério da Cultura (2001), taxas inclusive acima da
+média mundial.
+42
+2.4 ARQUITETURA E OPERAÇÕES DE SERVIÇOS
+Concretamente, segundo Polloni (2001), a Internet se traduz através de um conjunto
+de funções, tais como e-mail, ICQ, browsers, site de buscas, de conteúdo, FTP e etc;
+implementados sobre uma funcionalidade básica, a de conexões em redes, que é
+corporificada no chamado protocolo IP (Internet Protocol).
+Na forma mais simples, um usuário utiliza seu computador e se liga a um provedor
+de serviços através de uma linha telefônica comum, serviço de TV por assinatura ou
+telefone móvel. O provedor de serviços é o ponto onde “chega” a Internet, e a partir do qual
+os e-mails, por exemplo, são enviados a um destinatário remoto.
+Figura 1 - Exemplificação de um Backbone (Fonte: Socinfo,1999)
+43
+2.5 SEGURANÇA NA INTERNET
+Para Albertin (2001) a segurança na Internet é um dos tópicos de maior
+complexidade, no que se refere à comercialização de serviços e produtos. Pois quando se
+conecta à Internet, tem-se acesso a uma rede com abrangência mundial. Pode-se trocar
+arquivos, conversar em tempo real, efetuar compras, vender produtos, vender serviços, trocar
+correspondência, consultar bancos de dados e realizar uma infinidade de novas aplicações
+que se multiplicam a cada dia .
+O problema é que essa mensagem precisa trafegar por redes públicas para que possam
+alcançar seu destino. Daí surgem determinadas perguntas :
+• Como se pode garantir que o destinatário seja realmente o que ele diz ser, ou seja,
+quem garante que eu não esteja conversando com a pessoa errada?
+• Como se pode garantir que a mensagem não está sendo monitorada, isto é, a
+privacidade está sendo violada?
+• Como o destinatário pode ter certeza de que a mensagem é confiável ?
+Para Polloni (2001) e O’brien (2002), a solução para os problemas de identificação,
+autenticação e privacidade nos sistemas de computadores está na criptografia, que, segundo
+O’brien (2002), a define como uma arte de embaralhar dados ou converter dados, antes da
+transmissão, em código secreto que mascara o significado dos dados para destinatário não
+autorizado.
+Para Nakamura (2001), a empresas devem ter um procedimento de segurança, usando
+softwares de detectação e protocolos de segurança de invasões e criação de senhas para o
+acesso seguro por intermédios dos firewalls.
+44
+Para Laudon (2001), os problemas de segurança devem ser resolvidos rapidamente
+pelas as empresas, pois, caso contrário, o comércio eletrônico poderá permanecer limitado;
+aponta, também, a criptografia com uma tecnologia-chave para tratar e resolver os problemas
+de segurança. Para o mesmo autor, a criptografia é a codificação e a mistura de mensagem
+para impedir acesso indevido aos dados que estão sendo transmitidos pelas redes .
+È fácil perceber que a segurança é um dos grandes problemas relacionados com a
+Internet, no setor dos negócios, pois quando os sites são invadidos, é certo que sua
+credibilidade ficará abalada perante o cliente.
+Para Norris (2001), a confiança está ligada à segurança, sendo um processo
+cumulativo de três estágios como: confiança na Internet ou no site específico, confiança
+nas informações fornecidas na tela, confiança no prazo de entrega e atendimento, e garantia
+na assistência. Segundo o mesmo autor, os segredos para gerar confiança em um site
+são:maximizar os indícios que constroem a confiança no site; utilizar a tecnologia virtual
+para conquistar a confiança e a segurança do cliente; fornecer informações completas e
+imparciais; fornecer informações sobre produtos concorrentes e cumprir as promessas.
+Com toda a insegurança que a Internet possa representar, ela é o grande ícone da
+chamada economia moderna ou “nova economia”. Oferece terreno fértil para o jogo
+econômico deste novo milênio e motiva o surgimento de novas modalidades de competição,
+comportamento e comunicação empresarial, fazendo com que organizações dos mais
+diversos setores abracem o desafio de concorrer em um ambiente virtual.
+Por vontade própria ou por força das circunstâncias, todo mundo está ou quer estar na
+Rede, para aproveitar e, preferencialmente, obter ganhos financeiros e institucionais a partir
+do potencial e da pluralidade disponíveis por meio da Internet. As maravilhas do mundo online
+despertam grande interesse, e o Comércio Eletrônico é um dos mais importantes
+45
+segmentos da rede, e não escapa de ser alvo de atenção especial, com segurança ou
+insegurança.
+Quando se conecta o computador à Internet, ganha-se acesso a uma rede com
+milhões de computadores em todo o mundo. Da mesma forma, esses milhões de usuários
+podem disponibilizar seu computador e executar as mais diversas aplicações.
+Para solucionar esse problema, algumas empresas desenvolveram produtos seguros
+para transações on-line para o mercado utilizando chaves de 128 bits. O sistema, que roda em
+servidores Windows NT e permite conexão remota de estações clientes através dos protocolos
+TCP/IP e PPP, foi concebido especialmente para oferecer a máxima segurança nas
+informações que trafegam pela rede. Basicamente, essas soluções desenvolvidas apóiam-se
+em duas tecnologias: a criptografia, que codifica as mensagens, e as autenticações, que é um
+modo secreto de os envolvidos se identificarem. Elas asseguram que, mesmo sendo roteadas
+por redes públicas de telefonia, as informações cheguem a seu destino.
+A certeza de que, no percurso, a mensagem não será monitorada, e a garantia de que o
+destinatário selecionado é de fato quem vai receber a mensagem, é o uso de duas chaves ou
+segredos, a pública e a privada, que vão proporcionar a transferência de informações pela
+rede com a necessidade de autenticação das partes e sem que outras pessoas possam entendê-
+las.
+Quando se pensa em chaves secretas envolvendo inúmeros destinatários, como ocorre
+nas grandes corporações, tem-se um problema, pois é preciso manter chaves secretas com
+todas essas pessoas; mas para solucionar essa questão, os browsers realizam automaticamente
+a troca de segredos. Assim, se o servidor Web utilizado tiver essa capacidade, é possível ter
+criptografia e autenticação de site implementadas automaticamente. Quanto à segurança,
+destaca-se as firewalls, a criptografia e os protocolos.
+46
+2.5.1 Firewall
+Para O’brien (2002), a firewall é um ponto de reforço da segurança que separa uma
+rede confiável de uma não confiável , tal como a Internet . As firewalls controlam todas as
+conexões entre duas redes, determinando qual o tráfego deve ser permitido e qual deve ter
+permissão, sempre baseado em alguma forma de política de segurança determinada
+antecipadamente pelo administrador de segurança (Ver figura2)
+Figura 2- Exemplificação das firewalls da Internet (Fonte : O’Brien,2002)
+A firewall é desenhada para ser um ponto único de comunicação da rede interna da
+empresa com a rede externa (Internet). Este é o ponto que o administrador da segurança
+monitora e controla o fluxo de informação entre as redes.
+47
+Em teoria, a firewall permite somente comunicações autorizadas entre a rede interna e
+externa; entretanto, novas maneiras de burlar a firewall estão sempre sendo inventadas.
+2.5.2 Criptografia
+Para Franco (2001), a criptografia é a arte de proteger as informações transformandoas
+em um formato impossível de ser entendido, o que tornou a principal ferramenta para a
+privacidade, segurança, pagamento eletrônico , controle de acesso e uma outra infinidade de
+outras utilizações.
+Segundo Nakamura (2001), o objetivo fundamental da criptografia é de endereçar e
+satisfazer quatro áreas, assegurando a total confiabilidade das informações. Estas áreas são
+interligadas e estão divididas em : confiabilidade, autenticidade, integridade dos dados e não
+repudiação.
+Sob a égide da confiabilidade, a informações não devem ser reveladas a quem não tem
+que ser. Todas as comunicações entre as partes envolvidas são restritas a essas.
+A autenticidade cuida do processo de determinar com quem você está falando, antes
+de revelar informações sigilosas ou entrar em uma transação comercial.
+A integridade dos dados assegura que os dados não foram alterados ou destruídos sem
+autorização. Dados enviados como parte de uma transação não devem ser modificados na
+transmissão.
+Finalmente, a não repudiação assegura que a pessoa que enviou a informação não
+possa negar que ela seja a fonte dessa informação, e a pessoa que recebe a informação negue
+que a recebeu.
+48
+Para Stair (2002), a criptografia deixa a Internet muito mais segura, pois através do
+processo de encriptação as mensagens são codificadas para que seu conteúdo fique
+ininteligível; o texto só torna legível através do processo de decriptação, ou seja, através de
+algoritmos ou chave.
+2.5.3 Protocolos e Padrões de Segurança na Internet
+Os protocolos são regras básicas que asseguram as comunicações entre
+computadores de diferentes tipos e de diferentes fabricantes, destacando-se o protocolo por
+Internet, que são as convenções que possibilitam o encaminhamento do tráfego de uma rede
+para a outra, quando necessário, com padrão de segurança.
+Aqui estão alguns Protocolos de Segurança que deixam a Internet mais segura,
+segundo Stair (2002).
+• DES. Data Encryption Standart: Foi desenvolvido na metade da década de 70. DES
+é um algoritmo “block cipher” com 64-bits de tamanho de bloco.Utiliza 56 bits de
+chave.
+Hoje em dia, é considerado ultrapassado e fácil de ser quebrado.
+• Triple DES: Baseado no DES. O bloco de dados é encriptografado 3 vezes, com 3
+diferentes chaves. Foi proposto com alternativa DES, por causa da sua facilidade em
+ser quebrado seu código.
+49
+• IDEA- International Data Encryptation Algorithm: É um algoritmo que usa chave
+de 128bits. É considerado bem seguro. Foi considerado, por algum tempo, um dos
+melhores algoritmos de chave pública.
+• RSA: Nome dos criadores Rivest, Shamir e Adelman. Algoritmo de chave pública
+que suporta tamanho de chaves variáveis, bem como tamanhos de blocos de textos
+variáveis a serem encriptografados. O tamanho comum da chave é de 512 bits.
+• Secura HTTP (S-http): fornece autenticação para servidores e browsers, bem como
+confidencialidade e integridade de dados para comunicações entre o servidos Web e o
+browser. Foi especificamente desenhado para suportar o hypertext transfer protocol
+(http), provando autorização e segurança dos documentos. O S-http faz a segurança
+dos dados.
+• SSL-Secure Sockets Layer – Do mesmo jeito que o SHttp, o SLL, provê autenticação
+para servidores e browers, bem como confidencialidade e integridade, dados para
+comunicações entre o servidor Web e o browser. Além disso, faz a segurança do
+canal de comunicação, operando no Network Layer do Protocolo TCP/IP.O SSL faz a
+segurança do canal de comunicação.
+• IPsec: Enquanto outros Protocolos operam no “Application Layer", permitindo que
+determinados programas comuniquem-se num canal seguro, O IPsec faz a Internet
+segura na sua essência, o Internet Protocol (IP).
+50
+2.6 USUÁRIOS DE INTERNET NO BRASIL
+As estimativas de número de usuários da rede de Internet no Brasil têm variado
+muito, em razão da diversidade de fontes e critérios. Para qualquer que seja o critério, é
+invariável que o Brasil ocupe lugar significativo em termos de usuários da Internet, sendo
+que no ranking mundial está entre os vinte primeiros países; já na América Latina ocupa a 4ª
+posição, conforme tabelas do Banco Mundial.
+2.6.1 Usuários e hosts em países latino-americanos
+A compilação apresentada na tabela 3 evidencia que tanto o número de hosts como
+de usuários da Internet no Brasil é maior que a totalidade de hosts e usuários do restante da
+América Latina (ver tabela 3).
+51
+TABELA 3
+Paises Usuários
+Milhares
+Hosts
+P/10mil hab
+Pop.urbana
+(%)
+Telefone fixo
+Linhas/ 100 hab.
+Pop.
+Milhões
+PC
+Por mil hab.
+Usuários
+Pop. %
+Uruguai 100 49.7 91 23,2 3 21,9 3,33
+Chile 450 15,4 84 18,0 15 54,1 3,00
+Costa Rica 65 8,1 50 16,9 3 2,17
+Brasil 3300 9,9 80 10,7 164 26,3 2,01
+Colômbia 400 2,9 74 14,8 40 33,4 1,00
+Argentina 350 15,9 89 19,1 36 39,2 0,97
+México 900 8,8 74 9,6 94 37,3 0,96
+Panamá 25 2,8 56 13,4 3 0,83
+Venezuela 170 2,9 86 11,6 23 36,6 0,74
+R.Dominicana 50 6,0 63 8,8 8 0,63
+Peru 75 1,5 72 6,8 24 12,3 0,31
+Paraguai 12 1,6 54 4,3 5 0,24
+Nicarágua 12 1,4 63 2,9 5 0,24
+Equador 25 1,0 60 7,5 12 13,0 0,21
+Bolívia 15 0,6 62 6,9 8 0,19
+Guatemala 18 1,0 40 4,1 11 3,0 0,16
+El Salvador 9 1,1 46 5,6 6 0,15
+Cuba 12 0,1 77 3,4 11 0,11
+Honduras 5 0,2 45 3,7 6 0,08
+Haiti 3 0,0 33 0,8 7 0,04
+Totais e médias 5996 6,5 65 9,6 484 27,7 0,90
+Fonte: Compilação de dados do Banco Mundial, 2001, e da NUA Internet,2001
+52
+2.6.2 Hosts Internet nas maiores economias (por PIB)
+A tabela 4 é bastante significativa pois mostra que o Brasil apesar de estar entre as 10
+primeiras economias pelo critério do Banco Mundial, que considera o PIB, ocupa uma
+posição tímida (ver tabela 4).
+TABELA 4
+Dez maiores
+Economias
+(por PIB).
+Usuários
+(Milhares)
+Hosts
+(p/ 10 mil
+hab.)
+Pop.
+Milhões
+Pop.
+Urbana
+(%)
+Telefones
+Fixos
+(linhas p/ 100
+hab.)
+PC
+(p/ mil
+hab.)
+Usuários/
+Pop.(%)
+EUA 110000 975;9 268 77 64,4 406,7 41,04
+Canadá 12000 336,0 30 77 61,0 271,0 40,00
+Inglaterra 14000 201,8 59 89 54,0 242,4 23,73
+Japão 16000 140,0 126 78 47,9 202,4 12,70
+Alemanha 10000 140,6 82 87 55,0 255,5 12,20
+França 4700 73,3 59 75 57,5 174,4 7,97
+Itália 4200 55,7 58 67 44,7 113,0 7,24
+Espanha 2800 61,9 39 77 40,3 122,1 7,18
+Brasil 3300 9,9 164 80 10,7 26,3 2,01
+China –Sem
+Hong-Kong
+1700 0,2 1227 32 5,6 6,0 0,14
+Totais /médias 178700 199,5 2112 73,9 44,1 182,0 15,40
+Totais(Sem
+(China)
+177000 221,7 885 78,6 48,4 201,5 17,10
+Fonte : Compilação de dados do Banco Mundial,2001 e da NUA Internet,2001
+O acesso à Internet depende diretamente da disponibilidade de meios físicos de
+comunicação (especialmente linhas telefônicas) e de dispositivos de processamento local
+(especialmente computadores).
+53
+Considerando os dados da tabela 3 e tabela 4, acredita-se que o Comércio Eletrônico
+merece o estudo aqui proposto, pois, segundo o Plano de Metas da Anatel, para o ano de
+2005, prevê-se mais de 30 telefones por 100 habitantes, conforme o Livro Verde (2001), e,
+segundo mesma fonte o governo já terá implementado o plano de acesso comunitário à
+Internet, com facilidades e financiamentos para aquisição de computadores e alfabetização
+digital.
+Segundo o Livro Verde (2001) a maior esperança para o acesso comunitário à
+Internet, na sociedade brasileira, está nas escolas. Essa esperança já se concretiza, por
+exemplo, no Estado de São Paulo, onde a empresa Telefônica e governo do Estado de São
+Paulo assinaram, em maio de 2000, um acordo para suprir as escolas estaduais com acesso
+gratuito à Internet de alta velocidade e investimentos na alfabetização digital.
+Outras iniciativas de provimento de acesso comunitário estão sendo lideradas por
+Organizações Não Governamentais (ONG), com apoio dos setores privados e públicos. Em
+geral, tais entidades viabilizam o acesso à rede como meio para a consecução de algum outro
+objetivo central, de cunho social ou educacional.
+2.7 INTRANETS
+Para Stair (2002), a intranet é uma rede corporativa interna em uma organização que
+usa padrões e produtos da Internet e Web. Ela é usada pelos empregados da organização para
+acessar as informações corporativas.
+Segundo Franco (2001), a grande vantagem das intranets é permitir que qualquer de
+seus usuários possa acessá-la em qualquer computador do mundo ligado à Internet, o que
+elimina a limitação geográfica dos escritórios de uma organização.
+54
+O’brien (2001) diz que uma intranet é uma alternativa barata, mas bastante poderosa
+se comparada às outras formas de comunicação internas de uma organização, e diz que um
+dos benefícios resultantes do uso de uma intranet está em reduzir a necessidade do uso de
+papel.
+2.8 EXTRANETS
+As extranets também usam o protocolo http, e têm por característica permitir que
+diferentes Intranets tenham acesso entre seus usuários internos.
+Segundo Stair (2002), uma extranet é uma rede baseada na tecnologia Web, que une
+os recursos das intranets das organizações como as de seus clientes, fornecedores ou outros
+parceiros de negócios.
+2.9 WORLD WID WEB
+A World Wide Web, ou simplesmente Web, foi desenvolvida por Tim Bernors-Lee, no
+CERN-European Center for Nuclear Research, em Genebras; foi concebida como um sistema
+de gerenciamentos de documentos (hipertexto). Para O’brien (2002), a Web é um conjunto de
+dezenas de milhares de computadores independentes que funcionam conjuntamente como
+num só serviço de Internet.
+Muitos acreditam que Internet e a Web são conceitos iguais, mas Franco (2001)
+afirma serem conceitos distintos, sendo a Web um dos serviços que a Internet oferece.
+55
+Segundo Stair (2002), a Web é um sistema baseado em menu, que usa modelo
+cliente/servidor. Observa-se que cada servidor Web mantém link, para dados da Internet, mas
+para o usuário ter uma aplicação em tempo real é preciso contar como hardware.
+2.10 CARACTERÍSTICAS DA WEB
+A Web, segundo Urban (2001), tem algumas características que a faz um lugar único
+para o surgimento do Comércio Eletrônico, e aponta com sendo as principais:
+Rapidez :A evolução da Internet por definição e pelo seu desing levou-a para quase
+todo canto do mundo. Todos os continentes têm alguma forma de conexão com a Internet
+hoje em dia, fazendo da Internet uma rede global instantânea para qualquer organização que
+deseje interagir eletronicamente com seus consumidores, parceiros de negócios e
+fornecedores.
+Intensidade: A tecnologia da Internet move-se com uma rapidez inacreditável;
+interações e gerações de tecnologias são substituídas numa velocidade estonteante. A taxa de
+mudanças é tão rápida, que a indústria teve que criar uma definição para “Web Years” como
+medida de ciclo de tempo para o desenvolvimento da Internet. O Web Year é definido como
+algo entre três a seis meses do calendário normal.
+Simplicidade: Um dos maiores apelos da Web é sua simplicidade de arquitetura e
+interface com o usuário (browser).
+Diversidade: A Web oferece uma cornucópia de informações que podem ser
+mostradas não só em texto, mas imagens, fotografias, animações, clipes, áudio, realidade
+virtual em 3D; praticamente coisa que se conceba pode ser colocado numa página HTML.
+56
+2.11 COMÉRCIO ELETRÔNICO NA INTERNET
+São inúmeras as contribuições da TI para o setor empresarial, mas sem dúvida o
+Comércio Eletrônico (CE) é a principal delas, que é objeto de estudo neste trabalho.
+Para Albertin (2001), o comércio eletrônico deve ter como base principal duas
+dimensões, que são: os aspectos a serem considerados na utilização e as contribuições que o
+CE oferece às organizações, que, segundo o autor, são as seguintes:
+• Relacionamento
+A tecnologia trouxe uma evolução com fronteiras claras na visão tradicional, e
+relações limitadas bem mais estáveis com parceiros e mercados. Para Albertin (2001),
+atualmente, as tecnologias podem alavancar um redesenho das relações interorganizacionais,
+permitindo às companhias melhorarem a coleta de informações sobre seu ambiente de além
+fronteira, estabelecerem parcerias baseadas em meios eletrônicos com seus clientes e
+fornecedores e compartilharem plataformas e mercados eletrônicos com seus concorrentes.
+As empresas se comunicam com seus clientes por meio de várias mídias. Por muitos
+anos, as tecnologias vêm alterando profundamente a visão tradicional de mídia de marketing,
+compra e venda. Os ambientes, intermediados por computadores, tal como a Internet,
+permitem uma outra maneira de alcançar os consumidores, incentivam compradores e
+vendedores a incrementarem sua utilização, por possibilitar melhora na comunicação com
+seus clientes, mais eficiência nas relações de vendas e mais atratividade nos seus mercados.
+57
+Para Albertin (2001), as contribuições da TI são as seguintes:
+• Customização em massa
+A customização em massa oferece a oportunidade de o cliente tomar parte do projeto
+do próprio produto ou serviço.
+• Inovação de produtos
+A flexibilidade e o poder de resposta são as novas regras no ambiente empresarial
+atual, facultadas pela tecnologia da informação. A estratégia de produzir e vender da era
+industrial foi substituída pela de sentir e responder rapidamente às mudanças das necessidades
+e particularidades dos clientes. Além disso, com base na natureza instantânea, os sistemas de
+TI permitem reduzir o ciclo de vida de produzir e entregar produtos e serviços.
+• Novos caminhos de venda e distribuição
+Em virtude de seu alcance direto e sua natureza bidirecional na comunicação de
+informações, os sistemas de TI apresentam um novo canal de venda e distribuição para
+produtos, existentes ou novos.
+• Promoção de produtos
+Por meio de um contato direto, rico em informação e interativo com os clientes, a TI
+pode melhorar a promoção de produtos e serviços.
+• Novas oportunidades de negócio
+58
+Alterando as estruturas dos setores, os sistemas de TI ensejam o surgimento de novos
+modelos de negócios, baseados na ampla disponibilidade de informações e sua distribuição
+direta aos clientes e fornecedores, com surgimento de estratégias competitivas.
+Também, para Papscott (1999), através da TI, as empresas são capazes de extrair
+idéias valiosas de montanhas de detalhes aparentemente aleatórios, para uma estratégia
+competitiva consistente no comércio eletrônico.
+Albertin (2001) definiu que Comércio Eletrônico é a realização de toda cadeia de
+valores dos processos de negócios em um ambiente eletrônico, por meio de aplicação de
+tecnologia da informação e de telecomunicações, para atingir os objetivos de negócios da
+empresa. Negócios eletrônicos, esses podem se dar entre a empresa e seus consumidores
+finais ou entre empresas simplesmente.
+Para implementar Comércio Eletrônico, uma empresa não precisa necessariamente
+usar a Internet. Há algum tempo as empresas trocavam informações de negócios entre seus
+sistemas, através de uma linha de comunicação dedicada, isto é, a linha que faz a conexão
+específica e direta entre dois pontos, num esquema conhecido por EDI (Eletronic Data
+Interchange), ou troca eletrônica de dados. Mesmo não sendo a única maneira de praticar o
+Comércio Eletrônico, o autor deste trabalho optou por escrever somente do comércio pela
+Internet, por acreditar que a mesma veio trazer a facilidade de uma estrutura de comunicação
+padronizada, aberta e barata para a realização das transações.
+No estudo específico, pode-se definir Comércio Eletrônico como toda atividade de
+compra e venda realizada com auxílio de recursos eletrônicos, especificamente a Internet.
+Para entender melhor o comércio eletrônico, faz-se comparações com definições de
+outros autores, conforme segue.
+59
+Segundo Seybold (2000), o Comércio Eletrônico (CE) não está confinado a
+transações de cadeia de suprimentos entre grandes parceiros comerciais, e sim é o ato de
+fazer negócios eletronicamente em todos os aspectos .
+Para Nakamura (2001), as empresas que praticam Comércio Eletrônico (CE), usando
+a Internet como ferramenta principal ou de apoio para seus negócios, têm várias vantagens
+como:
+• As empresas têm um verdadeiro showroom aberto 24 horas todos os dias,
+recebendo visitas de quem realmente está interessado em seus produtos;
+• Melhora a comunicação com seu público, aproveitando vantagens como
+praticidade, versatilidade, rapidez e baixo custo operacional;
+• Com o apoio do e-mail, gera novos negócios e cativa novos clientes e
+fornecedores;
+• Orienta melhor seus clientes nas etapas de pré e pós-vendas
+• Melhora sua imagem institucional; com o domínio próprio facilita a vida do
+cliente;
+• Rentabiliza seu investimento em materiais publicitários. Na Internet, o espaço
+para divulgação é praticamente ilimitado e o custo é baixo para inclusão de
+novas informações;
+• Distribuição de informações a públicos específicos, com setores do site
+protegidos por senha para a distribuição de conteúdos privativos;
+• Possibilita a marketing one-to-one, embora a Internet tenha característica de
+mídia de massa; mas é essencialmente uma ferramenta de marketing
+personalizado.
+60
+Ainda segundo Nakamura (2001), o Comércio Eletrônico é o ato de comprar e
+vender via Internet
+Para Hartley (2001), a empresas que adotam o Comercio Eletrônico estão
+melhorando e integrando seus principais processos de negócios, utilizando tecnologias da
+Internet, pois as mesmas conseguem conectar seus sistemas de negócios diretamente com
+seus consumidores, empregados, parceiros e fornecedores via intranets, extranets,
+conquistando grandes oportunidades como:
+• Tornar-se mais eficiente.
+• Aumentar os lucros.
+• Aumentar a participação no mercado.
+• Redução de custos.
+• Aumentar a interação com clientes, fornecedores e empregados.
+Kalakota e Whinston (2002) afirmam que o Comércio Eletrônico é uma ferramenta
+que endereça o desejo das empresas, consumidores e gerência para cortar custos de serviços,
+enquanto melhora a qualidade das mercadorias e aumenta a velocidade da entrega dos
+serviços.
+Para Albertin (1999), o Comércio Eletrônico provê a capacidade de comprar e vender
+produtos e informações na Internet e em outros serviços on-line.
+Siegel (2001) afirma que e- commerce significa colocar os catálogos nos sites e
+receber os pedidos on-line.
+Segundo Laudon (2002), Comércio Eletrônico pela Internet é o uso da tecnologia da
+informação como computadores e telecomunicações para automatizar a compra e venda de
+61
+bens e serviços. Esse autor considera ainda que os principais benefícios do mesmo para as
+empresas estão relacionados com o papel, tempo, distância e a relação com os clientes.
+Conforme definições, nota-se que a Internet cria um espaço para as realizações e
+transações de negócios, e é nesse novo ambiente on-line que as operações comerciais
+deverão continuar evoluindo.
+O Brasil ocupa a liderança do mercado de Comércio Eletrônico da América Latina,
+tendo transacionado mais de US$ 600 milhões em 2001 (a maior parte na modalidade B2B),
+o que representou cerca de 88% do valor das transações realizadas pelos países latinoamericanos,
+segundo levantamento da Info-Exame (2002). Segundo o Livro Verde do
+Ministério da Ciência e Tecnologia (2001) esses valores ainda são muitos pequenos, se
+comparados que no Estados Unidos um consumidor gasta em compras na Internet 400
+dólares/mês, e no Brasil se gasta apenas 9 dólares/mês. Mediante isto, o governo promoveu
+iniciativas visando desenvolver e apoiar a atividade do Comércio Eletrônico no Brasil,
+criando o Comitê Executivo de Comércio Eletrônico.
+Segundo o Livro Verde do Ministério da Ciência e Tecnologia (2001), fatores como
+logística e legislação é que contribuem para esse fato.
+A precariedade da logística das empresas brasileiras de comércio eletrônico que
+pode ser percebida no acompanhamento diário das seções dedicadas aos consumidores nos
+principais jornais são: queixas de mau atendimento, atraso nas encomendas e compras
+debitadas nos cartões de crédito sem a entrega da mercadoria.
+Quanto à legislação no Brasil, não há uma regulamentação das transações efetuadas
+em redes eletrônicas, assim como dos documentos na forma digital envolvidos ou gerados por
+essas transações. Também não existe proteção legal específica para o consumidor de bens e
+serviços disponibilizados nas redes eletrônicas.
+62
+Entretanto, estas dificuldades aos poucos estão sendo superadas, segundo o Ministério
+da Tecnologia, no Livro Verde (2001), com projetos de mudanças no quadro jurídico que
+legalizam as transações on-line e reconhecimento da assinatura digital. No campo da
+logística, algumas empresas vêm investindo muito em distribuição, principalmente na
+formalização de acordos para remessa de suas encomendas por meio de serviços de entrega
+especializada. Portais de Comércio Eletrônico estão fazendo uso crescente de call-centers
+para dar suporte ao processo de distribuição de mercadorias. As transportadoras mais
+sofisticadas permitem ao cliente acompanhar, eletronicamente, todo o percurso de sua
+aquisição
+Para Albertin (2001), tanto no Brasil como no mundo, o comércio eletrônico
+encontra-se em um momento de consolidação, justificando que, após o início do simples
+fornecimento de informação, o mercado buscou, primeiro, a realização de transação; em
+segundo, o apoio à distribuição; e, em terceiro, a inteiração pela comunicação. Segundo o
+mesmo autor, nos setores de comércio e serviços, cerca de 70 % das empresas já utilizam das
+aplicações do comércio eletrônico para a integração com os clientes. Diz ainda que as
+aplicações de comércio eletrônico no relacionamento não eram prioritárias pelas empresas;
+porém, seu crescimento acentuado demonstra que as empresas também estavam trabalhando
+em seu desenvolvimento.
+2.11.1 A Logística e o Comércio Eletrônico
+O termo logística tem sido adotado por muitas empresas de transporte, mesmo que
+esteja realizando apenas uma parte do processo. A logística é uma importante estratégia de
+guerra, mas a partir dos anos 50 passou a se desenvolver também no ambiente empresarial.
+63
+Foi resultado do aumento da competição comercial e da necessidade de a empresa se tornar
+cada vez mais eficiente e eficaz na tarefa de atender às necessidades do consumidor.
+Segundo Nakamura (2001), a logística para o Comércio Eletrônico na Internet não
+deve ser vista como um sistema de entrega de produtos; porém muito mais abrangente, com
+as atividades de transportes, manutenção dos estoques e processamento de pedidos, somam-se
+outras atividades de apoio tais como: armazenagem, manuseio de materiais, embalagem,
+obtenção (corrente de suprimento), programação da produção e manutenção da informação
+(localização dos clientes, volume de vendas, padrões de entrega e níveis de estoque).
+No setor empresarial, a logística dever ser considerada estrategicamente, até mesmo
+com a segurança de seu negócio, pois um problema logístico pode interferir no sucesso de seu
+empreendimento, à medida em que os clientes deixam de ser atendidos. Entende-se por
+logística empresarial o conjunto de atividades relacionadas ao fluxo de produtos e serviços
+em direção ao cliente. As empresas devem ter um planejamento logístico para aumentar a
+produtividade e rentabilidade, e levar em consideração o nível de serviço logístico que deseja
+oferecer. Para Nakamura (2001), num planejamento logístico devem ser considerados: o
+tempo médio de entrega, informações sobre o andamento do pedido, serviços de atendimento
+de urgência, resolução de reclamações, políticas para casos de devolução e procedimentos de
+cobrança.
+Também o produto influi na definição de estratégias logísticas. Os produtos podem
+ser divididos em dois grandes blocos: bens industriais e bens de consumo, sendo que os bens
+de consumo podem ser divididos em três classes: de conveniência, de comparação e de uso
+especial.
+Os bens de conveniência são aqueles que são comprados freqüentemente e de forma
+imediata, e costumam exigir pouca pesquisa antes de compra; os bens de comparação
+encontram na Internet uma concorrência muito maior, já que muito fácil realizar a pesquisa
+64
+de preço; e os bens de uso especial encontram na Internet uma excelente oportunidade de
+aumentar o potencial de distribuição; já em relação aos industriais, os compradores costumam
+ser menos sensíveis a diferentes níveis de serviços logísticos.
+Para entender a logística no setor imobiliário, é fundamental o conhecimento dos
+conceitos modernos de administração que pregam o estoque mínimo, tendendo à inexistência
+destes nos processos. Porém, o estoque no setor imobiliário é quase sempre estratégico, uma
+vez que auxilia na coordenação entre oferta e demanda. Afinal, nem sempre as atividades de
+aquisição e aluguel são totalmente confiáveis sem antes uma visitação ou comparação do
+produto. O conceito de just in time, cuja tendência era a eliminação de estoques, aqui no
+setor imobiliário fica desconfigurado, pois, na maioria, os produtos e serviços são
+terceirizados ou consignados, ficando as imobiliárias apenas com comissões pela realização
+da transação.
+2.11.2 O relacionamento no Comércio Eletrônico
+A maioria das empresas se preocupa com a expansão de seus negócios investindo
+tempo e dinheiro em estratégias para conquistar novos consumidores. Há ainda o argumento
+de que esse investimento trata de “reconquistar” o cliente a cada nova empreitada, sobretudo
+em campanhas publicitárias em mídia de massa.
+A Internet se apresenta neste quadro como uma interessante ferramenta de conquista
+e retenção de clientes. Seja seu negócio em e-commerce ou em negócio tradicional em busca
+de um valor agregado maior, as vantagens deste ambiente são muito atraentes e acessíveis à
+maioria das empresas. Nota-se que diversas estratégias podem ser empregadas para fortalecer
+os vínculos entre cliente e empresa. Por e-mail, os clientes tendem a expressar sua
+65
+indignação mais facilmente, fornecendo até mesmo mais detalhes do que por outros meios,
+como contato pessoal, telefônico ou por carta. A facilidade e o imediatismo da Internet
+incentivam os usuários a reclamarem seus direitos ou atenção que acreditam merecer.
+Para Norris (2001), o relacionamento com o cliente pode começar antes mesmo de
+ele procurar sua empresa, seja por meio do telefone, visita pessoal ou Internet. A informação
+da imagem institucional de sua empresa por intermédio de diferentes meios promocionais já
+começa a criar expectativa no consumidor, que tem no primeiro contato, um dos momentos
+mais importantes do início do relacionamento, sendo neste ponto que começa efetivamente
+a interação das duas partes.
+Nakamura (2001) aconselha como estratégias e ferramentas de relacionamentos os
+websites. Afirma que um website é uma central de atendimento ao cliente, que funciona 24
+horas por dia todos os dias do ano.
+Uma das grandes vantagens das páginas eletrônicas é possibilitar ao usuário o acesso
+interativo a um volume de informação inimaginável por outros meios. Mesmo que a venda
+não requeira informações, a quantidade de informações disponibilizada ao cliente pode ser
+maior na Internet, organizada de modo que o consumidor possa se aprofundar até o nível em
+que estiver satisfeito; ao deparar com dúvidas ou problemas, o consumidor pode ter as
+dúvidas mais simples resolvidas por um setor de suporte ao cliente, com diversas seções
+destinadas a ajudá-lo.
+Os websites devem conter informações precisas dos imóveis, como endereços,
+metragem interna e externa do imóvel , em caso de terrenos: toda a descrição e localização
+na cidade, bem como se possível informação sobre distância do mesmo aos pontos
+principais da cidade ou região, criando, assim, um relacionamento e adquirindo a fidelidade
+do cliente consumidor.
+66
+2.11.3 Aspectos jurídicos do Comércio Eletrônico
+Considerando-se a ausência de um número representativo de julgados específicos
+sobre o tema, Forgioni (2000) afirma que a linha de análise para o Comércio Eletrônico na
+Internet aproveita princípios positivados em decisões dos Tribunais sobre outras questões de
+alguma forma ligadas às “novas” tecnologias e relacionamentos, sejam entre empresas, sejam
+entre estas e seus clientes (business to business ou business to consumer); igualmente com a
+reinterpretação de institutos, de há muito, pela doutrina tradicional.
+Para o Comércio Eletrônico é necessário a celebração de um contrato via Internet,
+que, segundo Forgioni (2000), é um negócio jurídico bilateral que resulta do encontro de duas
+declarações de vontade.
+Discute-se a validade ou não do contrato, quando é realizado via Internet. Para
+Texeira (2001), o site deve encerrar elementos que, para a celebração do negócio, tão logo o
+adquirente clique na tela “comprar”, já haverá a incidência do disposto na artigo 191 do
+Código Comercial, que confirma a realização do negócio. Se o site não encerrar os
+elementos essenciais, não haverá a realização do negócio. Nota-se que terá celebrado o
+contrato quando as propostas de aceitação se encontrarem e forem como um espelho uma da
+outra, em correspondência perfeita, demonstrando o consumo havido entre as partes no que
+diz respeito aos elementos essenciais do negócio.
+O grande questionamento está para as questões jurídicas e se os tribunais admitem o
+suporte eletrônico como prova. Como consta no artigo 126 do Código Civil “os atos jurídicos,
+a que se não impõe a forma especial, poderão provar-se mediante (...) documentos públicos
+ou particulares. Diante dessa disposição, cumpre, ainda perguntar o contrato eletrônico pode
+ser entendido como um “documento”, para fins e efeitos de prova judicial?. Forgioni (2000)
+67
+responde que sim, afirmando que o Código Civil tem observado a doutrina de que os
+documentos não devem ser necessariamente escritos.
+A prevalência da forma escrita do documento sobre todas as formas explica-se pela
+facilidade de produção da prova de existência do negócio. Entretanto, isso não significa, em
+absoluto, que o documento eletrônico não sirva ao mesmo fim. Forgioni (2000) conclui que
+os documentos eletrônicos, porque são documentos para todos os efeitos de direitos, poderão
+ser admitidos em juízo como meio de prova à existência de um contrato entre as partes ou a
+prática de qualquer ato jurídico. Não se tratando de um documento assinado, não deverá, de
+plano, presumir sua autenticidade. A valoração dessa prova dependerá do contexto processual
+e terá o peso que lhe for atribuído pelo juiz, conforme mandar a sua livre apreciação.
+Teixeira (2001) acredita que não há a necessidade de qualquer novo texto de lei que
+repute o documento eletrônico como válido, porque nosso ordenamento assim já o considera.
+Os tribunais reconhecem a senha para o Comércio Eletrônico como documento de
+contrato; mesmo esta podendo ser usada por terceiro, os julgadores têm entendido que cabe
+ao titular da senha o dever de protegê-la contra a indevida utilização.
+Outro aspecto importante neste tipo de negócio é a assinatura eletrônica. A práxis do
+comércio pela Internet é a utilização de assinaturas ou firmas eletrônicas, bem como da
+certificação para assegurar ao destinatário da mensagem que o documento foi expedido por
+seu “subscritor” e não houve alteração do seu conteúdo.
+As assinaturas eletrônicas (ou digitais) são criadas e conferidas graças à criptografia,
+tornando-as quase impossível de serem violadas.
+A utilização de e-mails de confirmação pode, também, prestar-se à defesa dos
+interesses das empresas, considerando a jurisprudência que respeita os termos do contrato
+entre a empresa e seu cliente. Os e-mails, assinaturas eletrônicas, senhas e outras formas são
+68
+confirmação de certificação, destinadas a conferir maior grau de confiabilidade, mas não um
+requisito de validade ou eficácia do ato.
+2.11.4 Os dez mandamentos do Comércio Eletrônico
+“Para uma empresa conseguir atender seus clientes com um site comercial, deverá
+seguir os passos básicos, caso contrário é melhor nem começar sua jornada digital, pois
+segundo a Exame Informática (1999, p.59), as chances de sucesso serão praticamente nulas.
+1. Merchandising. Qualquer varejista sabe que um produto bem apresentado sai mais
+rápido da prateleira. Na Web, isso significa boas imagens, preços claros e
+informações completas dos produtos expostos. Também não se pode ignorar a
+localização dos produtos. Clientes entram nas lojas atraídos pelos produtos expostos
+na vitrine. Na Web, esses produtos ficam na primeira página.
+2. Promoção. Os tradicionais anúncios em jornais, revistas ou televisão são
+substituídos por banners animados, e-mails ou promoções hot sell. Sempre anuncie
+produtos com forte apelo de venda. Não se esqueça de preparar seu plano de
+marketing e separar a verba necessária para executá-lo.
+3. Atendimento a clientes. O processo de venda, virtual ou não, envolve várias etapas;
+em cada uma delas há interação entre o consumidor e um funcionário da empresa.
+Estabeleça um canal de comunicação preciso, transparente e ágil; caso contrário
+consumidores desaparecerão rapidamente.
+4. Venda. Para ter sucesso nas vendas, é necessária uma equipe de vendedores bem
+treinada e motivada. Na Web, isso pode ser feito com muito mais consistência e
+69
+menos custo. Os produtos e serviços oferecidos devem apresentar informações
+detalhadas, bem como seus principais diferenciais em relação aos concorrentes,
+análises de jornalistas ou consumidores sobre sua qualidade e outras informações
+que possam ajudar o cliente a decidir a compra mais rapidamente.
+5. Pagamento. Como a cultura de usar cartão de crédito pela Internet ainda é pouco
+disseminada no Brasil, oferecer formas de pagamento alternativas, como carteiras
+eletrônicas, depósitos identificados e cheques eletrônicos pré-datado.
+6. Pós-venda. Todo pós-venda deve estar disponível para consulta na Web, incluindo
+normas para troca ou devolução de produtos, dados cadastrais da rede de assistência
+técnica, perguntas e respostas mais freqüentes e informativos periódicos por e-mail
+sobre novidades.
+7. Segurança. O ponto mais importante do Comércio Eletrônico. Todas as pessoas
+temem de medo comprar algo com o cartão de crédito pela Web. Por isso, não
+poupar recursos de segurança para tirar essa preocupação de seus clientes. Isso inclui
+a adoção do SSL e processos de encriptação de informações nas bases de dados.
+Comunicar claramente a seus clientes a segurança oferecida no site.
+8. Estoque. Para ganhar eficiência nas vendas, separar fisicamente o estoque dos
+produtos vendidos pela Web. Mesmo assim, o tratamento gerencial deve ser igual ao
+de um estoque normal, com informações precisas de giro, custo e tempo de
+reposição.
+9. Logística. Preparar-se para entregar produtos individualmente e com rapidez. E não
+se esquecer dos custos de transportes. Se forem muitos altos, sua empresa não terá
+clientes também.
+70
+10. Monitoramento. Manter sistemas de acompanhamento precisos e informatizados.
+Se a operação na for muito bem controlada, os custos com retrabalhos de
+informações irão comer qualquer margem deixada pela venda dos produtos.
+71
+3 PROCESSO EVOLUTIVO DO E-BUSINESS
+Após conceituar Tecnologia de Informação, Internet, Web, intranet, extranet e
+Comércio Eletrônico pode-se entender e conceituar o e-business e seus fundamentos.
+Segundo Franco (2001), o e-business é a parte invisível dos negócios eletrônicos,
+tudo aquilo que fica “atrás” da tela de um computador, sendo, portanto, o complementar do e-
+-commerce (Comércio Eletrônico). Diz o mesmo autor que o e-business torna todo o
+conjunto de sistemas de uma empresa interligado aos sistemas de diversas outras empresas,
+interagindo para que o e-commerce (Comércio Eletrônico) aconteça.
+Para Siegel (2001), e-business é quando todos na empresa utilizam a Internet para
+expor uma linha completa de mercadorias e serviços. Afirma, ainda, que muitos negócios
+eletrônicos surgiram rapidamente sem passar pela fase de comércio eletrônico, destacando-se
+o setor de serviços.
+Para Sleight (2001), e-business não é o mesmo que e-commerce, pois o primeiro
+representa uma visão mais ampla do conceito de negócios virtuais. Diz ainda que em ebusiness
+é necessário oferecer ao cliente a mesma eficiência e valor em todos os canais de
+venda e não apenas nos negócios on-line. Afirma, ainda, que o e-business se apóia no
+desenvolvimento de novas estratégias de negócios baseados em redes, onde é preciso
+negociar com rapidez, flexibilidade e custo compatível.
+Segundo Norris (2001), o e-business melhora o desempenho do negócio pelo uso de
+tecnologias eletrônicas de informação e de padrões abertos para interligação de fornecedores
+e clientes em todas as etapas ao longo da cadeia de valor, podendo melhorar
+significativamente o desempenho do negócio pelo fortalecimento das ligações entre
+empresas na cadeia de valor e entre a empresa e o consumidor final. Enquanto o comércio
+eletrônico tem o seu foco na eficiência em vendas, marketing e compras, o e-business é
+72
+focalizado na eficácia, através de melhorias no serviço ao consumidor, custos reduzidos e
+processos de negócio otimizados.
+Para Siegel (2000), o e-business é uma abordagem mais focalizada e mais abrangente
+do que o Comércio Eletrônico, sendo que sua meta é dar a públicos específicos uma
+experiência completa e personalizada. O autor afirma, ainda, que o e-business pode conter
+o Comércio Eletrônico simplesmente como um elemento de uma estratégia maior,
+afirmando que uma plataforma de e-business é uma mudança de atitude para dar aos clientes
+o poder de conseguir o que querem, quando querem e da forma que querem, concluindo que
+uma empresa em uma plataforma de e-business responde mais apropriadamente às novas
+demandas do cliente.
+Segundo Teixeira (2001), e-business refere-se à aplicação da tecnologia de
+informação e de telecomunicações aos negócios da empresa, para tornar sua cadeia de valor
+agregado, isto é, seus processos de negócios para geração de produtos ou serviços, uma
+estrutura virtual, paralela à estrutura física.
+Para Stair (2002), um sistema de e-business só será bem sucedido se atender aos
+muitos estágios do relacionamento com o cliente durante o ciclo das vendas. No coração de
+qualquer negócio eletrônico, está a possibilidade de o usuário pesquisar e identificar os
+itens à venda; selecioná-los; negociar preços; os termos de pagamentos; a data de entrega;
+enviar o pedido; pagar pelo produto ou serviços; recebê-los; e obter suporte pós-venda.
+O’Brien (2002) sugere que nenhuma abordagem isolada da mudança organizacional,
+incluindo a reengenharia, é adequada para todas as circunstâncias em e-business, e aconselha
+um investimento estratégico na Gestão da Qualidade Total.
+73
+3.1 GESTÃO DA QUALIDADE TOTAL EM E-BUSINESS
+A Gestão da Qualidade Total é uma abordagem muito mais estratégica da melhoria de
+processos empresariais. A qualidade é enfatizada mais a partir do ponto de vista do cliente do
+que do produtor, sendo a mesma superação dos requisitos e expectativas dos clientes em
+relação a produto ou serviço, sendo o que confirma a sugestão de O’Brien (2001).
+O modelo de qualidade total surgiu para a recuperação da economia japonesa a partir
+de um diagnóstico inicial norte-americano que atribuía ao produto japonês baixa qualidade.
+A partir de 1950, com relação a esse diagnóstico, Deming (1973) escreveu o manual de
+qualidade o qual passou a ser adotado nas principais organizações japonesas.
+O manual destaca que a qualidade é percebida pelo cliente; dessa forma é em sua
+direção que os sistemas devem orientar-se. Sendo assim, a qualidade é fundamentada em três
+elementos que são: just in time, kanban e kaisen.
+No passado, o controle de qualidade era visto pelas empresas tão somente com a
+preocupação do cumprimento das especificações de projetos, dando conformidade com os
+padrões, sendo que, se o desempenho de um produto estava de acordo com o projetado,
+bastava para ser considerado como de alta qualidade. Hoje, qualidade significa a capacidade
+de um produto ou serviços atingirem ou excederem às expectativas dos clientes.Um produto
+de alta qualidade satisfaz o cliente quando funciona corretamente e com confiabilidade,
+atende às necessidades e às expectativas, e é entregue pontualmente, demonstrando cortesia e
+respeito com o cliente.
+74
+3.1.1 Just in time
+Para Franco (2001), o “just in time” nada mais é que a não existência de estoques,
+quer seja de componentes, quer seja de produto acabado, fazendo com que clientes finais,
+produção e fornecedores formem uma corrente contínua de processo, de operações e
+informações.
+O mesmo tem como princípio minimizar perdas de tempo e eliminar os custos
+indiretos, tais como os custos de estocagem e manuseio de estoques.
+3.1.2 Kanban
+Segundo Franco (2001), o kanban tem como princípio a organização que nada mais é
+que um sistema de controle no qual o determinam a produção e seu consumo. Afirmam,
+ainda, que o grande sucesso do modelo é a sua aplicabilidade na informática .
+3.1.3 Kaizen
+Para Franco (2001), kaizen é um princípio de constante busca de mudança para
+melhor. Por outro lado, afirma Chiavenato (2001) que, neste princípio, nada está perfeito ou
+absoluto de qualidade.
+Segundo Franco (2001), estrategicamente esses modelos devem ser utilizados pelas
+empresas que já estão na Internet ou que ainda vão entrar para que possam conquistar a
+fidelidade do cliente.
+75
+3.2 REENGENHARIA
+Para Chiavenato (2001), a reengenharia foi uma reação ao colossal abismo existente
+entre as mudanças ambientais velozes e intensas e a total inabilidade das organizações em
+ajustar-se a essas mudanças.Para Franco (2001), reengenharia significa fazer uma nova
+engenharia da estrutura organizacional. Representa uma reconstrução e não simplesmente
+uma reforma total ou parcial da empresa.
+Para O’brien (2002), reengenharia é o reprojeto dos processos de trabalho e a
+implementação de novos projetos.
+Para os autores Franco (2001) e Albertin (2002), a reengenharia associada com os
+princípios da gestão da qualidade é benéfica ao e-business, destacando os pontos fortes
+como:visão orientada de processo, orientação voltada para o cliente e baixo risco. Sendo que
+os pontos fortes providentes da reengenharia pra os e-business são: mudanças radicais;
+resultados significativos e preparo para novas mudanças.
+As características trazidas da reengenharia e dos princípios da qualidade, segundo
+Franco (2001), devem criar para a empresa a base do modelo de e-business por não se desejar
+criar estruturas rígidas e inflexíveis. Franco (2001) diz: ainda que um projeto de e-business
+alcance sucesso, irá requerer talentos diferentes de seus participantes, para continuar
+agregando valor e vantagem competitiva, alcançando benefícios para o cliente.
+Stair (2001) afirma que, para as organizações tornarem-se competitivas e
+permanecerem, elas precisam, dentro dos processos de reengenharia alterar profundamente o
+modo como fazem os negócios, pois ele diz que a reengenharia envolve a readequação dos
+processos empresariais, sistemas de informação, estruturas organizacionais e valores da
+organização, objetivando uma guinada nos resultados do negócio, concluindo que a
+76
+reengenharia pode reduzir o tempo de entrega do produto e do serviço, aumentar a
+satisfação do cliente e elevar o faturamento e a lucratividade.
+3.3 MUDANÇA
+Segundo Tachizawa (2001), uma mudança bem sucedida supõe três fases: o
+descongelamento, movimentação e recongelamento. O descongelamento envolve a redução
+de forças que mantêm o comportamento da organização em determinado nível, que pode
+significar a desconfirmação, isto é, a não confirmação pela experiência das hipóteses a cerca
+do mundo. Isso se traduz na insatisfação das pessoas e não abertura à mudança. Essa
+desconfirmação pode ser tão forte que pode ativar o mecanismo de culpa e ansiedade,
+possibilitando a motivação para aceitar a alteração.
+Na segunda etapa- movimentação -, a organização muda para um novo nível, o que
+supõe a adoção de novos valores, atitudes e comportamentos. A movimentação implica a
+identificação com o novo modelo e a perscrutação do ambiente, isto é, a procura de
+informação nova e a aprendizagem de novos conceitos relevantes para a situação.
+Finalmente, o recongelamento consiste na estabilização das mudanças efetuadas para
+que os novos pontos de vistas se solidifiquem e entrem na rotina da organização.
+As técnicas e formas de mudança são de fácil conhecimento, mas nem sempre é fácil
+gerir a mudança. Durante os anos noventa, a mudança passou a ser condição de
+sobrevivência empresarial. Só neste início de século XXI, pode-se falar verdadeiramente em
+gestão de mudança, porque a característica fundamental das empresas é a inovação e a
+mudança constantes, dados a fluência e rapidez da informação.
+77
+Segundo Stair (2002), tendo decidido sobre a mudança, é necessário planejar as
+formas de implementação, o que se consegue pelo: estabelecimento de um grupo de mudança;
+planos de atividades; compromisso com o plano; criação de novos elementos; auditoria à
+mudança; formação e treino.Tachizawa (2001) afirma que muitas empresas usam os círculos
+de qualidade, Kanban, Kaizen e reengenharia para concretizar a mudança.
+A tecnologia traz consigo a necessidade de mudança organizacional, pois a mesma
+induz a novas formas de gestão de negócios e, conseqüentemente, a um novo tipo de gestor.A
+figura 3, apresenta um modelo de mudança, mostrando o descongelamento, a movimentação e
+o recongelamento que segundo Stairs (2001), são abordagens de mudança e a reengenharia de
+negócios em uma empresa. (ver figura 3).
+Figura 3 - Exemplificação de um processo de Mudança e Reengenharia
+(Fonte: Stair, 2001)
+78
+3.4 RELACIONAMENTOS EXTERNOS EM E-BUSINESS.
+Para Franco (2001), o uso da Internet para fins comerciais de forma maciça começou
+como modelo de venda direta aos consumidores- B2C (business-to-customer). No entanto,
+afirma que um novo modelo de relacionamento externo surgiu e está se mostrando, em
+dimensões incalculáveis; trata-se de negócio entre empresas pela Internet, ou seja, B2B
+(business-to-business).
+3.4.1 Definição de Business to Business e vantagens
+O B2B é uma estratégia de comércio entre empresas, sobretudo na relação produtor/
+importador e sua rede de distribuição. Baseado na Internet com uso de recursos da extranet,
+o B2B traz para as empresas uma competição sadia, ao desenvolver estratégias
+competitivas, identificam atividades que são importantes para todas e que pode ser executada
+conjuntamente, sem prejuízo de competitividade. Os principais objetivos do B2B é reduzir
+custos, controlar melhor os estoques e agilizar o processo de compras. Para o setor
+imobiliário, acredita-se que o diferencial dessa estratégia é poder atender os clientes
+potenciais com uma informação globalizada entre as empresas do ramo, pois o público de
+B2B necessita de informações precisas sobre os produtos e os procedimentos para compra e
+pagamentos das negociações on-line.
+79
+3.5 BUSINESS TO CONSUMER E APLICAÇÃO
+Segundo Franco (2001), essa modalidade tem atraído bastante a atenção dos
+empreendedores Internet, muitos dos quais já são comerciantes com lojas físicas
+estabelecidas. Afirma, ainda, que o B2C é um modelo de negócios baseado em Internet pura.
+A estratégia de B2C tem como princípios a venda de produtos e serviços ao
+consumidor final por intermédio da Internet.
+Ao vender diretamente ao consumidor final, elimina-se a cadeia intermediária, com a
+possibilidade de aumento de margem de lucros. Porém, isso pode levar a um conflito de
+interesses com a malha de distribuição já formada que vê uma nova condição de sua empresa,
+passando de parceira para concorrente.
+No B2C, é importante para dar mais segurança ao consumidor final a emissão de
+contrato; no entanto, todas as mensagens de e- mail e contratos e comprovantes de compra
+emitidos on-line têm o mesmo valor de uma prova oral nos processos jurídicos, conforme
+Nakamura (2001). Não são provas documentais. Apenas os boletos bancários quitados ou o
+extrato de cartão de crédito serão considerados provas documentais, no caso de qualquer
+contestação jurídica. Em negócios imobiliários, acredita-se que o B2C poderia agilizar
+contratos de compras e vendas, bem como de aluguel, com emissão de notas de pagamentos e
+recebimentos dos usuários do setor.
+3.6 ESTÁGIO DE TRANSIÇÕES PARA O E-BUSINESS
+Para Seybold (2000), as s empresas normalmente passam por cinco estágios distintos
+em suas iniciativas de e-business, que são:
+80
+• Fornecer informações sobre a empresa e os produtos (brochureware)
+• Fornecer suporte ao cliente e possibilitar interações
+• Dar suporte às transações eletrônicas
+• Personalizar as interações com os clientes
+• Fomentar a comunidade.
+3.7 DEZ REGRAS DO E-BUSINESS
+Essas são as dez regras de e-business citadas por Stanley (2002, p.32), como sendo
+as básicas que uma empresa e gestor devem conhecer para seu negócio.
+• Relacionamento Importa:
+O mais importante do e-business é que ele melhora seu relacionamento com seus
+clientes, fornecedores e empregados.
+• Tamanho Importa:
+Grandes companhias são ganhadoras na Web. Pequenas companhias em nichos
+específicos podem ser também. Mas estar entre essas duas é difícil .
+• Velocidade Importa:
+Conseguir uma solução rápida e mais importante do que achar a solução perfeita. A
+chave é conseguir uma solução que funcione.
+81
+• Integração Importa:
+A solução ideal de e-business funciona para a companhia inteira, não importa apenas
+para um departamento.
+• Tecnologia Importa:
+Sistemas existentes devem ser levados em conta, mas não deixar que eles ditem o
+seu futuro.
+• Parceiros Importam :
+Quando escolher uma solução de e-business, deve-se ter um parceiro que você possa
+confiar que esteja sempre por perto.
+• Site no Ar Importa:
+Ninguém se importa quão bom o seu sistema tem sido, se ele não está funcionando
+agora.
+• Segurança Importa:
+Ter certeza de que as informações confidenciais se mantenham confidenciais.
+• Flexibilidade Importa:
+Escutar cuidadosamente os consumidores e fornecedores para se estar preparado para
+as mudanças que virão.
+82
+• Conclusão Importa:
+Enquanto vendas no varejo aumentam os ganhos, o B2B pode reduzir custos.Vá para o
+máximo ganho, ou melhor, redução do sofrimento.
+3.8 DEZ MANDAMENTOS DO E-BUSINESS
+Segundo a Garter Group (1999), esses são os dez mandamentos do e-business:
+• Não planejar os negócios por mais de 36 meses.
+• Separar as estratégias de cada unidade da empresa.
+• Avaliar continuamente os investimentos.
+• Balancear processos internos e externos.
+• Executar o modelo de negócios planejado inicialmente.
+• Descontinuar unidades de negócios fracas.
+• Agir conforme as possibilidades.
+• Não tentar controlar 100% do negócio sozinho.
+• Manter alta velocidade na tomada de decisões.
+3.9 IMPLEMENTAÇÃO E CAMINHOS DO E-BUSINESS
+Para uma empresa iniciar seu caminho rumo ao e-busienss, geralmente passa por
+algumas fases, podendo destacar como as mais importantes: a presença na Web, condução dos
+negócios, atendimento ao cliente e valor.
+83
+• Fase 1 – Presença na Web: Caracterizada pela entrada da empresa na Internet,
+disponibilização de informações, cadastro com dados do cliente. Fase conhecida
+com Brochureware, o site parece um catálogo institucional da empresa.Geralmente
+chatos, monótonos e completamente desinteressantes. È uma fase muito delicada
+para a empresa, porque denigre sua imagem, especialmente se for uma empresa
+que tem imagem inovadora. Quanto mais rápido a empresa sair dessa fase melhor,
+para ela. Outro detalhe dessa fase é quando a mesma não está habituada com a
+Internet; pode cometer erros gravíssimos, como demorar muito tempo para
+responder um e-mail ao cliente.
+• Fase 2 - Conduzir o e-commerce: Nesta fase, a empresa já está acostumada com
+a Internet. Começa entender suas características e principalmente suas nuances. Já
+começa agregar algum valor à organização, mesmo que ela ainda não começou a
+fazer e-commerce. O risco ainda é baixo, começa a integração com o back office
+da empresa, continua com uma fonte única de dados baseados em servidores.
+• Fase 3 - e-Business e CRM: Na fase três a empresa já passou por vários
+percalços mas agora acredita do valor nternet. Nessa fase, há benefícios reais, um
+esforço considerado foi empregado. A empresa foi repensada, utilizando o
+modelo Web. Se essa fase não for capitaneada pelo CEO e pelo CIO e com todo
+apoio da empresa, pode haver riscos para a corporação. Parte da cadeia de valor
+está integrada. Já exite uma linguagem de negócios comuns e a integração de
+múltiplas fontes de dados. Começa a haver uma base de conhecimento do cliente
+com a utilização do CRM.
+84
+• Fase 4: Service Application Model: Essa é fase de ganho máximo para a empresa.
+Houve mudança cultural da empresa e das pessoas de TI. A empresa está
+trabalhando utilizando todo o potencial da Web. Os processos foram remodelados
+para construir melhores relacionamentos com consumidores, fornecedores e
+empregados.
+As empresas on-line são, em sua maioria, reconstruções virtuais de suas estruturas
+físicas; os nomes das seções do site correspondem exatamente aos letreiros pendurados nos
+vários departamentos de uma loja física. Na década de 90, isso era o grande feito. Essa
+abordagem pode gerar um pouco de dinheiro, mas, segundo Siegel (2000), não leva a empresa
+ao futuro, afirmando que o novo e-customer exige muito mais do que as informações antigas
+já existentes na loja.
+Devido ao fato de e-business incluir o e-commerce, a maioria das empresas pode
+evoluir de um para outro, simplesmente fazendo um esforço conjunto e redesenhando os
+processos e comunicação eficiente. Ainda segundo Seigel (2000), no e-business, o gargalo da
+comunicação primeiro se alarga, e depois desaparece, permitindo que um número cada vez
+maior de seus funcionários interaja diretamente com os clientes. Por fim, a equipe Web
+inicial dissemina seu know-how para toda a empresa, permitindo que todos se comuniquem
+com os e-customers.
+Continuando, Seigel (2000) diz que no e-commerce, a equipe Web “vai pescar todo
+dia e traz o peixe”. No e-business, a equipe Web ensina todos da empresa a “pescar”. E
+conclui que o ideal seria que a equipe Web desaparecesse com as mudanças, e que isso só
+será possível se a gerência tiver a intenção que aconteça, pois a equipe Web plantará as
+sementes que levam à sua própria destruição, mas uma “destruição criativa” para a
+organização.(ver figura 4 e 5).
+85
+Figura 4 - Caminho para o E-Business (Fonte: IBM,1999)
+Figura 5 - Caminho para o E-Business II (Fonte:IBM,1999)
+Cada fase do e-business tem seu próprio desenvolvimento, e não ocorre de uma
+forma linear, mas sim em círculos de melhoria. É um ciclo começando do planejamento da
+informação, indo para a construção e diponibiização da aplicação, levando ao aumento das
+86
+habilidades dos funcionários e o conhecimento, fazendo com que a empresa se torne uma
+organização responsável.
+Na figura 6 - Servir melhor seus clientes; é mostrado graficamente como esse ciclo
+funciona. Onde cada ciclo termina, começa o outro, fazendo com que a empresa nunca pare,
+sempre esteja em movimento (ver figura 6).
+Figura 6 - Servir Melhor Seus Clientes (Fonte: IBM, 1999)
+3.10 TECNOLOGIAS EM E-BUSINESS
+Os sistemas de tecnologia de informação nas empresas costumam ser divididos em
+dois grandes grupos: back office e front office. Os primeiros automatizam os processos
+internos da empresa, como produção, as compras e os pagamentos. Esse tipo de tecnologia
+87
+nasceu na década de 1960 e, com o tempo, transformou-se nas aplicações conhecidas como
+ERP (enterprise resources planning) que é o planejamento de recursos da empresa.
+Os programas de front office automatizam os processos vinculados ao contato com o
+cliente; as versões apareceram em meados da década de oitenta e se agruparam nas que
+assistiam a força de vendas e nas orientadas para a assistência e serviço ao cliente, surgindo
+logo após a integração das funções de venda e pós-venda que originou na tecnologia que
+hoje é conhecida como CRM (Customer Relationship Management) a qual traz clientes e não
+clientes para dentro da empresa.
+3.11 GERENCIAMENTO DO RELACIONAMENTO COM O CONSUMIDOR
+Cada vez mais os grupos de empresários tem despertado para o fato de que podem
+criar riqueza (valor novo), se trabalharem de forma criativa com parceiros comerciais na
+cadeia de distribuição e com os consumidores, a fim de reduzirem os custos e ciclos dos
+produtos e serviços e ainda oferecer um melhor acompanhamento dos pedidos. Há satisfação
+do cliente é o segredo para aumentar o lucro. Pesquisas têm demonstrado que somente os
+clientes felizes permanecem fiéis; esse cliente sempre volta. Oferecer um relacionamento que
+seja meramente satisfatório e não prazeroso torna a empresa vulnerável, possibilitando a
+perda de clientes para um concorrente com o qual o cliente encontre mais felicidade em
+negociar.
+Ao utilizarem a Tecnologia da Informação, as empresas mais ágeis fortalecem os
+relacionamentos com os clientes, através da integração de processos de vendas, configuração
+de produto, planejamento e projeto, utilizando canais novos ou já existentes. Geralmente, a
+empresa possui um conjunto de clientes preferenciais, porém aceita pedidos de qualquer
+88
+comprador qualificado. Desde a revolução industrial, as empresas passaram a olhar os
+pedidos como nada mais do que uma demanda por seus produtos ou serviços.
+Como fonte de lucro, os clientes são tratados com respeitos, na esperança de que
+novos negócios possam ser obtidos.
+A partir da metade dos anos 90, os sistemas de informações de clientes permitiram às
+empresa obterem dados sobre seus clientes, na esperança de identificar atributos ou
+tendências de compras individuais. No entanto, somente após a aplicação da web, as empresas
+que operam no mundo de consumo de massa foram capazes de realmente personalizar os
+relacionamentos com os clientes.
+O gerenciamento do relacionamento com os clientes (Customer Relationship
+Management-CRM) contribui para que as empresas alcancem este objetivo. Como dito antes,
+um sistema e-CRM enfatiza o front office da empresa, focalizando vendas, marketing e
+atendimento ao cliente. Entretanto, para que o e-CRM seja bem sucedido, deverá ser visto
+mais com uma combinação de pessoas, processos e sistemas, do que como uma aplicação de
+tecnologia da informação de definição limitada. Para Norris (2001), o e-CRM é um
+componente de nova geração de sistemas e-ERP que focalizam os processos voltados para o
+exterior da empresa, unindo-os ao mecanismo interno de processamento de transações de
+sistemas e-ERP originais.
+Segundo Peppers e Rogers (2000), o e-CRM é a infra-estrutura para implementar a
+filosofia de relacionamento com os clientes. Em Stanley (2002), diz que e-CRM é uma
+estratégia de negócio voltada ao atendimento e antecipação das necessidades dos clientes
+atuais e potenciais da empresa. Do ponto de vista tecnológico, e-CRM envolve capturar os
+dados do cliente ao longo da empresa, consolidar todos os dados capturados interna e
+externamente em um banco de dados central, analisar os dados consolidados, distribuir os
+89
+resultados dessa análise aos vários pontos de contato com o cliente e usar essa informação, ao
+interagir com o cliente através de qualquer ponto de contato com a empresa.
+Para Franco (2001), a capacidade de trabalhar de forma sistêmica com os elementos
+fundamentais do e-CRM (identificação, diferenciação, interação) é que vai permitir os
+sistemas da empresa fecharem o processo com a personalização. Diz, ainda, importante
+notar que o e-CRM não é uma ferramenta e sim parte de um complexo maior, é parte de uma
+visão totalmente processo integrado que a empresa deve adotar e projetar também em seu
+modelo de e-business. Apontando que as maiores dificuldades para implantar um e-CRM, na
+empresa tem sido que, na nova economia, não existe mais o jogo do perde-ganha da velha
+economia, e sim que, para ganhar o cliente, às vezes, precisa ser perdedor.
+Gaset (2001) diz que o e-CRM não é apenas um software; é uma nova filosofia,
+afirmando que o e-CRM é um sistema que ajuda a empresa a reunir todo o conhecimento
+coletivo sobre clientes que possui dentro de si, colocando-o num lugar onde possa ser
+aproveitado por todos os funcionários, por meio do uso de um conjunto variado de
+ferramentas.
+Para operacionalizar o e-CRM, segundo Stair (2001), faz- se necessário:
+• Identificar os valores dos clientes em determinado segmento de negócios;
+• Diferenciar seus clientes, entendendo a importância relativa desses valores em
+cada segmento, formando então diferentes categorias de clientes;
+• Avaliar como impacto dessa diferenciação pode trazer benefícios para o
+relacionamento por meio da constante, profunda e intensa interação com o cliente
+de forma sistêmica;
+• Personalizar todo o processo de relacionamento com o cliente, de forma que ele
+comunique-se e receba os produtos, serviços e informações da forma que
+realmente deseja;
+90
+• Rentabilizar todo o processo, para que possa garantir ao cliente a sobreviência da
+empresa ao longo do tempo, acrescentando-lhe valor como fruto desse
+relacionamento;
+• Conquistar a lealdade no relacionamento.
+O valor do e-CRM pode ser mostrado através de uma figura cartesiana XY, onde o
+eixo X representa a lealdade do cliente e o eixo Y a sua satisfação. Quanto maior for a
+satisfação do cliente, via personalização de produtos e serviços baseados nas necessidades e
+expectativas dos clientes, provendo um excepcional suporte quando algum serviço ou produto
+não for de encontro a isso e outras ações que façam com que o cliente confie na organização,
+maior será sua lealdade (ver figura 7).
+Figura 7 – Valor do Customer Relationship Management Fonte:(IBM,1999)
+Entrega produto ou serviço num
+nível mínimo de expectativa
+Entrega um nível apropriado de
+serviço de suporte Proatividade
+quando o produto ou serviço foi
+entregue em desacordo.
+Entrega de um serviço
+excepcional de acordo com
+as preferências pessoais,
+valores e necessidade do
+cliente
+91
+3.12 O ENTERPRISE RESOURCE PLANNIG INTEGRADO AO E-BUISNESS
+E-ERP é uma abordagem estruturada para a otimização de cadeia de valores interna de
+uma empresa. Este interliga os componentes da organização através de um sistema lógico de
+transmissão e compartilhamento de dados comuns e integrados. Quando dados, tais como
+uma venda, entram em um dado ponto do negócio, eles seguem seu caminho através do
+software do e-ERP, que calcula automaticamente os efeitos da transação sobre outras áreas
+como produção, estoque, suprimentos, faturamento e entrada daquela venda nos registros
+financeiros.
+O que o e-ERP realmente faz é organizar, codificar e padronizar os processos e dados
+do negócio de um grupo empresarial. O software transforma dados transacionais em
+informação utilizável e agrupa esses dados de forma que possam ser analisados. Dessa forma,
+todos os dados transacionais coletados transformam-se em informação que pode ser
+empregada pelas empresas para apoiar decisões de negócios.
+Para Norris (2001), o e-ERP não é intrinsecamente estratégico; ao contrário, é uma
+tecnologia de suporte, um conjunto de módulos integrados de software que forma núcleo da
+máquina que realiza o processamento interno das transações. Ainda, Norris (2001) afirma que
+sua implantação requer mudanças importantes dos processos organizacionais, culturais do
+negócio.
+Segundo Franco (2001), o e-ERP é uma estrutura (sistema estruturado) para otimizar
+a cadeia interna de valores de uma empresa, e tem o papel de organizar, codificar e criar
+padrão para os processos internos da empresa. O e-ERP fará a ligação desse sistema interno
+com os fornecedores, clientes e parceiros, não fornecendo somente as informações por
+relatórios e telas, mas disponibilizando-as para alimentar e integrar os sistemas externos à
+empresa por meio de protocolos Eletronic Data Interchange (EDI).
+92
+Para O’brien (2002), a implantação do e-ERP tem uma abordagem sistêmica, que
+utiliza uma orientação sistêmica para definir problemas e oportunidades e desenvolver
+soluções.
+Sabe-se que o ERP era visto unicamente como uma forma de reduzir custos, o que
+levou a empresa a ter uma certa resistência organizacional à implantação; mas, com o eERP,
+ficou claro que a chave para a mudança é o comprometimento dos indivíduos, ao longo
+do grupo, em não apenas adotar novas tecnologias, mas novas formas de trabalho. Em uma
+organização suportada por um e-ERP, a nova tecnologia e os novos processos forçam os
+indivíduos a reciclarem o seu conjunto de habilidades.
+Para Seigel (2000), a implementação do e-ERP e a mudança dos processos de
+negócios que precisam ocorrer simultaneamente afetam necessariamente a estrutura
+organizacional de uma empresa e, ainda mais, os papéis de cada individuo dentro da
+organização.
+93
+4 ESTUDO METODOLÓGICO
+A metodologia utilizada no projeto foi a de pesquisa de campo, por meio de
+questionário elaborado com base em várias pesquisas exploratórias anteriores, mas com
+adaptações e alterações elaboradas pelo autor deste trabalho.
+O trabalho volta-se para o Setor Imobiliário, principalmente na região oeste do
+Estado de São Paulo, tendo as imobiliárias das cidades de Presidente Prudente, Assis,
+Presidente Wenceslau, Presidente Epitácio e Adamantina, como objeto principal de pesquisa a
+respeito da perspectivas de melhorias ou de implantação de um e-business para o setor, bem
+como a visão e opinião dos já clientes e futuros clientes que irão usufruir as futuras
+mudanças.
+4.1 PROCEDIMENTOS METODOLÓGICOS
+Segundo os conceitos de Cooper e Schindler (2000), pode-se afirmar que a presente
+pesquisa caracteriza-se como um estudo descritivo, uma vez que os mesmos entendem que,
+em estudos descritivos, a ênfase maior está na completa análise contextual dos eventos ou
+condições de suas inter-relações, em que, embora hipóteses sejam igualmente usadas, a
+confiança nos dados provoca o apoio ou as rejeições mais difíceis. Os autores acrescentam,
+ainda, que uma ênfase no detalhe fornece informações valiosas para a resolução de
+problemas e avaliação de estratégias, e que esse ponto é assegurado pelas múltiplas fontes de
+informações que permitem que essa evidência seja verificada, evitando que os dados sejam
+perdidos.
+94
+O presente estudo caracteriza-se também como sendo do tipo exploratório. Segundo
+Köche (1985), é descritivo porque se trata do estudo e descrição das características,
+propriedades e relações existentes na comunidade, grupo ou realidade pesquisada, e que
+favorecem, numa pesquisa mais ampla e completa, as tarefas de formulação clara do problema
+e da hipótese, com tentativa de solução. Segundo Rüdio (1980), o pesquisador procura
+conhecer e interpretar a realidade, sem nela interferir para modificá-la.
+Segundo a concepção de Mattar (1997), os estudos descritivos procuram descrever
+situações a partir de dados primários, obtidos originalmente por meio de questionários e
+entrevistas pessoais.
+O caráter exploratório tem sua explicação, nas considerações de Triviños (1995), já
+que este tipo de pesquisa tem por objetivo familiarizar-se como fenômeno ou obter nova
+percepção do mesmo, e descobrir novas idéias que requerem um planejamento bastante
+flexível para possibilitar a consideração dos mais diversos aspectos de um problema ou de
+uma situação.
+Ainda em Triviños (1995), tem-se que o pesquisador planeja um estudo exploratório
+para encontrar elementos necessários que lhe permitam, em contato com determinada
+população, obter os resultados que deseja.
+Segundo Gil (1998), o estudo exploratório é essencial como o primeiro passo para se
+determinar uma situação a partir da obtenção de informações sobre as concorrências,
+produtos existentes, evolução e tendências de um segmento específico em que se pretenda
+atuar. Para Barros (2002), a grande vantagem do estudo exploratório é obter informações a
+baixo custo.
+Enquanto método, está pesquisa terá uma abordagem quantitativa e qualitativa. Para
+Malhotra (2001), a pesquisa quantitativa procura quantificar os dados e aplicar alguma forma
+de análise estatística.
+95
+Cassel e Symon (1995) acrescentam que, para um pesquisador quantitativo, a
+generalização é alcançada através de técnicas, tais como, o tamanho da amostragem e
+estrutura da amostragem. A abordagem quantitativa permite fazer apenas generalizações
+sobre a amostra da população.
+Para Mattar (1997), em uma pesquisa quantitativa, os dados são obtidos de um
+grande número de respondentes e submetidos a análises estatísticas formais, e que,
+geralmente, os instrumentos de coleta de dados são questionários estruturados com perguntas
+fechadas.
+Segundo Malhotra (2001), abordagem qualitativa tem como característica principal
+compreender as relações sociais dos respondentes em profundidades.
+Para Mattar (1997), em pesquisas qualitativas, os resultados são colhidos de
+perguntas abertas (quando em questionários), em entrevistas individuais de profundidade,
+sendo normalmente as amostras reduzidas sem representatividade. Segundo Fernandes (1999),
+a abordagem qualitativa possibilita estudar fenômenos que envolvem seres humanos e suas
+intrínsecas relações sociais, estabelecidas em diversos ambientes.
+Cassel e Symon (1995) julgam a abordagem qualitativa mais apropriada aos tipos de
+pesquisa que focam em processos, mas também em resultados, especialmente ao tentar
+entender as experiências de indivíduos e grupos de pessoas em contextos organizacionais.
+Em Gil (1998), a pesquisa qualitativa proporciona melhor visão e compreensão do contexto
+do problema, enquanto a pesquisa quantitativa procura quantificar os dados aplicando-se
+análise estatística.
+Para este trabalho, utiliza-se das abordagens quantitativas e qualitativas, para um
+melhor entendimento e análise profunda dos dados, pois segundo Malhotra (2001), às vezes,
+se faz a pesquisa qualitativa para explicar os resultados obtidos pela pesquisa quantitativa;
+dessa forma, as pesquisas quantitativas e qualitativas são vistas como complementares.
+96
+Essa combinação de diferentes técnicas é definida, por Yin (2001), de triangulação, e
+que um pressuposto básico da triangulação baseia-se na premissa de que as fraquezas de cada
+método isolado serão compensadas pelas forças opostas de cada um.
+Ainda, segundo Yin (2001), a mistura de métodos quantitativos e qualitativos pode
+beneficiar o pesquisador, permitindo uma maior confiança nos resultados e estimulando a
+criação de métodos inventivos, ajudando a descobrir dimensões não óbvias de um fenômeno,
+levando a uma explicação mais rica.
+4.2 UNIVERSO E AMOSTRA
+Para a coleta dos dados desta pesquisa, definiu-se que o universo seria composto
+pelos proprietários ou gerentes de imobiliárias da região centro oeste do Estado de São Paulo,
+bem como também os usuários das mesmas como clientes externos. A pesquisa dirigiu-se às
+imobiliárias que praticam ou pretendem praticar o e-business como ferramenta para um
+desenvolvimento do setor.
+A intenção de pesquisar os proprietários e usuários da empresas imobiliárias neste
+estudo foi com objetivo de evidenciar a importância que os mesmos podem ter nas mudanças
+estratégicas de uma determinada organização.
+4.3 PROCEDIMENTOS
+Inicialmente, foi feita a pesquisa bibliográfica, procurando localizar informações em
+publicações sobre negócios eletrônicos, especificamente o e-business imobiliário. Como o ebusiness
+ocorre num ambiente eletrônico, buscou-se, também, informações sobre: tecnologia
+97
+da informação, sistemas de informação, comércio eletrônico, Internet, Web e evolução dos
+negócios.
+Sendo a amostra em estudo parte dos negócios eletrônicos das organizações, houve a
+necessidade de conhecer a origem e o processo evolutivo da administração de empresas em
+uma organização, bem como suas novas abordagens para um mundo digital.
+Após leitura crítica e reflexiva sobre o tema, fundamentou-se teoricamente o trabalho
+e formulou-se um pré-questionário da pesquisa.
+Na segunda fase, iniciou-se os primeiros passos para a pesquisa de campo.
+Para verificar a possível eficiência dos questionários, os mesmos foram pré- testados
+em dois ambientes. O questionário que se refere à utilização do comércio eletrônico por
+parte dos usuários do Setor Imobiliário e acesso e uso da Internet foi aplicado para 46 alunos
+do quarto termo do curso de administração de empresa de uma Instituição de curso superior
+de Presidente Prudente, com a devida autorização da direção. Como sugestão, um total de 3
+respondentes solicitou que, na questão de número 12 onde diz: “Quais vantagens financeiras
+que você creditaria a uma empresa do setor imobiliário que tem um site na Internet?”, a
+palavra site fosse substituída por “página” ou “home-page”, mas o autor deste trabalho
+preferiu a forma original, pois, segundo Sleight (2001), home-page ou página é apenas uma
+apresentação de um site, sendo neste que acontece o e-business.
+O questionário que se refere à Adoção do Comércio Eletrônico por
+Empresa/Empreendedor do Setor Imobiliário, foi aplicado como pré-teste junto a um grupo de
+32 empresários que assistiam às aulas de matemática financeira, ministradas pelo autor deste
+trabalho, na Associação Comercial de Presidente Prudente, sendo que os mesmos aprovaram a
+eficiência do questionário, e apenas um dos participantes disse que gostaria que fosse
+acrescentada a pergunta: “Você acredita no comércio eletrônico?”. Como o objetivo da
+98
+pesquisa não é avaliar sobre o crédito dado pelos usuários ao comércio eletrônico, a sugestão
+não foi atendida.
+Após a realização do pré-teste, iniciou-se a pesquisa de campo propriamente dita.
+Foram pesquisados os proprietários/gerentes de cada imobiliária, sendo que a pesquisa foi
+feita pelo autor, durante o mês de março, que visitou todas as empresas em suas respectivas
+cidades. As cidades foram escolhidas conforme o grau de importância e quantidade de
+habitantes. Esses critérios foram rigorosamente obedecidos e pesquisados junto ao IBGE
+(Instituto Brasileiro de Geografia e Estatística). Quando da aplicação do questionário junto às
+imobiliárias, o pesquisador sentiu a necessidade de acrescentar uma pergunta no mesmo:
+• Qual a quantidade média de pessoas que utilizam os serviços imobiliários da
+empresa?
+Na pesquisa solicitou-se também os endereços dos clientes que utilizam os serviços
+da empresa. Quanto à pergunta, foi prontamente respondida; quanto à informação, sempre no
+início acontecia uma certa resistência, mas com a explicação do “por que” e “para que”, a
+resposta era dada, formando aí os dados secundários para a pesquisa. Para Mattar (1995),
+dados secundários é uma pesquisa sobre dados já coletados.
+A importância dos dados secundários consiste para a formação de um universo, para
+saber a quantidade de usuários que devem ser entrevistados para uma amostra representativa
+que, segundo Pasquarelli (1993), é a menor parte representativa de um todo.
+99
+4.4 QUANTIDADE DE RESPONDENTE DA AMOSTRA
+O questionário de Pesquisa: Viabilidade do Comércio Eletrônico no Setor Imobiliário
+e Adoção do Comércio Eletrônico por Empresa / Empreendedor do Setor Imobiliário foi
+aplicado na totalidade das empresas do setor de cada cidade pesquisada com um total de
+100% dos respondentes.
+A quantidade de pessoas, ou seja, o tamanho da amostra de respondentes do
+questionário de pesquisa: Utilização do Comércio Eletrônico por parte dos Usuários do Setor
+Imobiliário foi obtido através da fórmula na qual o “n” representa o número de pessoas que
+responderam o questionário. Para ilustração, o cálculo na tabela abaixo foi realizado num
+universo de 1000 pessoas com uma margem de erro de 5 %.
+Para se obter “n” usa-se as seguintes fórmulas: Para Matar (1998).
+N
+0 N
+1
+0 N
+n 2
+D
+p (1 p)
+2
+Z
+0 N .
++
+= − =
+Exemplo com população de 1000 elementos para uma margem de erro 5%.
+384,16 0 N
+384,16
+0,0025
+3,8416 0,25
+2 (0,05)
+0,5(1 0,5) 2 (1,96)
+2 D
+p (1 p) 2 Z
+0 N . . .
+=
+= = − = − =
+ Para o cálculo acima foi utilizado:
+No = número dimensionado
+Z= Distribuição normal (1,96)
+P= probabilidade (0,50)
+D= margem de erro de 0,05 ou seja 5%
+n= tamanho da amostra
+N = tamanho da população
+(número dimensionado)
+277
+1,38416
+384,16
+1 384,16
+384,16
+1000
+384,16 1
+384,16
+N
+0 N
+1
+0 N
+n = = + =
++
+=
++
+=
+100
+Tabela 5. Quantidade mínima de elementos
+EXEMPLO DE AMOSTRAGEM COM NÚMERO MÍNIMO DE
+ELEMENTOS
+POPULAÇÃO (N) MARGEM DE ERRO 5%
+ N(amostra)
+100 79
+1000 277
+2000 322
+3000 341
+5000 356
+20.000 377
+50.000 381
+100.000 383
+250.000 384
+Fonte : Elaboração do autor
+4.5 CIDADES NAS QUAIS FORAM APLICADOS OS QUESTIONÁRIOS
+A tabela 6 mostra as cidades, o número de habitantes das mesmas e também a
+quantidade de imobiliárias que atuam no mercado local.
+Tabela 6. População e quantidade de imobiliárias em cada Cidade
+Cidade Total geral de População Quantidade de Imobiliárias
+Adamantina 37.000 habitantes 06
+Assis 120.000 habitantes 12
+Presidente Epitácio 40.000 habitantes 09
+Presidente Prudente 200.000 habitantes 19
+Presidente Wenceslau 40.000 habitantes 07
+Total -0- 53
+Fonte: Elaboração do Autor
+101
+4.6 TOTAL DE RESPONDENTES DE CADA CIDADE
+A tabela 7 mostra a quantidade de respondentes em cada cidade.
+Tabela 7. Total de respondentes de cada Cidade
+Cidade Total geral de
+população
+População que usa o
+setor
+Amostra –
+respondente
+Total de
+respondentes
+Adamantina 37.000 hab. 10.000 361 361
+Assis 120.000 hab. 50.000 381 381
+Presidente
+Epitácio
+ 40.000 hab. 20.000 377 377
+Presidente
+Prudente
+200.000 hab. 70.000 382 382
+Presidente
+Wenceslau
+ 40.000 hab. 15.000 379 379
+Total -0- 165.000 1.880 1.880
+Fonte : Elaboração do próprio Autor
+4.7 ONDE FORAM COLETADOS OS DADOS
+Com se trata de uma pesquisa não probabilística, foram tomados cuidados para que
+os dados fossem mesmo confiáveis. Os cuidados foram:
+• A divisão em cotas por classe social.
+• A divisão em cotas por cada região da cidade.
+• Foram dadas instruções para que a equipe de pesquisa não entrevistasse mais que
+uma pessoa com comportamentos homogêneos.
+102
+4.8 CRITÉRIOS PARA ANÁLISE DOS RESULTADOS
+Sendo a pesquisa efetuada em duas etapas, foi estabelecido que quanto ao
+questionário de Viabilidade do Comércio Eletrônico (CE) por Empresas, no qual se avalia a
+aptidão de empresa para o e-business, deve-se obedecer ao critério elaborado por Sleight
+(2001) que diz: “Somar os pontos para verificar o desempenho, caso a empresa consiga
+apenas 12 a 24 pontos, as habilidades para o e-business são bem limitadas; a empresa que
+conseguir de 25 a 36 pontos tem uma boa noção de parte do e-business, e a empresa que
+somar de 37 a 48 pontos tem todas condições e noções de e-business”. A contagem dos
+pontos é a seguinte: a questão respondida com “nunca” tem valor de um ponto, se
+respondida “às vezes” tem valor de 2 pontos; se respondida com “várias vezes” tem valor de
+3 pontos e se respondida “sempre” tem valor de 4 pontos. O questionário da Utilização do
+Comércio Eletrônico, por parte dos usuários do Setor Imobiliário, deverá ser analisado
+estatisticamente em análise percentual simples.
+4.9 ANÁLISE DOS DADOS
+Conforme resultados da pesquisa (vide anexo), nota-se pontos de especial importância
+que precisam ser ressaltados em análise.
+103
+4.9.1 Análise dos resultados obtidos nas imobiliárias
+Os dados obtidos nas imobiliárias mostram que 65% das empresas do setor ainda não
+possuem um site imobiliário ou ainda não possuem um e-business.
+Para os 35% que possuem os negócios na Internet, disseram que a procura pela
+empresa melhorou, os lucros aumentaram e, por conseqüência, a empresa ficou mais
+conhecida.
+Analisando separadamente por cidades, verifica-se que, nas cidades com população
+inferior a 50.000 habitantes, o e-business é praticamente desconhecido, pois somente 10%
+apresentam pontuação acima de 36 pontos, ficando 72% com pontos inferiores a 24. Nesses
+casos segundo Sleight (2001) suas habilidades são bem limitadas para o e-business.
+Na cidade de Adamantina foram pesquisadas cinco imobiliárias sendo que apenas
+uma pratica o Comércio Eletrônico, as quatros restantes, através de seus encarregados,
+disseram ter dificuldades em adotá-lo como estratégia de negócio. Em Assis, existem quatro
+imobiliárias que tem no C.E as bases para o desenvolvimento, sendo que as oito restantes
+acreditam no e-business, mas ainda não tem condições de implantá-lo. Na cidade de
+Presidente Epitácio apenas uma imobiliária adota do C.E e o restante mostrou-se interessada
+em adotá-lo. A pesquisa na cidade de Presidente Prudente concluiu que doze imobiliárias já
+têm o Comércio Eletrônico como estratégia para melhorar os negócios, sendo que as sete
+restantes tem dificuldades para implantá-lo; já na cidade de Presidente Wenceslau apenas
+uma imobiliária pratica o C.E como forma de viabilidade do negócio.
+Nota-se que, das 53 empresas pesquisadas que constitui a totalidade, somente 19
+praticam o Comércio Eletrônico, perfazendo um total de 35%, sendo que as demais 65%
+não reconhecem o C.E como uma forma de melhorar e viabilizar os negócios.
+104
+4.9.2 Análise de dados sobre a utilização do Comércio Eletrônico por parte
+dos usuários do setor imobiliários.
+Inicialmente, para a caracterização dos usuários, a maioria (64%) é do sexo
+masculino, sendo 70% casados em uma faixa etária de 36 a 45 anos, sendo que, para o setor
+em evidência, a faixa de 18 a 25 anos não apresenta representatividade, pois apresenta
+percentual de 13% apenas.
+Quanto à renda familiar, a maior incidência está na faixa de R$ 501,00 a R$ 1.000,00
+que apresenta uma porcentagem de 34% dos respondentes, ficando 20% na faixa de R$
+1.001,00 a R$ 2.000,00, 10% que ganham até $300,00 e 8% que ganham acima de R$
+2.000,00.
+A tabela 8 apresenta dados sobre a caracterização dos respondentes das respectivas
+cidades, bem como a média geral de cada item.
+105
+Tabela 8 - Elaborada pelo autor da dissertação
+Obj.específico
+Caracterização dos
+usuários
+Adamant
+ina
+Assis Presidente
+Prudente
+Presidente
+Wenceslau
+Presidente
+Epitácio
+Média
+Geral
+Quanto ao Sexo?
+Masculino
+Feminino
+46%
+54%
+76%
+24%
+ 80%
+ 20%
+82%
+18%
+78%
+22%
+72,4%
+27,6%
+Estado Civil ?
+Solteiro
+Casado
+Separado
+Outro
+12%
+68%
+10%
+10%
+18%
+74%
+ 6%
+2%
+12%
+76%
+10%
+ 2%
+38%
+53%
+6%
+3%
+12%
+81%
+6%
+1%
+18,4%
+70,4%
+07,6%
+03,6%
+Renda Familiar?
+Até R$ 300
+301 a 500
+501 a 1000
+1001 a 2000
+mais que 2000
+10%
+39%
+36%
+12%
+3%
+15%
+29%
+42%
+10%
+ 4%
+3%
+13%
+22%
+46%
+16%
+12%
+16%
+31%
+26%
+15%
+13%
+31%
+40%
+10%
+6%
+10,6%
+25,6%
+34,2%
+20,8%
+08,8%
+Faixa etária?
+18 a 25 anos
+26 a 35 anos
+36 a 45 anos
+46 a 55 anos
+acima de 55
+22%
+26%
+39%
+10%
+ 3%
+12%
+30%
+42%
+10%
+2%
+14%
+31%
+40%
+15%
+0%
+6%
+46%
+39%
+7%
+2%
+15%
+35%
+40%
+10%
+6%
+13,8%
+33,6%
+40,0%
+10,4%
+02,6%
+Grau de instrução?
+1º grau-fundamental
+2º grau-médio
+Universitário
+Mestrado
+Doutorado
+Outros
+26%
+45%
+29%
+0%
+0%
+52%
+22%
+26%
+0%
+0%
+23%
+41%
+36%
+0%
+0%
+18%
+52%
+30%
+0%
+0%
+48%
+42%
+10%
+0%
+0%
+33,4%
+40,4%
+26,2%
+ 0%
+ 0%
+Dando seqüências às questões, foram feitas perguntas sobre a Internet, as quais
+abordam quanto ao uso do computador, confiança, segurança, lealdade e vantagens que o
+setor possa oferecer para os usuários.
+Quando perguntado se possui computador, 84% disse não; mas quando perguntado se
+acessa a Internet, 92% disse já ter acessado, sendo 12% de casa, 60% do trabalho, 14% do
+local de estudo e 6% de outros locais. Sobre a duração de tempo por dia na Internet o maior
+destaque está no acesso até uma hora que foi de 85%.
+Para as questões sobre compra na Internet, apenas 2% já compraram através da
+mesma, sendo que 89% nunca utilizou para compra, mas 78% diz que compraria ou
+106
+alugaria um imóvel pela Internet e que aproveitaria das vantagens como: pagamento via
+cartão de crédito, rapidez na negociação e eliminação do intermediário. Quando solicitados
+sobre quais o sucesso de uma site imobiliário, 78% atribuiu as estratégias de marketing, 78%
+se as informações contidas forem completas, 61% se o cumprimento e atendimento pelos
+funcionários forem de qualidade; apenas 35% preferem serviços personalizados, mas 90%
+também querem a visão interna e externa do imóvel. Para melhor visualização dos resultados
+da pesquisa, foram confeccionados gráficos, conforme mostra as figuras abaixo
+A figura 8 mostra que apenas 31% dos entrevistados possui computador (ver figura 8)
+Possui computador?
+Sim 31%
+Não 69%
+ Quanto ao local de acesso a Internet, nota-se que a maioria (61%) acessa do trabalho, mas é relevante
+observar que 51% tem acesso do local de estudo.
+Se acessa a Internet, de que local?
+Casa 22%
+Local de estudo 51%
+Trabalho 61%
+Outros lugares 13%
+Figura 8. Elaboração do autor
+107
+ Quanto ao tempo de horas diárias destinadas ao uso da Internet é expressivo que dos 65% dos
+entrevistados utiliza apenas uma hora.
+ Quantas horas/dia usa a Internet?
+Até 1 hora 65%
+de 1 a 2 horas 13%
+mais de 2 horas 17%
+não usa 15%
+ Quando perguntado se já usou Internet para fazer compras 82% disse nunca ter usado.
+Quantas vezes já usou a Internet para se fazer compras?
+Figura 9. Elaboração do Autor
+Figura 10. Elaboração do autor.
+108
+Uma só vez 4%
+Esporadicamente 10%
+Periodicamente 4%
+Nunca usou 82%
+ Sobre as informações contidas na Internet, 75% dos entrevistados acham completas.
+Acha completa as informações contidas na Internet para comprar?
+Sim 75%
+Não 25%
+ A figura 13, é importante pois do número de entrevistados 76% compraria e 80% alugaria um
+imóvel através da Internet.
+Figura 11. Elaboração do autor.
+Figura 12. Elaboração do autor.
+109
+Compraria ou alugaria um imóvel pela Internet?
+Compraria 76%
+Não compraria 24%
+Alugaria 80%
+Não Alugaria 20%
+ Sobre as vantagens creditadas a uma empresa do setor imobiliário com site na Internet, 70%
+dos entrevistados dão destaque as diferentes formas de pagamento, 62% acham importante o cartão
+de crédito ou débito como uma forma importante de pagamento, sendo que 37% da importância a
+eliminação do intermediário.
+Quais as vantagens financeiras que você creditaria a uma empresa do setor
+imobiliário que tem site na Internet?
+Diferentes formas de pagamento 70%
+Pagamento via cartão de crédito 62%
+Rapidez da transação 33%
+Eliminar o intermediário 37%
+Outros 0
+Figura 13. Elaboração do autor.
+Figura 14. Elaboração do autor.
+110
+ A figura 15 mostra que para os entrevistados, um site imobiliário terá sucesso se usar bem
+Marketing, as informações forem completas e se der destaque para uma visão interna e externa do
+imóvel.
+Para você, um site imobiliário terá sucesso se:
+Utilizar bem a estratégia de marketing 87%
+As informações contidas forem completas 80%
+O cumprimento e o atendimento pelos 63%
+funcionários forem de qualidade
+Se prestar serviço personalizado 45%
+Oferecer a visão interna e externa do imóvel 88%
+ Os gráficos abaixo referem-se as questões do anexo dois:
+ Quando perguntado sobre o tempo que a empresa esta CE, 35% afirma estar em apenas um
+ano, sendo que 65% não se utiliza do mesmo.
+Quanto ao tempo que a empresa utiliza-se do CE?
+Até 1 ano 35%
+de 1 a 5 anos 0%
+não usa 65%
+Figura 15. Elaboração do autor.
+Oferecer a
+visão interna e
+externa do
+imóvel
+111
+ Para as empresas que utiliza-se do CE foi perguntado sobre a sua existência anterior a implantação do
+mesmo e 100% disse que já existia antes da utilização.
+A empresa já existia antes da implantação e utilização do comércio eletrônico?
+Sim 100%
+Não 0%
+ A figura 18, mostra que com a implantação do CE 100% das empresas teve maior procura,
+para 90% os lucros aumentaram e apenas 5% disseram que os problemas rotineiros aumentaram.
+ Com a implantação no comércio eletrônico, você percebeu que:
+a procura melhorou 100%
+Figura 16. Elaboração do autor.
+Figura 17. Elaboração do autor.
+112
+os lucros da empresa aumentaram 90%
+os problemas rotineiros aumentaram 5%
+Outros 0%
+Figura 18. Elaboração do autor.
+113
+CONCLUSÃO
+Este trabalho buscou, através de um estudo de campo, fornecer importantes subsídios
+para entender o cenário atual da administração do CE e elaborar suas tendências,
+possibilitando avaliar os estágios de evolução e seus desafios.
+Para apresentar as conclusões do presente trabalho, é preciso não só retomar a
+pergunta de pesquisa, bem como os objetivos propostos, quais sejam:
+Pergunta da pesquisa:
+• Quais as perspectivas do comércio Eletrônico tornar-se uma estratégia administrativa
+financeira viável ao setor imobiliário em cidades de médio porte?
+Objetivo Geral:
+• Estudar o comércio Eletrônico no setor Imobiliário em cidades com menos de 200
+mil habitantes.
+Para responder, então, à pergunta de pesquisa e, conseqüentemente, verificar se o
+objetivo geral foi atendido, é preciso desenvolver uma análise do todo já apresentado.
+As aplicações do Comércio Eletrônico mais intensamente utilizadas pelas empresas
+pesquisadas ainda são basicamente aquelas que podem ser consideradas como bastante
+assimiladas nesse novo ambiente virtual, incluindo home-page, e-mail e troca eletrônica de
+dados.
+A utilização das aplicações de CE para a integração das empresas com seus clientes já
+é praticada por aproximadamente 35% das empresas pesquisadas, destacando-se aquelas que
+estão nas cidades pesquisadas.
+114
+Atualmente, as imobiliárias utilizam as aplicações do CE principalmente nos
+processos referentes a produtos e serviços. As imobiliárias prevêem que os próximos
+processos a serem apoiados nas novas tecnologias serão os referentes à utilização das
+estratégias de marketing, às transações virtuais, à prestação de serviços personalizados e à
+troca de informações com segurança e lealdade, bem como às diferentes formas de
+pagamentos, à rapidez na transação e à possível eliminação do intermediário.
+Como técnica de alavancagem, Seybold (2000) aponta o Comércio Eletrônico uma
+das principais abordagens para a viabilização do setor, afirmando que se deve facilitar os
+negócios para o cliente, fomentar a lealdade, redesenhar os processos de negócios sob a ótica
+do cliente e conectar a empresa para obter lucro.
+O desempenho da infra-estrutura de comunicação -Internet- utilizada pelas aplicações
+de CE ainda não restringe a sua utilização pelas empresas. Essa situação, no entanto, pode vir
+a restringir a expansão dos processos que envolvam transações. As mudanças tecnológicas
+atuais demonstram que o ambiente está sendo preparado para evitar tal situação.
+Os aspectos avaliados como relevantes na pesquisa revelam amplamente a necessidade
+de um maior investimento e divulgação no setor, mas evidencia que a Internet e Web são
+pontos que devem ser tomados como destaque no setor, pois a grande maioria dos clientes já
+acessaram a Internet e quase a totalidade diz que alugaria ou compraria um imóvel através de
+um site, que é uma característica do CE.
+Os clientes avaliam como mais importantes os aspectos de segurança e legalidade, o
+que é considerado coerente com a utilização e tendência, ou seja, a busca pela utilização do
+CE nos processos que envolvam as transações exige, hoje, um ambiente com segurança mais
+efetiva, ao mesmo tempo em que a característica desse ambiente virtual exige revisão e
+adequação dos aspectos legais para sua expansão.
+115
+A mudança mais importante está relacionada à distinção que as empresas fazem entre
+os vários aspectos, deixando de considerar importante tudo ao mesmo tempo e privilegiando
+aqueles aspectos relativos à segurança, ao atendimento e à privacidade, condição necessária
+para o desenvolvimento do CE.
+Para Seybold (2000), a Internet e World Wib Web cativaram os corações e mentes dos
+marqueteiros de todo mundo. Portanto, observando a pesquisa, é mais do que a hora de
+refletir sobre o que significa esta mudança fundamental no panorama empresarial de uma
+empresa imobiliária. Então, por que não fazer uma análise abrangente de como concentrar
+todos os investimentos, os já efetuados em tecnologia de informação ou os que ainda poderão
+ser feitos, em uma única estratégia vencedora, que é facilitar os negócios do cliente.
+O aspecto que deve receber maior atenção das empresas é a adequação organizacional
+e tecnológica, pois nota-se um diferencial das maneiras de administrar das empresas da velha
+economia, com as imobiliárias que já estão no e-business , que é a regra da nova economia.
+Outros aspectos que também influenciam o setor virtual imobiliário é o relacionamento com
+fornecedores, os sistemas eletrônicos de pagamento que juntos viabilizam a utilização das
+aplicações do CE para a realização de transações.
+A pesquisa mostrou ainda que o CE será consolidado com a melhoria do
+relacionamento e será ele o grande facilitador da integração eletrônica das imobiliárias com
+os clientes. Essa situação garante melhores armas competitivas para as empresas, a exploração
+de novas oportunidades e a utilização de novos canais de venda e aluguel.
+Os resultados da pesquisa possibilitam concluir que as empresas que já estão
+efetivamente utilizando o CE se deparam hoje com um novo cenário mais promissor, um
+marketing mais avançado, maior fidelidade do cliente, mais perspectiva de lucro e a empresa
+mais conhecida. Isso acarreta um volume maior de negócios e um dinamismo que podem
+trazer mais viabilidade.
+116
+A pesquisa, também, mostrou que os investimentos em empresas virtuais são mais
+baratos, sendo, inicialmente, preciso uma home-page e um serviço de e-mail monitorado e a
+empresa já está no e-commerce. Sobre o tempo de acesso, a maioria informou que se
+utilizada da Internet por uma hora, o que pode-se concluir que os sites devem ser simples,
+sem muitos links, apresentando somente o essencial, pois o usuário tem passagem rápida
+pela página e quer praticidade.
+As empresas que ainda não praticam o e-business, responderam que pretende fazer do
+e-commerce sua nova estratégia de negócios, acreditando que com as imobiliárias que já
+pratica, poderão melhora os serviços, a procura e conseqüentemente os lucros.
+A pesquisa indicou também que o site imobiliário da mais opções em formas de
+pagamentos, podendo ser usado os cartões de crédito e débito, cheques eletrônicos e outros, o
+que elimina o intermediário e agiliza a transação.
+Acredita-se que os objetivos da pesquisa foram atendidos, pois responde a pergunta
+de pesquisa sobre as perspectivas do comércio eletrônico tornar-se uma estratégia
+administrativa financeira viável ao setor imobiliário em cidades de médio porte, haja visto
+que 80% dos entrevistados utilizariam dos serviços de aluguel e compras, conforme mostrou a
+figura 12.
+É possível aconselhar às empresas que ainda não se utilizam do Comércio
+Eletrônico a necessidade de uma mudança para o mundo virtual, buscando assim atender às
+solicitações dos clientes usuários.
+117
+REFERÊNCIAS
+ALBERTIN, Luiz Alberto. Administração de Informática - Funções e fatores críticos de
+sucesso. 2. ed.São Paulo: Atlas,1999.
+ANSOFF, H.I. e McDONNELLI.,E.J. Implantando a Administração Estratégica. São
+Paulo: Atlas,1993.
+BALLS, John D. E-Business e ERP: transformando as organizações. Tradução: Bazan
+Tecnologia e Lingüística 1. ed. Rio de Janeiro: Qualitymark, 2001.
+BARROS, J.C. e SAMARA, B.S. Pesquisa de Marketing: conceitos e Metodologia. 3. ed.
+São Paulo.Editora Prentice Hall, 2002.
+BATEMAN, Thomas S. e SNELL, Scott A. Administração - Construindo vantagem
+competitiva. Tradução de Celso A. Romoli. São Paulo: Atlas, 1998.
+BENNIS,W.G. Organizando o futuro. 5. ed. São Paulo: Atlas,1999.
+BERGAMINI, C.W. Motivações nas organizações. 4. ed.. São Paulo: Atlas, 1997.
+BIO, Sergio Rodrigues. Sistemas de Informação na Administração de Empresas. São
+Paulo: Atlas,1999.
+CAMPOS, Vicente Falconi. TQC, Controle da Qualidade Total (no estilo japonês). 5. ed.
+Minas Gerais: Fundação Ottoni, 1992.
+CARDOSO, Mario Sérgio. CRM, em Ambiente e-business. São Paulo: Atlas, 2001.
+CASTELLS, M.. Sociedade em Rede. São Paulo: Paz e Terra, 1999.
+CASTRO, Álvaro. Propaganda e Mídia Digital: A Web como a grande mídia do presente. 1.
+ed. Rio de Janeiro: Qualitymark, 2000.
+CASSEL, C. e SYMON, G. Qualitative Methods in Organizational Research: A Practical
+Guide. UK, SAGE Publications Ltd, 1995.
+CHIAVENATO, Idalberto. Introdução à teoria geral da administração. São Paulo:
+Mcgraw-Hill do Brasil, 1983
+___________.Administração nos novos tempos. 6. ed. Rio de Janeiro: Campos, 2001.
+COOPER, D.R. e SCHINDLER, P.S .Business Research Methods. McGraw-Hill Irwin,
+2000.
+CYCLADES. Guia Internet de Conectividade. 2. ed. São Paulo: Cyclades, 1996.
+DAVENPORT, Thomas; PRUSAK, Laurence. Conhecimento empresarial. Tradução de
+Lenke Peres. Rio de Janeiro: Campus, 2001.
+118
+DEMING, W.E. Qualidade: a revolução da administração. Rio de Janeiro: Saraiva, 1973
+DONAIRE, Denis e ANDRADE,Gilberto.Princípios de estatística básica. São Paulo: Atlas,
+1979.
+DRUCKER, P. F. Administrando para o futuro: os anos 90 e a virada do século. São Paulo:
+Pioneira, 1991.
+_________.Sociedade pós-capitalista. Tradução de Nivaldo Montigelli Jr. São Paulo:
+Pioneira, 1999.
+_________. Inovação e espírito empreendedor - Prática e Princípios. Tradução: Carlos J.
+Malferrari. São Paulo: Pioneira, 1980.
+EBEN, Frankenberg. Um e-business para sua empresa. In: HSM. Management. São Paulo:
+2001, p.18-22.
+ERCILIA, Maria. A Internet. São Paulo: Publifolha, 2000.
+FERNANDES, José Munhoz. Percepção gerencial do sistema de acompanhamento e
+desenvolvimento profissional. 1999. Dissertação (Mestrado).Universidade Federal de Santa
+Catarina, Florianópolis,1999,16l p.
+FERNANDES, Manoel. Riqueza invisível. In: Revista Veja, São Paulo, ed. 1634, p. 124 -
+125, fevereiro, 2000.
+FERREIRA, Aurélio Buarque de Holanda. Novo Aurélio século XXI: o dicionário da língua
+portuguesa. 3. ed. Rio de Janeiro: Nova Fronteira, 1999.
+FORGIONI, Paula A. Apontamentos sobre aspectos jurídicos do e-commerce. In: RAE, São
+Paulo, v. 40, p.70 – 82, ano 2000.
+FRANCO JR. E-Business, tecnologia de informação e negócios na Internet. São Paulo:
+Atlas, 2001.
+GATES, Bill. A estrada do Futuro. São Paulo: Companhia das Letras, 1999.
+GALBRAITH, J.R. Organizando para competir no futuro. São Paulo: Makron Books,
+1995.
+GARTNER GROUP. Disponível em <http://www.gartner.com> .Acesso em 25 jul./2003.
+GIL, A.C.. Métodos de técnicas de Pesquisa Social.São Paulo: Atlas, 1998.
+GODOY, Arilda Schmidt. Pesquisa Qualitativa. In: Revista de Administração de Empresas
+RAE, São Paulo, v. 35, n.3, p.20-29. maio/junho.1995.
+HAMEL, G. e PRAHALAD, C.K. Competindo pelo futuro. Rio de Janeiro: Campus, 1980.
+HANGUE, Paul e JACKSON, Peter. Faça sua própria pesquisa de mercado.Tradução de
+Luiza Roxo Pimentel. São Paulo: Nobel, 1997.
+119
+HOBSBAWM, E. Era dos extremos – o Breve Século XX- 1914-1991. São Paulo: Cia das
+Letras, 1997.
+ISS-Socinfo. Security Architecture and Incident Mangement for E-business. Disponível em
+<http://www.iss.net> Acesso em 31 jul./2003, 20:32.
+IBM. Estratégia de sucesso para o Comércio Eletrônico. Disponível em <www.ibm.com.>
+Acesso em 20 mar/2003, 15:20.
+KALAKOTA, R. e ROBINSON, M. E-Business: Roadmap for Success, 2002.
+KOCHE, José Carlos. Fundamentos de metodologia científica. Porto Alegre: Vozes, 1985.
+LACAVA, Eunice Kwasnicka. Teoria Geral da Administração - Uma síntese. 2. ed. São
+Paulo: Atlas, 1989.
+LAUDON, K.C. e LAUDON, J. P. Management Information Systems. 4. ed. Organization
+and techonology. São Paulo: Prentice-Hall, Inc., 2001.
+___________________, Tecnology and Knowledge management. 1. ed. Organization and
+technology. São Paulo: Printice- Hall, Inc., 2002.
+LÉVY, Pierre. As tecnologias da inteligência- O futuro do pensamento da era da
+informática.Tradução de Carlos Irineu da Costa. São Paulo: 34 Ltda,1993.
+MINISTÉRIO DA CIÊNCIA E TECNOLOGIA. Livro Verde da Sociedade da Informação
+no Brasil. Brasília : 2001.
+LODI, João Bosco. História da Administração. São Paulo: Pioneira, 1998.
+MALHOTRA, Nareh, K. Pesquisa de Marketing: Uma orientação aplicada. 3. ed. Tradução
+de Nivaldo Montingelli Jr. e Alfredo Alves Farias. Porto Alegre: Bookman,2001.
+MALONE, T. W. O marketing eletrônico. Rio de Janeiro: Campos, 1987.
+MANDNICK, S. E. A plataforma da Tecnologia da Informação. São Paulo: Atlas, 1991.
+MATTAR, Fauze N. Pesquisa de Marketing. São Paulo: Atlas, 1997.
+MAXIMIANO, Antonio César Amaru. Teoria Geral da Administração: da escola cientifica
+à competitividade na economia globalizada. 2. ed. São Paulo: Atlas, 2000.
+MINTZBERG, H. The rise and fall of strategic planning. USA: The Free Press, 1994.
+MINTZBERG, H.; AHLSTRAND, B. e LAMPEL, J. Safári de Estratégia. Porto Alegre:
+Bookman, 2000.
+NAISBITT, Jonhn. Megatendências. São Paulo: Eko, 1982.
+NAKAMURA, Rodolfo R.. E-commerce na Internet. 1. ed. São Paulo: Érica Ltda, 2001.
+NORRIS,Grant et al. E-Business e ERP, transformando as organizações .Tradução de
+Bazan tecnologia . Rio de Jameiro: Qualitymark, 2001.
+120
+O’BRIEN, James. Sistemas de Informação e as decisões gerenciais na era da Internet. São
+Paulo: Saraiva, 2002.
+PASQUARELLI, Maria Luiza Rigo. O uso da informação.1993. Tese (Doutorado). Escola
+de Comunicação e Artes da Universidade de São Paulo. São Paulo, 1993, 137p.
+PERIOTTO, Álvaro José. Comércio Eletrônico: Característica e barreiras. In: Caderno de
+Administração, v. 9, p.77-96. Maringá: UEM, 2001.
+POLLONI, Enrico. G. F. Sistemas de Informação - Estudo de viabilidade.1. ed. São Paulo:
+Futura, 2001.
+PORTER, M. E. “O que é estratégia?”.Competição estratégias competitivas essenciais. Rio
+de Janeiro: Campos, 1999.
+___________. Estratégia competitiva. Rio de Janeiro: Campus, 1986.
+REBOUÇAS, Djalma P.O. Planejamento estratégico - Conceitos, metodologia e práticas.14.
+ed. São Paulo:Atlas, 1999.
+ROBBINS, Stephen. Administração: mudanças e perspectivas. Tradução de Cid Knipel
+Moreira. São Paulo: Saraiva, 2000.
+SCHELL, Jim. Guia para gerenciar pequenas empresas - Como fazer a transição para uma
+gestão empreendedora. Tradução: Luiz Euclides Trindade. Rio de Janeiro: Campus, 1999.
+SEIGEL, David. Futurize sua empresa. Tradução: Bazan Tecnologia e Lingüística. São
+Paulo: Futura, 2000.
+SEVERINO, Antonio Joaquim. Metodologia de trabalho científico.São Paulo: Cortez, 2000.
+SEYBOLD, Patrícia B. Clientes.com - Como criar uma estratégia empresarial para Internet
+que proporcione lucros reais. Tradução: Maria Claudia Ratto. 3. ed., São Paulo: Makron,
+2000.
+SILVA, J.Ernesto. A tecnologia e a realização do trabalho. São Paulo: Makron,1989.
+SLEIGHT, Steve. Como usar a tecnologia da informação. Tradução de Gabriel Trajan
+Neto. São Paulo: Publifolha, 2001.
+__________. Como implantar o e-business. Tradução de Gabriel Trajan Neto. São Paulo:
+Publifolha, 2001.
+SOUZA, J. E. R.. Gestão da tecnologia e competitividade em empresas do setor de
+autopeça. São Paulo: Editora da USP, 1993.
+STAIR, R. M. e REYNOLDS, George W. Princípios de Sistemas de Informação. 4. ed.,
+Rio de Janeiro: LTC, 2002.
+STANLEY, A.B. CRM- Customer Relationship Management- Uma ferramenta para o
+mundo e-business. São Paulo: Makron, 2002.
+121
+STORNE, James A.; FREEMAN, Edward. Administração. Tradução: Alves Calado.Rio de
+Janeiro: Prentice-Hall do Brasil, 1985.
+TACHIZAWA, Takeshy. Gestão de Negócios: visões e dimensões empresariais da
+organização.1. ed., São Paulo: Atlas, 2001.
+TAPSCOTT, Don; LOWY, Alex e TICOLL, David. Plano de uma economia digital:
+Prosperando na nova era do e-business. Tradução de Maria Claudia Ratto.São Paulo: Makron
+Books, 2000.
+______________, Economia digital. Tradução de Maria Claudia Ratto. São Paulo: Makron
+Books, 1999.
+TEBOUL, James.Gerenciamento a dinâmica da qualidade. Rio de Janeiro: Qualitymark,
+1991.
+TEXEIRA, Jayme Filho. Eletrônico comércio.1. ed., Rio de Janeiro: Senac, 2001.
+TOFFLER, Alvin. Choque do Futuro. Rio de Janeiro: Record, 1992.
+TRIVIÑOS, Augusto Nivaldo Silva. Introdução à pesquisa em Ciências Sociais. São Paulo:
+Atlas, 1995.
+VICO, Mañas Antonio. Gestão de tecnologia e inovação. São Paulo: Érica, 1993.
+YIN, Robert K. Estudo de Caso: Planejamento e Métodos. Tradução: Daniel Grasi. 2. ed.,
+Porto Alegre: Bookman,2001
+122
+ANEXOS
+123
+Anexo 1
+Pesquisa : Viabilidade do Comércio Eletrônico no Setor Imobiliário
+I-Utilização do Comércio Eletrônico por parte dos usuários do setor imobiliário
+A- CARACTERIZAÇÃO
+1- Sexo
+( ) masculino ( ) feminino
+2- Estado Civil
+( ) solteiro ( ) casado ( ) separado ( ) outro
+3- Faixa Etária
+( ) de 18 a 25 anos
+( ) de 26 a 35 anos
+( ) de 36 a 45 anos
+( ) de 46 a 55 anos
+( ) acima de 55 anos
+4-Renda Familiar
+( ) até R$ 300,00 ( ) de R$ 301,00 a R$ 500,00 ( ) R$ 501,00 a R$ 1.000,00
+( ) de R$ 1.001,00 a R$ 2.000,00 ( ) mais que R$ 2.000,00
+5-Grau de Instrução
+( ) 1º Grau ( ensino fundamental) ( ) 2º grau ( ensino médio )
+( ) universitário ( ) mestrado ( ) doutorado ( ) outros
+B- ACESSO E USO DA INTERNET
+6-Possui computador?
+( ) sim ( ) não
+7-Se acessa a Internet, de que local ?
+( ) casa ( ) local de estudo ( ) trabalho ( ) outros lugares ___________
+8-Quantas horas/dia usa a Internet ?
+( )até uma hora ( ) de 1 a 2 horas ( ) mais de 2 horas ( ) não usa
+9-Quantas vezes já usou a Internet para fazer compras?
+( ) uma só vez
+( ) esporadicamente ( ) nunca usou
+124
+( ) periodicamente
+10-Acha completas as informações contidas na Internet para comprar ?
+( ) sim ( ) não
+11- Compraria ou alugaria um imóvel pela Internet?
+( ) compraria ( ) não compraria
+( ) alugaria ( ) não alugaria
+12-Quais vantagens financeiras que você creditaria a uma empresa do setor
+imobiliário que tem um site na Internet?
+( ) diferentes formas de pagamentos
+( ) pagamento via cartão de crédito
+( ) rapidez na transação
+( ) eliminar o intermediário
+( ) outros
+13- Assinale uma ou mais alternativas.
+Para você um site imobiliário terá sucesso se :
+( ) utilizar bem as estratégias de marketing
+( ) as informações contidas forem completas
+( ) o cumprimento e atendimento pelos funcionários forem de qualidade
+( ) se prestar serviço personalizado
+( ) oferecer a visão interna e externa do imóvel
+125
+Anexo 2
+Pesquisa : Viabilidade do Comércio Eletrônico no Setor Imobiliário
+Adoção do Comércio Eletrônico por Empresa/ Empreendedor do Setor Imobiliário
+ Nome da Empresa:
+_________________________________________________________________________
+Atividade :
+ ( ) só aluguel ( ) compra/ venda/ aluga
+ ( ) compra/ venda ( ) administração do setor imobiliário
+Endereço :
+_________________________________________________________________________
+Cidade ___________________________________________________________________
+Responsável pelas Informações _______________________________________________
+Cargo_________________________________Fone/Fax____________________________
+e- mail____________________________________________________________________
+II- Somente para empresa que já possui um Site de Comércio Eletrônico.
+1- Assinale o tempo que a empresa utiliza-se do comércio eletrônico ?
+( ) até um ano ( ) de um a cinco anos ( ) mais de cinco anos
+2- A empresa já existia antes da implantação e utilização do Comércio
+Eletrônico?
+( ) sim ( ) não
+3- Assinale uma ou mais alternativas .
+Com a implantação no comércio eletrônico, você percebeu que:
+( ) a procura pela empresa melhorou
+( ) os lucros da empresa aumentaram
+( ) os problemas rotineiros aumentaram
+ ( ) outros _______________________
+III- Somente para empresas / empreendedores que pretendem implantar um Site de
+comércio eletrônico.
+126
+4- Reavalia suposições sobre estratégias de negócios?
+( ) não ( ) às vezes ( ) várias vezes ( ) sempre
+5- Pensa em meios novos e mais eficientes de usar a tecnologia da informação?
+( ) não ( ) às vezes ( ) várias vezes ( ) sempre
+6- Ajuda a equipe a se informar sobre as oportunidades do e-business?
+( ) não ( ) às vezes ( ) várias vezes ( ) sempre
+7- Desenvolve estratégias concentrando-se nas necessidades da clientela?
+( ) não ( ) às vezes ( ) várias vezes ( ) sempre
+8- Procura formas alternativas de oferecer valor ao cliente do que a
+concorrência ?
+( ) não ( ) às vezes ( ) várias vezes ( ) sempre
+9- Monitora os sites na Internet de concorrentes?
+( ) não ( ) às vezes ( ) várias vezes ( ) sempre
+10- Usa um método dinâmico de planejamento para ampliar o e-business?
+( ) não ( ) às vezes ( ) várias vezes ( ) sempre
+11-Incentiva a equipe a sugerir e implementar aperfeiçoamentos?
+( ) não ( ) às vezes ( ) várias vezes ( ) sempre
+12- Oferece a equipe treinamento regular para enfrentar as mudanças?
+( ) não ( ) às vezes ( ) várias vezes ( ) sempre
+13- Procura meios de integrar funções separadas num processo continuo ?
+( ) não ( ) às vezes ( ) várias vezes ( ) sempre
+14- Conhece e satisfaz as expectativas dos clientes?
+( ) não ( ) às vezes ( ) várias vezes ( ) sempre
+15- Procura modos de tornar mais eficientes a relação com o fornecedor (cedentes
+de imóveis)?
+( ) não ( ) às vezes ( ) várias vezes ( ) sempre
+127
+Anexo 3- Resultado de pesquisa efetuada na Cidade de Assis
+I-Utilização do Comércio Eletrônico por parte dos usuários do setor imobiliário
+C- CARACTERIZAÇÃO
+4- Sexo
+(76% ) masculino (24% ) feminino
+5- Estado Civil
+(18% ) solteiro (74% ) casado (6% ) separado (2% ) outro
+6- Faixa Etária
+(12% ) de 18 a 25 anos
+(30% ) de 26 a 35 anos
+(42% ) de 36 a 45 anos
+(10% ) de 46 a 55 anos
+(06% ) acima de 55 anos
+4-Renda Familiar
+(15% ) até R$ 300,00 (29% ) de R$ 301,00 a R$ 500,00 (42% ) R$ 501,00 a R$
+1.000,00
+(10% ) de R$ 1.001,00 a R$ 2.000,00 (4% ) mais que R$ 2.000,00
+5-Grau de Instrução
+(52% ) 1º Grau ( ensino fundamental) (22% ) 2º grau ( ensino médio )
+(26% ) universitário (0% ) mestrado (0% ) doutorado (0% ) outros
+D- ACESSO E USO DA INTERNET
+6-Possui computador?
+(40% ) sim (60% ) não
+7-Se acessa a Internet, de que local ?
+(26% ) casa (31% ) local de estudo (23% ) trabalho (10% ) outros lugares
+___________
+8-Quantas horas/dia usa a Internet ?
+(52% )até uma hora (17% ) de 1 a 2 horas (19% ) mais de 2 horas (12% ) não
+usa
+9-Quantas vezes já usou a Internet para fazer compras?
+(3% ) uma só vez
+128
+(6% ) esporadicamente (81% ) nunca usou
+(10% ) periodicamente
+10-Acha completa as informações contidas na Internet para comprar ?
+(76% ) sim (24% ) não
+11- Compraria ou alugaria um imóvel pela Internet?
+(81% ) compraria (19% ) não compraria
+(81% ) alugaria (19% ) não alugaria
+12-Quais vantagens financeiras que você creditaria a uma empresa do setor
+imobiliário que tem um site na Internet?
+(65% ) diferentes formas de pagamentos
+(60% ) pagamento via cartão de crédito
+(36% ) rapidez na transação
+(53% ) eliminar o intermediário
+(12% ) outros
+13- Assinale uma ou mais alternativas.
+Para você um site imobiliário terá sucesso se :
+(90% ) utilizar bem as estratégias de marketing
+(86% ) as informações contidas forem completas
+(62% ) o cumprimento e atendimento pelos funcionários forem de qualidade
+(53% ) se prestar serviço personalizado
+(93% ) oferecer a visão interna e externa do imóvel
+129
+Anexo 4-Resultado da Pesquisa aplicada na Cidade de Adamantina
+I-Utilização do Comércio Eletrônico por parte dos usuários do setor imobiliário
+E- CARACTERIZAÇÃO
+7- Sexo
+(46% ) masculino (54% ) feminino
+8- Estado Civil
+(12% ) solteiro (68% ) casado (10% ) separado ( 20%) outro
+9- Faixa Etária
+(22% ) de 18 a 25 anos
+(26% ) de 26 a 35 anos
+(39% ) de 36 a 45 anos
+(10% ) de 46 a 55 anos
+(03% ) acima de 55 anos
+4-Renda Familiar
+(10% ) até R$ 300,00 (39% ) de R$ 301,00 a R$ 500,00 (36% ) R$ 501,00 a R$
+1.000,00
+(12% ) de R$ 1.001,00 a R$ 2.000,00 (3% ) mais que R$ 2.000,00
+5-Grau de Instrução
+(26% ) 1º Grau ( ensino fundamental) (45% ) 2º grau ( ensino médio )
+(29% ) universitário ( ) mestrado ( ) doutorado ( ) outros
+F- ACESSO E USO DA INTERNET
+6-Possui computador?
+(18% ) sim (82% ) não
+7-Se acessa a Internet, de que local ?
+(13% ) casa (62% ) local de estudo ( 70%) trabalho (20% ) outros lugares
+___________
+8-Quantas horas/dia usa a Internet ?
+(80% )até uma hora (12% ) de 1 a 2 horas (6% ) mais de 2 horas ( 2%) não usa
+9-Quantas vezes já usou a Internet para fazer compras?
+(2 ) uma só vez
+(6% ) esporadicamente (86% ) nunca usou
+130
+( 4%) periodicamente
+10-Acha completa as informações contidas na Internet para comprar ?
+(95% ) sim (5% ) não
+11- Compraria ou alugaria um imóvel pela Internet?
+(76% ) compraria (24% ) não compraria
+(76% ) alugaria (24% ) não alugaria
+12-Quais vantagens financeiras que você creditaria a uma empresa do setor
+imobiliário que tem um site na Internet?
+(72% ) diferentes formas de pagamentos
+(70% ) pagamento via cartão de crédito
+(30% ) rapidez na transação
+(90% ) eliminar o intermediário
+(30% ) outros
+13- Assinale uma ou mais alternativas.
+Para você um site imobiliário terá sucesso se :
+(78% ) utilizar bem as estratégias de marketing
+(78% ) as informações contidas forem completas
+(61% ) o cumprimento e atendimento pelos funcionários forem de qualidade
+(35% ) se prestar serviço personalizado
+(90% ) oferecer a visão interna e externa do imóvel
+131
+Anexo 5 : Resultado de pesquisa realizada na cidade de Presidente Epitácio
+I-Utilização do Comércio Eletrônico por parte dos usuários do setor imobiliário
+G- CARACTERIZAÇÃO
+10- Sexo
+(78% ) masculino (22% ) feminino
+11- Estado Civil
+(12% ) solteiro 81%( ) casado (6% ) separado (1% ) outro
+12- Faixa Etária
+(15% ) de 18 a 25 anos
+(35% ) de 26 a 35 anos
+(40% ) de 36 a 45 anos
+(10% ) de 46 a 55 anos
+(0% ) acima de 55 anos
+4-Renda Familiar
+(13% ) até R$ 300,00 (31% ) de R$ 301,00 a R$ 500,00 (40% ) R$ 501,00 a R$
+1.000,00
+(10% ) de R$ 1.001,00 a R$ 2.000,00 (6% ) mais que R$ 2.000,00
+5-Grau de Instrução
+(48% ) 1º Grau ( ensino fundamental) ( 42%) 2º grau ( ensino médio )
+(10% ) universitário ( ) mestrado ( ) doutorado ( ) outros
+H- ACESSO E USO DA INTERNET
+6-Possui computador?
+(36% ) sim (64% ) não
+7-Se acessa a Internet, de que local ?
+(21% ) casa (36% ) local de estudo (48% ) trabalho (12% ) outros lugares
+___________
+8-Quantas horas/dia usa a Internet ?
+( 50%)até uma hora (12% ) de 1 a 2 horas (26% ) mais de 2 horas (12% ) não
+usa
+132
+9-Quantas vezes já usou a Internet para fazer compras?
+(1% ) uma só vez
+(8% ) esporadicamente (86% ) nunca usou
+(5% ) periodicamente
+10-Acha completa as informações contidas na Internet para comprar ?
+(68% ) sim (32% ) não
+11- Compraria ou alugaria um imóvel pela Internet?
+(78% ) compraria (22% ) não compraria
+(78% ) alugaria (22% ) não alugaria
+12-Quais vantagens financeiras que você creditaria a uma empresa do setor
+imobiliário que tem um site na Internet?
+(68% ) diferentes formas de pagamentos
+(72% ) pagamento via cartão de crédito
+(51% ) rapidez na transação
+(71% ) eliminar o intermediário
+(0% ) outros
+13- Assinale uma ou mais alternativas.
+Para você um site imobiliário terá sucesso se :
+(86% ) utilizar bem as estratégias de marketing
+(81% ) as informações contidas forem completas
+(64% ) o cumprimento e atendimento pelos funcionários forem de qualidade
+(51% ) se prestar serviço personalizado
+(86% ) oferecer a visão interna e externa do imóvel
+133
+Anexo 6- Resultado da pesquisa efetuada na cidade de Presidente Wenceslau
+I-Utilização do Comércio Eletrônico por parte dos usuários do setor imobiliário
+I- CARACTERIZAÇÃO
+13- Sexo
+( 82% ) masculino (18% ) feminino
+14- Estado Civil
+(38% ) solteiro (53% ) casado (6% ) separado (3% ) outro
+15- Faixa Etária
+(6% ) de 18 a 25 anos
+(46% ) de 26 a 35 anos
+(39% ) de 36 a 45 anos
+(7% ) de 46 a 55 anos
+(2% ) acima de 55 anos
+4-Renda Familiar
+(12% ) até R$ 300,00 (16% ) de R$ 301,00 a R$ 500,00 (31% ) R$ 501,00 a R$
+1.000,00
+(26% ) de R$ 1.001,00 a R$ 2.000,00 (15% ) mais que R$ 2.000,00
+5-Grau de Instrução
+(18% ) 1º Grau ( ensino fundamental) (52% ) 2º grau ( ensino médio )
+(30% ) universitário ( ) mestrado ( ) doutorado ( ) outros
+J- ACESSO E USO DA INTERNET
+6-Possui computador?
+(21% ) sim (79% ) não
+7-Se acessa a Internet, de que local ?
+(12% ) casa (60% ) local de estudo (60% ) trabalho (5% ) outros lugares
+___________
+8-Quantas horas/dia usa a Internet ?
+(80% )até uma hora (12% ) de 1 a 2 horas (8% ) mais de 2 horas ( ) não usa
+9-Quantas vezes já usou a Internet para fazer compras?
+134
+(6% ) uma só vez
+(10% ) esporadicamente (81% ) nunca usou
+(3% ) periodicamente
+10-Acha completa as informações contidas na Internet para comprar ?
+(52% ) sim (48% ) não
+11- Compraria ou alugaria um imóvel pela Internet?
+(71% ) compraria (29% ) não compraria
+(71% ) alugaria (29% ) não alugaria
+12-Quais vantagens financeiras que você creditaria a uma empresa do setor
+imobiliário que tem um site na Internet?
+(75% ) diferentes formas de pagamentos
+(60% ) pagamento via cartão de crédito
+(30% ) rapidez na transação
+(52% ) eliminar o intermediário
+(0% ) outros
+13- Assinale uma ou mais alternativas.
+Para você um site imobiliário terá sucesso se :
+(86% ) utilizar bem as estratégias de marketing
+(72% ) as informações contidas forem completas
+(63% ) o cumprimento e atendimento pelos funcionários forem de qualidade
+(36% ) se prestar serviço personalizado
+(76% ) oferecer a visão interna e externa do imóvel
+135
+Anexo:7 Resultado da pesquisa efetuada na Cidade de Presidente Prudente
+I-Utilização do Comércio Eletrônico por parte dos usuários do setor imobiliário
+K- CARACTERIZAÇÃO
+16- Sexo
+(80% ) masculino (20% ) feminino
+17- Estado Civil
+(12% ) solteiro (76% ) casado (10% ) separado (2% ) outro
+18- Faixa Etária
+(14% ) de 18 a 25 anos
+(31% ) de 26 a 35 anos
+(40% ) de 36 a 45 anos
+(15% ) de 46 a 55 anos
+(0% ) acima de 55 anos
+4-Renda Familiar
+(3% ) até R$ 300,00 (13% ) de R$ 301,00 a R$ 500,00 (22% ) R$ 501,00 a R$
+1.000,00
+(46% ) de R$ 1.001,00 a R$ 2.000,00 (16% ) mais que R$ 2.000,00
+5-Grau de Instrução
+(23% ) 1º Grau ( ensino fundamental) (41% ) 2º grau ( ensino médio )
+(34% ) universitário (0% ) mestrado (0% ) doutorado (0% ) outros
+L- ACESSO E USO DA INTERNET
+6-Possui computador?
+(42% ) sim (58% ) não
+7-Se acessa a Internet, de que local ?
+(40% ) casa (65% ) local de estudo (70% ) trabalho (20% ) outros lugares
+___________
+8-Quantas horas/dia usa a Internet ?
+(60% )até uma hora (12% ) de 1 a 2 horas (26% ) mais de 2 horas (2% ) não usa
+9-Quantas vezes já usou a Internet para fazer compras?
+136
+(60% ) uma só vez
+(20% ) esporadicamente (20% ) nunca usou
+(0% ) periodicamente
+10-Acha completa as informações contidas na Internet para comprar ?
+(82% ) sim (18% ) não
+11- Compraria ou alugaria um imóvel pela Internet?
+(78% ) compraria (22% ) não compraria
+(78% ) alugaria (22% ) não alugaria
+12-Quais vantagens financeiras que você creditaria a uma empresa do setor
+imobiliário que tem um site na Internet?
+(70% ) diferentes formas de pagamentos
+(50% ) pagamento via cartão de crédito
+(20% ) rapidez na transação
+(62% ) eliminar o intermediário
+(12% ) outros
+13- Assinale uma ou mais alternativas.
+Para você um site imobiliário terá sucesso se :
+(92% ) utilizar bem as estratégias de marketing
+(92% ) as informações contidas forem completas
+(65% ) o cumprimento e atendimento pelos funcionários forem de qualidade
+(52% ) se prestar serviço personalizado
+(95% ) oferecer a visão interna e externa do imóvel
+137
+Glossário
+138
+GLOSSÁRIO
+ALGORITMO: Processo de cálculo predeterminado e bem definido de regras e processos
+destinados à solução de um problema, com um número finito de etapas.
+ARPANET: Rede criada na década de 60, pelo departamento de defesa do Estados Unidos da
+América – ARPA ( Advanced Research Projects Agency), como forma de interligar
+universidades, instituições de pesquisas e militares.
+BACKBONE: Literalmente “espinha dorsal”. Termo usado para caracterizar a vida de dados
+de alta velocidade, responsáveis pela transmissão entre pontos de distribuição geográficos e
+entre servidores de uma rede.
+BBS: é um sistema no qual um ou mais computadores recebem chamadas de outros micros, e
+após a checagem, permitem que tais usuários coloquem ou retirem arquivos de seu disco.
+BIT: Contração da expressão Binard digiT, que significa dígito binário (0 ou 1).
+BROWSER: Software cliente originalmente desenhado para ler páginas HTML, na Internet.
+BYTE: Unidade que representa o conjunto de oito bits.
+BUSINESS TO BUSINESS: transações comerciais eletrônicas via Internet entre empresas.
+BUSINESS TO CONSUMER: transações comerciais entre empresas Ponto Com. e
+consumidores.
+Chat: que dizer conversa, bater papo.
+CIBERESPAÇO: Espaço eletrônico que existe no mundo dos computadores.
+CLIENTE SERVIDOR: Arquitetura computacional baseada na distribuição dos vários
+componentes de um sistema entre consumidores de recursos (clientes) e fornecedores de
+recursos (servidores).
+CRIPTOGRAFIA: Sistema de codificação de dados, convertidos de acordo com um sistema
+definido, de maneira que somente o remetente e o destinatário podem ter acesso ao conteúdo.
+139
+CRM: Customer Relationship Management é um sistema computacional com função de
+Gerenciamento dos Relacionamentos com os Consumidores.
+DATA WAREHOUSE: uma cópia dos dados de transações, estruturada especificamente no
+sistema consultas e análises.
+DESKTOP: Denominação genérica para posto de trabalho ou literalmente mesa de trabalho.
+DOMÍNIO : Nome individual, atribuído pela Internet para designar um site ou as vezes um
+conjunto de sites,
+DOWNLOAD: Ato de descarregar a cópia de um programa de um servidor para o micro do
+usuário.
+E-BUSINESS: negócios realizados por via da Internet. Incluem todo tipo de serviço
+comércio e transações.
+E-MAIL: significa correio eletrônico. Fio desenvolvido pra comunicações entre pessoas e
+empresas através de Internet.
+ERP: Software integrado que abrange todos os processos da empresa, abandonando o
+modelo até então em uso.
+EXTRANET: São páginas que quando acessadas ligam a empresa a seus clientes e
+fornecedores.
+FIREWALL: Conjunto formado por hardware e software cuja função é de erguer uma
+barreira eletrônica contra intrusos externos que querem entrar numa rede privativa.
+HARDWARE: compreende os componentes físicos da máquina (computadores).
+HIPERTEXTO: Documentos estruturados com ligações diretas a outros documentos.
+HOME PAGE: página na Internet. É também utilizada para designar a página de
+apresentação de um site.
+HOST: é um computador de maior parte.
+140
+INOVAÇÃO TECNOLÓGICA: incorporação de uma nova tecnologia no fluxo de trabalho
+de uma organização.
+INTERNET: é a rede mundial de redes, possibilitando a milhões de computadores,
+compartilharem informações entre si. É a maior rede mundial de computadores, aberta a
+todos.
+INTRANET: são páginas acessíveis apenas dentro de uma empresa.
+MODEM: Contração de expressão Modulador-DEModulador, é um dispositivo que,
+acoplado a um computador, permite a conexão de um micro a outro ou a uma rede
+remotamente, através da linha telefônica.
+OFF-LINE: termo que designa o estado de um computador quando este não está ligado a
+outro computador, mas está executando tarefas semelhantes como se estivesse conectado.
+PROCESSOS: Principais procedimentos operacionais de uma organização.
+PROTOCOLO: é um programa que serve para que os computadores se identifiquem e
+estabeleçam comunicação entre si.
+PROVEDOR: Ponto de acesso à Internet que pode oferecer diversos serviços de conexão
+como acesso individual, contas corporativas de correio eletrônico, conexões de alta
+velocidade para empresas e outros.
+SOFTWARE: é um conjunto de instruções arranjado logicamente. Os softwares básicos
+coordenam detalhes internos e gerenciam a utilização do sistema permitindo ao usuário o
+controle e uso do hardware
+TECNOLOGIA DE INFORMAÇÃO: conjunto de hardware e software que desempenha
+uma ou mais tarefas de processamento das informações do sistema de informações, tais como
+coletar, transmitir, estocar, recuperar, manipular e exibir dados.
+URL: Uniforme Resource Locador. È um endereço da Internet.
+141
+WEB: é a parte gráfica da Internet responsável pela explosão da Internet, antes restrita
+apenas a usuários localizados em Universidades e nos meios militares americanos. Baseado na
+linguagem HTML, para conseguir criar interface gráfica.
+WWW: Abreviação em inglês de World Wide Web, uma espécie de superteia de alcance
+mundial, também denominada de Web.
+.
+Livros Grátis
+( http://www.livrosgratis.com.br )
+Milhares de Livros para Download:
+Baixar livros de Administração
+Baixar livros de Agronomia
+Baixar livros de Arquitetura
+Baixar livros de Artes
+Baixar livros de Astronomia
+Baixar livros de Biologia Geral
+Baixar livros de Ciência da Computação
+Baixar livros de Ciência da Informação
+Baixar livros de Ciência Política
+Baixar livros de Ciências da Saúde
+Baixar livros de Comunicação
+Baixar livros do Conselho Nacional de Educação - CNE
+Baixar livros de Defesa civil
+Baixar livros de Direito
+Baixar livros de Direitos humanos
+Baixar livros de Economia
+Baixar livros de Economia Doméstica
+Baixar livros de Educação
+Baixar livros de Educação - Trânsito
+Baixar livros de Educação Física
+Baixar livros de Engenharia Aeroespacial
+Baixar livros de Farmácia
+Baixar livros de Filosofia
+Baixar livros de Física
+Baixar livros de Geociências
+Baixar livros de Geografia
+Baixar livros de História
+Baixar livros de Línguas
+Baixar livros de Literatura
+Baixar livros de Literatura de Cordel
+Baixar livros de Literatura Infantil
+Baixar livros de Matemática
+Baixar livros de Medicina
+Baixar livros de Medicina Veterinária
+Baixar livros de Meio Ambiente
+Baixar livros de Meteorologia
+Baixar Monografias e TCC
+Baixar livros Multidisciplinar
+Baixar livros de Música
+Baixar livros de Psicologia
+Baixar livros de Química
+Baixar livros de Saúde Coletiva
+Baixar livros de Serviço Social
+Baixar livros de Sociologia
+Baixar livros de Teologia
+Baixar livros de Trabalho
+Baixar livros de Turismo
